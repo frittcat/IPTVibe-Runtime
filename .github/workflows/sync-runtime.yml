@@ -19,12 +19,15 @@ jobs:
       - name: Checkout IPTVibe Runtime
         uses: actions/checkout@v4
 
-      - name: Fetch authorized upstream runtime data
+      - name: Fetch authorized runtime data
         shell: bash
+        env:
+          IPTVIBE_UPSTREAM_REPO: ${{ secrets.IPTVIBE_UPSTREAM_REPO }}
+          IPTVIBE_UPSTREAM_MONITOR: ${{ secrets.IPTVIBE_UPSTREAM_MONITOR }}
         run: |
           set -euo pipefail
           tmp="${RUNNER_TEMP}/iptvibe-upstream"
-          git clone --depth 1 https://github.com/gabrielsaimo/SaimoPlayer.git "$tmp"
+          git clone --depth 1 "$IPTVIBE_UPSTREAM_REPO" "$tmp"
 
           mkdir -p runtime/monitor
           rm -rf runtime/vod
@@ -33,7 +36,10 @@ jobs:
           cp "$tmp/canais.txt" runtime/canais.txt
           cp "$tmp/restritos.txt" runtime/restritos.txt
 
-          curl --fail --silent --show-error             https://saimo-monitor.gabrielsaimo68.workers.dev/v1/fontes             -o runtime/monitor/fontes.json
+          sed -i '1c# IPTVIBE - LISTA DE CANAIS' runtime/catalogo.txt
+          sed -i '1c# IPTVIBE - CANAIS RESTRITOS' runtime/restritos.txt
+
+          curl --fail --silent --show-error             "$IPTVIBE_UPSTREAM_MONITOR"             -o runtime/monitor/fontes.json
 
       - name: Commit runtime changes
         shell: bash
@@ -46,5 +52,5 @@ jobs:
           git config user.name "iptvibe-runtime-bot"
           git config user.email "137531366+frittcat@users.noreply.github.com"
           git add runtime
-          git commit -m "runtime: sync catalog, sources and monitoring"
+          git commit -m "runtime: sync IPTVibe catalog and sources"
           git push
