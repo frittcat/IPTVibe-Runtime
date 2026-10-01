@@ -1,0 +1,50 @@
+name: Sync IPTVibe runtime
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: runtime-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout IPTVibe Runtime
+        uses: actions/checkout@v4
+
+      - name: Fetch authorized upstream runtime data
+        shell: bash
+        run: |
+          set -euo pipefail
+          tmp="${RUNNER_TEMP}/iptvibe-upstream"
+          git clone --depth 1 https://github.com/gabrielsaimo/SaimoPlayer.git "$tmp"
+
+          mkdir -p runtime/monitor
+          rm -rf runtime/vod
+          cp -a "$tmp/vod" runtime/vod
+          cp "$tmp/catalogo.txt" runtime/catalogo.txt
+          cp "$tmp/canais.txt" runtime/canais.txt
+          cp "$tmp/restritos.txt" runtime/restritos.txt
+
+          curl --fail --silent --show-error             https://saimo-monitor.gabrielsaimo68.workers.dev/v1/fontes             -o runtime/monitor/fontes.json
+
+      - name: Commit runtime changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- runtime; then
+            echo "Runtime already current"
+            exit 0
+          fi
+          git config user.name "iptvibe-runtime-bot"
+          git config user.email "137531366+frittcat@users.noreply.github.com"
+          git add runtime
+          git commit -m "runtime: sync catalog, sources and monitoring"
+          git push
