@@ -41,6 +41,9 @@ jobs:
 
           curl --fail --silent --show-error             "$IPTVIBE_UPSTREAM_MONITOR"             -o runtime/monitor/fontes.json
 
+      - name: Validate labels and highlighted explicit media sources
+        run: python3 runtime_quality.py runtime --probe
+
       - name: Commit runtime changes
         shell: bash
         run: |

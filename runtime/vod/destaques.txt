@@ -1,7 +1,6 @@
 # Fileiras da tela inicial. Geradas por gerar_destaques.py — não editar à mão.
 capa: https://image.tmdb.org/t/p/w342
 fila	Em alta
-f	Resident Evil (2026)	R	2026	/gQ76UL64RQe3oHwiwHwODTC23g4.jpg
 f	A Odisseia	A		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
 f	Coyote vs ACME (2026)	C	2026	/fqnp3doSeUFLGUFIolHVPA41O4E.jpg
 f	Obsessao (2026)	O	2026	/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
