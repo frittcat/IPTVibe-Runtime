@@ -309,8 +309,7 @@ Parabens Para o Meu Ex! (2023)	leg=6:1303742
 Parabéns a Você	dub=2:185323,10:2460934,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18561.mp4,8:185323
 Parabéns a Você (2019)	dub=6:1306155
 Parachute (2024)	dub=https://embedplayer2.xyz/cdn/hls/88f27796c192cf865ef264fdf4af75d2/master.txt,6:1311819,2:279181,10:2446441,10:2449741,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42614.mp4,8:279181	leg=6:1311818,2:279182,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85794.mp4,8:279182
-Paradise Beach	dub=https://embedplayer2.xyz/cdn/hls/79d8786cd6c3fb64f08167bf623e65fe/master.txt,2:30605,10:2454724,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6482.mp4,8:30605
-Paradise Beach (2019)	dub=6:1298234
+Paradise Beach (2019)	dub=https://embedplayer2.xyz/cdn/hls/79d8786cd6c3fb64f08167bf623e65fe/master.txt,6:1298234,2:30605,10:2454724,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6482.mp4,8:30605
 Paradise Incêndios na Califórnia (2020)	leg=6:1311926
 Paraiso (2023)	dub=https://embedplayer2.xyz/cdn/hls/50a90e4caa843cfe7a3903249d2fbbc5/master.txt,6:1301714,6:1309554,2:219936,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57986.mp4,8:219936,2:354159,2:204497,10:2458990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/997.mp4,8:354159,8:204497	leg=6:1309555,2:204498,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85832.mp4,8:204498
 Paraiso: Em Busca da Felicidade (2013)	dub=6:1300489
@@ -345,7 +344,7 @@ Parque do Inferno (2018)	dub=6:1310407
 Parque do Terror (2023)	dub=https://embedplayer2.xyz/cdn/hls/01344f1ad431f6aab166745e00e12558/master.txt,6:1304149,2:264156,10:2447484,10:2451913,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51238.mp4,8:264156	leg=2:264157,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85871.mp4,8:264157
 Parte 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52841.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85865.mp4
 Parte 2	dub=10:2445765,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45594.mp4
-Partes Ignoradas	dub=8:398544	leg=8:398543
+Partes Ignoradas	dub=2:398544,8:398544	leg=2:398543,8:398543
 Parthenope: Os Amores de Nápoles (2024)	dub=https://embedplayer2.xyz/cdn/hls/0648ee2e2629d3e7176abcb1c70a5184/master.txt	leg=https://embedplayer2.xyz/cdn/hls/e5ea24d0730c605d1efb23dd2ba057c3/master.txt
 Partida Fria	dub=2:311864,10:2448949,10:2457100,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30475.mp4,8:311864	leg=2:311865,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85872.mp4,8:311865
 Partido	dub=2:275516,10:2453143,8:275516
@@ -470,6 +469,7 @@ Pecanha Contra o Animal (2021)	dub=6:1298903
 Pedagio Mortal (2020)	dub=https://embedplayer2.xyz/cdn/hls/38711450a4f0745752b10769333ea4c0/master.txt,6:1302335,2:150751,10:2451413,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51242.mp4,8:150751	leg=2:150750,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85989.mp4,8:150750
 Pedagogia do Abandono	dub=2:376095,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253695.mp4,8:376095,2:376096,10:2444634,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254816.mp4,8:376096
 Pedalando Até O Fim	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85977.mp4
+Pedaço de Mim	leg=2:398924
 Pedido Diario Do Marido Amnesico	dub=2:389632,8:389632
 Pedido Diario do Mariodo Amnesico	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302899.mp4
 Pedido Irlandês	dub=2:254786,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58023.mp4,8:254786,2:253278,10:2446322,10:2447816,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42619.mp4,8:253278	leg=2:253279,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85980.mp4,8:253279
@@ -519,7 +519,7 @@ Peixinho da Vovó (2012)	leg=6:1310325
 Peixonauta	dub=2:20430,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10773.mp4,8:20430
 Peixonauta - O Filme	dub=10:2459133
 Peixonauta - O Filme (2018)	dub=6:1310478
-Pela Janela	dub=2:396227,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315708.mp4,8:396227
+Pela Janela	dub=2:398977,2:396227,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315708.mp4,8:396227
 Pela Janela (2017)	dub=6:1503212
 Pelas Garotas e Pela Gloria (2009)	dub=6:1297790
 Pelas Garotas e Pela Glória	dub=2:387074,10:2444741,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308811.mp4,8:387074	leg=2:387073,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308832.mp4,8:387073
@@ -600,8 +600,7 @@ Percy Jackson e Ladrao de Raios	dub=2:21264,http://dbonline.tech-cdn.top:80/movi
 Percy Jackson e o Ladrao de Raios (2010)	dub=6:1297387
 Percy Jackson e o Ladrão de Raios	dub=10:2458638
 Percy Jackson e o Mar de Monstros (2013)	dub=https://embedplayer2.xyz/cdn/hls/9e1b84eeaf28e9fea21bf935562a6503/master.txt,6:1297388,2:21265,10:2458603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34569.mp4,8:21265
-Perda Total	dub=https://embedplayer2.xyz/cdn/hls/5de778847c1efeda8fb29d46b423c6c4/master.txt,2:20190,10:2454737,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6509.mp4,8:20190
-Perda Total (2018)	dub=6:1310479
+Perda Total (2018)	dub=https://embedplayer2.xyz/cdn/hls/5de778847c1efeda8fb29d46b423c6c4/master.txt,6:1310479,2:20190,10:2454737,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6509.mp4,8:20190
 Perdas e Danos	dub=2:165175,10:2456051,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30549.mp4,8:165175
 Perdas e Danos (1992)	dub=6:1305508
 Perdas e Ganhos (2023)	dub=https://embedplayer2.xyz/cdn/hls/bcd7fbc286bf254cda7958183ab9b74e/master.txt,6:1312291,2:290756,10:2455985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30561.mp4,8:290756	leg=6:1312290,2:290757,10:2449353,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86094.mp4,8:290757
@@ -641,8 +640,7 @@ Perfeita Pra Você (2018)	dub=6:1310469
 Perfeita e a Mae 1	dub=https://embedplayer2.xyz/cdn/hls/e68c9d9e99b80f4e5ac58550a2289a83/master.txt,2:20788,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18693.mp4,8:20788
 Perfeita e a Mae 2	dub=2:20789,10:2461377,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18702.mp4,8:20789
 Perfeita e a Mae 2 (2017)	dub=6:1298204
-Perfeita e a Mae! (2016)	dub=6:1298203
-Perfeita é a Mãe!	dub=https://embedplayer2.xyz/cdn/hls/e68c9d9e99b80f4e5ac58550a2289a83/master.txt,2:379480,10:2461852,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256458.mp4,8:379480
+Perfeita e a Mae! (2016)	dub=https://embedplayer2.xyz/cdn/hls/e68c9d9e99b80f4e5ac58550a2289a83/master.txt,6:1298203,2:379480,10:2461852,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256458.mp4,8:379480
 Perfeitos Desconhecidos	dub=2:373390,2:148690,10:2444706,10:2461275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18709.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254812.mp4,8:373390,8:148690	leg=2:148689,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86137.mp4,8:148689
 Perfeitos Desconhecidos (2022)	dub=6:1299200
 Perfeitos Desconhecidos (2025)	dub=https://embedplayer2.xyz/cdn/hls/771129afa27dcad563ffe7678d2a4e74/master.txt
@@ -1172,6 +1170,7 @@ Portugal... Minha Saudade	dub=2:379125,http://dbonline.tech-cdn.top:80/movie/ke-
 Portões do Inferno	dub=2:386605,10:2444055,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308420.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308424.mp4,8:386605	leg=2:386604,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308381.mp4,8:386604
 Pose	dub=2:367839,10:2444689,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98711.mp4,8:367839	leg=2:367838,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98673.mp4,8:367838
 Poseidon (2006)	dub=https://embedplayer2.xyz/cdn/hls/ceb19e63f2d894b9aa2da0f7a19f7353/master.txt,6:1297638,2:386279,2:155752,10:2454299,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6618.mp4,8:386279,8:155752	leg=2:386278,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308382.mp4,8:386278
+Positivas	dub=2:398978
 Posse do Presidente Lula	dub=2:184033,10:2451190,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39130.mp4,8:184033
 Possessao (2012)	dub=https://embedplayer2.xyz/cdn/hls/236a61139dd830b4c6f755d4092025b5/master.txt,6:1302324
 Possessor (2020)	dub=https://embedplayer2.xyz/cdn/hls/e2f26dc4eea98628cf17143f99851170/master.txt,6:1298899,2:134030,10:2458804,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36379.mp4,8:134030	leg=2:64423,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86678.mp4,8:64423
@@ -1569,6 +1568,7 @@ Pulmão de Pedra	dub=2:396023,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 Pulmão de Pedra (2023)	dub=10:2469554
 Pulp Fiction Tempo de Violencia (1994)	dub=6:1301229
 Pulp Fiction: Tempo de Violência	dub=2:385030,2:104507,10:2446395,10:2457697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45789.mp4,8:385030,8:104507	leg=2:385029,2:344513,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87121.mp4,8:385029,8:344513
+Pulp: What Do You Do for an Encore?	leg=2:399020
 Pulsação	dub=2:259372,10:2456775,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30833.mp4,8:259372
 Pulsação (2023)	dub=6:1304990	leg=6:1304991
 Pulse (2006)	dub=6:1299039

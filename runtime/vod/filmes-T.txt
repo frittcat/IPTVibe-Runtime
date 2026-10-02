@@ -199,8 +199,9 @@ Teia de Crimes	dub=2:161979,2:161964,10:2454855,http://dbonline.tech-cdn.top:80/
 Teia de Crimes (2017)	dub=6:1305814
 Teia de Mentiras	dub=2:285115,10:2456115,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31944.mp4,8:285115
 Teia de Vingança	dub=2:276109,10:2447101,10:2455798,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31954.mp4,8:276109	leg=2:276110,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90744.mp4,8:276110
+Tekken	dub=2:398982	leg=2:398981
 Tekken (2010)	dub=6:1304125
-Tekken 2: A Vingança de Kazuya (2014)	dub=https://embedplayer2.xyz/cdn/hls/3f10d4a5d3d6e4dd3788e830a1d2584e/master.txt,6:1304126
+Tekken 2: A Vingança de Kazuya (2014)	dub=https://embedplayer2.xyz/cdn/hls/3f10d4a5d3d6e4dd3788e830a1d2584e/master.txt,6:1304126,2:398984	leg=2:398983
 Tell It To The Bees	leg=2:107807,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90747.mp4,8:107807
 Tem Algo De Errado Com As Crianças (2023)	dub=6:1302813
 Tem Algo de Errado com as Crianças	dub=2:281331,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58719.mp4,8:281331,2:227417,10:2451534,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52152.mp4,8:227417	leg=2:227410,10:2450380,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90751.mp4,8:227410
@@ -209,10 +210,8 @@ Tem Alguém na sua Casa	dub=2:131062,10:2452291,http://dbonline.tech-cdn.top:80/
 Tem Alienígenas no meu Quarto (2018)	dub=https://embedplayer2.xyz/cdn/hls/29500d4218d8bf936b44189192d94b20/master.txt,6:1310571,2:20830,10:2460126,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19745.mp4,8:20830
 Temos Vagas	dub=2:347358,2:157939,10:2445601,10:2451836,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39361.mp4,8:347358,8:157939
 Temos Vagas (2007)	dub=6:1299517
-Temos Vagas 2: A Primeira Diária	dub=https://embedplayer2.xyz/cdn/hls/5a2b7672d7f3cdaa3a46a9f6f1ecc9ab/master.txt,2:157943,10:2452278,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52162.mp4,8:157943
-Temos Vagas 2: A Primeira Diária (2008)	dub=6:1305598
-Tempero Fatal: Um Mistério de Hannah Swensen	dub=https://embedplayer2.xyz/cdn/hls/fadcfc04cf90f2d534640edeaa3c6ea1/master.txt,2:267761,10:2445456,10:2448183,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46124.mp4,8:267761	leg=2:267762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90757.mp4,8:267762
-Tempero Fatal: Um Mistério de Hannah Swensen (2023)	dub=6:1309080
+Temos Vagas 2: A Primeira Diária (2008)	dub=https://embedplayer2.xyz/cdn/hls/5a2b7672d7f3cdaa3a46a9f6f1ecc9ab/master.txt,6:1305598,2:157943,10:2452278,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52162.mp4,8:157943
+Tempero Fatal: Um Mistério de Hannah Swensen (2023)	dub=https://embedplayer2.xyz/cdn/hls/fadcfc04cf90f2d534640edeaa3c6ea1/master.txt,6:1309080,2:267761,10:2445456,10:2448183,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46124.mp4,8:267761	leg=2:267762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90757.mp4,8:267762
 Tempestade	dub=2:379489,2:189333,2:112933,10:2446345,10:2458207,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12094.mp4,8:379489,8:189333,8:112933	leg=2:379488,2:189332,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90758.mp4,8:379488,8:189332
 Tempestade (1998)	dub=6:1307088
 Tempestade (2022)	dub=6:1301016
@@ -237,7 +236,7 @@ Tempo	dub=2:134599,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6
 Tempo (2021)	dub=6:1313672	leg=6:1298857
 Tempo Contado (2016)	dub=https://embedplayer2.xyz/cdn/hls/0a8a4fc9a512ef734f1bf1fe55a0941f/master.txt
 Tempo De Esperanca	dub=2:30453,10:2455818,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31958.mp4,8:30453
-Tempo Esgotado	dub=8:398561
+Tempo Esgotado	dub=2:398561,8:398561
 Tempo Ruy	dub=2:374319,2:371182,10:2444785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250116.mp4,8:374319,8:371182
 Tempo de Caça	dub=2:85145,10:2453755,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7459.mp4,8:85145
 Tempo de Caça (2020)	dub=6:1308355
@@ -664,6 +663,7 @@ The King of Fighters: A Batalha Final	dub=2:111465,http://dbonline.tech-cdn.top:
 The Kitchen (2023)	dub=https://embedplayer2.xyz/cdn/hls/6855e1571ae478bd45cc964edf01d3f1/master.txt,6:1303098,2:247291,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58766.mp4,8:247291,2:241788,10:2448745,10:2459063,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36612.mp4,8:241788	leg=2:241789,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91549.mp4,8:241789
 The Knock Knock Man (2026)	leg=https://embedplayer2.xyz/cdn/hls/821b43afd63d55c8bb4dfafd13cae92a/master.txt
 The Knot	dub=2:348082,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19859.mp4,8:348082
+The Kujus Again	leg=2:398989
 The Lake	leg=2:196517,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91556.mp4,8:196517
 The Lake (2022)	leg=6:1305204
 The Last Black Man In San Francisco Legendado	dub=2:29113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91552.mp4,8:29113
@@ -792,6 +792,7 @@ The Requin	dub=https://embedplayer2.xyz/cdn/hls/8e97f89adc0a20f844f394391ca2e54b
 The Rescue (2021)	dub=6:1304659
 The Restoration	dub=2:397842,8:397842	leg=2:397841,8:397841
 The Rising Hawk	dub=https://embedplayer2.xyz/cdn/hls/b750e2665f33b5d0b74d1532e872cfcc/master.txt	leg=2:89010,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91866.mp4,8:89010
+The Road Between Us: The Ultimate Rescue	leg=2:399221
 The Rocky Horror Picture Show	dub=2:352113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19882.mp4,8:352113	leg=2:352112,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91869.mp4,8:352112
 The Room	leg=2:41626,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91879.mp4,8:41626
 The Roots of To Your Eternity	dub=10:2447481	leg=2:341097,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91890.mp4,8:341097
@@ -836,6 +837,7 @@ The Spirit: O Filme	dub=2:397941,2:318570,10:2446158,http://dbonline.tech-cdn.to
 The Standard (2020)	dub=6:1306367
 The Starling Girl	dub=https://embedplayer2.xyz/cdn/hls/e097b503cec5326d653f21f214fff9ea/master.txt	leg=2:246966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91982.mp4,8:246966
 The Surrender	dub=https://embedplayer2.xyz/cdn/hls/b34ce28e435ef87455b3738424af41a7/master.txt,10:2450218	leg=2:329645,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91987.mp4,8:329645
+The Swan: Behind the Mirror	leg=2:399222
 The Sweet East	leg=2:379438,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256492.mp4,8:379438
 The Tax Collector	leg=2:87126,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91992.mp4,8:87126
 The Taylor Hawkins Tributo	dub=2:202244,8:202244
@@ -861,6 +863,7 @@ The United States Vs Billie Holiday	leg=2:97216,http://dbonline.tech-cdn.top:80/
 The Unlikely Pilgrimage of Harold Fry (2023)	dub=https://embedplayer2.xyz/cdn/hls/16b9c4639632e1af0dd4c14fd2b189f5/master.txt,https://embedplayer2.xyz/cdn/hls/50acb5f6a632bb284e34c7bd5fdccac2/master.txt
 The Unlock	dub=10:2448059	leg=2:307936,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92035.mp4,8:307936
 The Unwanted Mate O Companheiro Indesejado	dub=2:389667,8:389667
+The Uprising	leg=2:399287
 The Vast Of Night	leg=2:47435,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92038.mp4,8:47435
 The Velvet Underground	dub=2:133977,10:2453253,8:133977	leg=2:133957,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92049.mp4,8:133957
 The Velvet Underground (2021)	dub=6:1304506	leg=6:1304507
@@ -877,6 +880,8 @@ The Weekly Special Edition Framing Britney Spears	leg=2:100021,http://dbonline.t
 The Welcome Table	leg=2:384464,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307312.mp4,8:384464
 The Whistleblower	leg=2:62569,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92076.mp4,8:62569
 The White Storm 2 Drug Lords	dub=2:102577,10:2457700,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32159.mp4,8:102577
+The Widower: 'Til Death Do Us Part	dub=2:399245	leg=2:399244
+The Widower: 'Til Death Do Us Part (2026)	dub=10:2472329
 The Wild Goose Lake	leg=2:63095,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92087.mp4,8:63095
 The Witcher – Making Of (2020)	leg=6:1311091
 The Witcher: Lenda do Lobo	dub=2:122925,10:2454498,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7545.mp4,8:122925	leg=2:122893,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92081.mp4,8:122893
@@ -1261,7 +1266,7 @@ Toy Story 3 (2010)	dub=6:1298214,6:1312285
 Toy Story 30 Years and Beyond - A Special Edition of (2020)	leg=6:1501231
 Toy Story 4	dub=2:108138,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58901.mp4,8:108138,2:108091,10:2459143,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11586.mp4,8:108091
 Toy Story 4 (2019)	dub=6:1297436
-Toy Story 5 (2026)	dub=https://embedplayer2.xyz/cdn/hls/d52c11a60175f8b32bf3d6ea498b3989/master.txt,8:398797,2:385527,10:2444060,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307703.mp4,8:398712,8:398708,8:385527	leg=6:1502359,2:393247,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312562.mp4,8:393247
+Toy Story 5 (2026)	dub=https://embedplayer2.xyz/cdn/hls/d52c11a60175f8b32bf3d6ea498b3989/master.txt,10:2471523,2:398797,8:398797,2:398712,2:398708,2:385527,10:2444060,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307703.mp4,8:398712,8:398708,8:385527	leg=6:1502359,2:393247,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312562.mp4,8:393247
 Toy Story de Terror (2013)	dub=https://embedplayer2.xyz/cdn/hls/5fd10fae672af321be530e9a42be786a/master.txt,6:1300243
 Toy Story: Esquecidos Pelo Tempo	dub=10:2459457
 Trabalhando para o Inimigo	dub=10:2444231

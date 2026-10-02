@@ -67,7 +67,7 @@ Babilônia	dub=2:188587,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/
 Babo: A História de Haftbefehl	leg=2:350358,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65591.mp4,8:350358
 Baby	dub=https://embedplayer2.xyz/cdn/hls/b52cc2cd50f2db861f6e2ae1db2588c1/master.txt,2:366904,2:317308,10:2445410,10:2446450,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41597.mp4,8:366904,8:317308	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65601.mp4
 Baby Blue - Assassino em Série	dub=2:329327,10:2451565,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47903.mp4,8:329327	leg=2:329326,10:2448878,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65596.mp4,8:329326
-Baby Boy: O Dono da Rua	dub=8:398503	leg=8:398502
+Baby Boy: O Dono da Rua	dub=2:398503,8:398503	leg=2:398502,8:398502
 Baby Looney Tunes: Aventuras Musicais	dub=2:376755,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253773.mp4,8:376755
 Baby Ruby	dub=2:230578,10:2447445,10:2451819,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47908.mp4,8:230578	leg=2:230589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65606.mp4,8:230589
 Baby Ruby (2023)	dub=6:1309200	leg=6:1309201
@@ -164,6 +164,7 @@ Banana Split	dub=2:89728,10:2461289,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Banana Split (2018)	dub=6:1307960
 Banana Splits - O Filme	dub=2:362267,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54803.mp4,8:362267,2:362598,10:2461791,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53413.mp4,8:362598	leg=2:362597,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65721.mp4,8:362597
 Banana Splits - O Filme (2019)	dub=6:1308534
+Bancários	dub=2:398950	leg=2:398949
 Band of Brothers Legacy (2026)	dub=https://embedplayer2.xyz/cdn/hls/d0b4312aef1247e74a45070cf1e73ca8/master.txt	leg=6:1503131,2:395783,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314481.mp4,8:395783
 Bandida: A Número Um	dub=2:285158,10:2450339,10:2454759,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2351.mp4,8:285158	leg=2:285159,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65731.mp4,8:285159
 Bandida: A Número Um (2024)	dub=6:1312082	leg=6:1312081
@@ -265,7 +266,7 @@ Barbie: Big City, Big Dreams	dub=2:340957,8:340957	leg=2:340956,8:340956
 Barbie: Escola de Princesas	dub=2:372741,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251189.mp4,8:372741	leg=2:372740,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251218.mp4,8:372740
 Barbie: Lago dos Cisnes	dub=2:326982,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8876.mp4,8:326982
 Barbie: Moda e Magia (2010)	dub=6:1313539
-Barbie: O Quebra-Nozes	dub=8:398504
+Barbie: O Quebra-Nozes	dub=2:398504,8:398504
 Barbie: Rainhas do Rock	dub=10:2458199
 Barbie: Skipper e a Grande Aventura de Babás	dub=2:217199,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8881.mp4,8:217199	leg=2:217200,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65780.mp4,8:217200
 Barbie: Skipper e a Grande Aventura de Babás (2023)	dub=10:2466039,6:1309425	leg=6:1309426
@@ -289,6 +290,7 @@ Barravento	dub=2:382364,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/
 Barreda	leg=2:394424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313714.mp4,8:394424
 Barretão	dub=2:397891,8:397891
 Barron's Cove (2025)	dub=https://embedplayer2.xyz/cdn/hls/1bab9a637e924ec51a2aa910104878e7/master.txt
+Barry	dub=2:399147	leg=2:399146
 Bartkowiak	dub=2:114472,10:2454133,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2371.mp4,8:114472
 Bartkowiak (2021)	dub=6:1298614
 Bartok o Magnífico	dub=10:2459409
@@ -367,7 +369,8 @@ Batman vs. Duas-Caras (2017)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Batman: A Alma do Dragão	dub=2:92018,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8885.mp4,8:92018
 Batman: A Máscara do Fantasma	dub=2:342859,10:2458342,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8894.mp4,8:342859	leg=2:342858,10:2449315,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65843.mp4,8:342858
 Batman: A Piada Mortal (2016)	dub=6:1298779
-Batman: A Queda do Morcego - Parte 1	leg=2:394273,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313715.mp4,8:394273
+Batman: A Queda do Morcego - Parte 1	dub=2:399224,2:399182	leg=2:394273,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313715.mp4,8:394273
+Batman: A Queda do Morcego - Parte 1 (2026)	dub=10:2472277
 Batman: Alma do Dragao (2021)	dub=6:1298054
 Batman: Alma do Dragão	dub=10:2458301
 Batman: Ano Um	dub=2:358802,10:2458095,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52796.mp4,8:358802	leg=2:358801,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65838.mp4,8:358801
@@ -531,7 +534,7 @@ Belén: Uma História de Injustiça	dub=2:352700,10:2444949,http://dbonline.tech
 Bem Amada (1998)	dub=6:1301443
 Bem Casados (2015)	dub=6:1299732
 Bem Longe da Casa da Raven (2021)	dub=6:1303878
-Bem Longe de Casa	dub=8:398505
+Bem Longe de Casa	dub=2:398505,8:398505
 Bem Vinda a Quixeramobim (2022)	dub=6:1301043
 Bem Vindo ao Mundo dos Ogglies (2021)	dub=6:1301621
 Bem a Tempo para o Natal	dub=2:141525,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33650.mp4,8:141525
@@ -824,7 +827,7 @@ Blowback - Anjo da Morte	dub=2:311125,10:2453401,http://dbonline.tech-cdn.top:80
 Blue Bayou	dub=2:160418,10:2457315,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24306.mp4,8:160418	leg=2:160435,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66389.mp4,8:160435
 Blue Bayou (2021)	dub=6:1301106
 Blue Box	dub=2:374625,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253652.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254709.mp4,8:374625	leg=2:374624,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253631.mp4,8:374624
-Blue Film	dub=8:398818	leg=2:383563,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306373.mp4,8:383563
+Blue Film	dub=2:398818,8:398818	leg=2:383563,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306373.mp4,8:383563
 Blue Heron	leg=2:384456,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307272.mp4,8:384456
 Blue Is The Warmest Color	leg=2:93738,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66374.mp4,8:93738
 Blue Jay (2016)	dub=6:1312745	leg=6:1312744
@@ -1302,7 +1305,7 @@ Busca Implacavel 3 (2014)	dub=https://embedplayer2.xyz/cdn/hls/d5dd9f672c6c2ca94
 Busca Implacável 2	dub=2:19953,10:2454946,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2566.mp4,8:19953
 Busca Interminável	dub=2:182306,10:2454176,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2567.mp4,8:182306	leg=2:182300,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66813.mp4,8:182300
 Busca Interminável (2021)	dub=6:1306494	leg=6:1306495
-Busca Mortal	dub=8:398507	leg=8:398506
+Busca Mortal	dub=2:398507,8:398507	leg=2:398506,8:398506
 Busca Sem Limites	dub=2:382557,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301350.mp4,8:382557	leg=2:382556,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301032.mp4,8:382556
 Busca Sem Limites (2016)	dub=6:1302156
 Busca na Tormenta (2014)	dub=6:1302141

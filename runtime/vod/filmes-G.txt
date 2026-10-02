@@ -1,5 +1,6 @@
 G-Loc	leg=2:67487,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73323.mp4,8:67487
 G-Loc (2020)	leg=6:1308846
+G.D.N	leg=2:399005
 G.I. Joe Origens: Snake Eyes	dub=2:130202,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56008.mp4,8:130202,2:130200,10:2454002,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3845.mp4,8:130200	leg=2:121156,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73333.mp4,8:121156
 G.I. Joe: A Origem de Cobra	dub=2:119723,10:2454269,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3841.mp4,8:119723	leg=2:119710,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73318.mp4,8:119710
 G.I. Joe: Retaliação	dub=2:119728,10:2454680,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3857.mp4,8:119728	leg=2:119725,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73348.mp4,8:119725
@@ -372,7 +373,7 @@ Golpe Perigoso (2023)	leg=6:1309523
 Golpe de Classe (2020)	leg=6:1308898
 Golpe de Gênio	dub=2:336839,2:102562,10:2461514,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15396.mp4,8:336839,8:102562
 Golpe de Gênio (2009)	dub=6:1307095
-Golpe de Mestre	dub=8:398522	leg=8:398521
+Golpe de Mestre	dub=2:398522,8:398522	leg=2:398521,8:398521
 Golpe de Mestre (1973)	dub=6:1303780
 Golpe de Risco	dub=2:22025,10:2454790,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3921.mp4,8:22025
 Golpe de Risco (2017)	dub=6:1307783
@@ -573,7 +574,7 @@ Guerra contra Aliens (2019)	dub=6:1308474
 Guerra contra Todos	dub=2:371887,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250793.mp4,8:371887	leg=2:371886,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250474.mp4,8:371886
 Guerra das Colas	dub=2:82556,10:2455919,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26532.mp4,8:82556
 Guerra das Colas (2019)	dub=6:1308595
-Guerra de Algodão	dub=2:92611,10:2456785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26541.mp4,8:398523,8:92611
+Guerra de Algodão	dub=2:398523,2:92611,10:2456785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26541.mp4,8:398523,8:92611
 Guerra de Algodão (2020)	dub=6:1307861
 Guerra de Likes (2021)	dub=6:1308820
 Guerra dos Monstros (2015)	dub=6:1303062

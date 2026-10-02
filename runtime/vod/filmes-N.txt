@@ -100,7 +100,8 @@ Na Mira dos Assassinos (2022)	dub=6:1305280	leg=6:1305281
 Na Mira dos Mercenários	dub=2:359069,10:2445488,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/705.mp4,8:359069	leg=2:359068,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79797.mp4,8:359068
 Na Natureza Selvagem	dub=2:352225,2:100376,10:2456021,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5211.mp4,8:352225,8:100376	leg=2:352224,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79807.mp4,8:352224
 Na Natureza Selvagem (2007)	dub=6:1308472
-Na Onda da Maré	dub=8:398691
+Na Onda da Maré	dub=2:398691,8:398691
+Na Onda da Maré (2025)	dub=10:2471614
 Na Onda do Iê-Iê-Iê	dub=2:328985,2:64387,10:2450697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38641.mp4,8:328985,8:64387
 Na Onda do Iê-Iê-Iê (1966)	dub=6:1307179
 Na Palma da Mao (2023)	dub=6:1300983
@@ -458,6 +459,7 @@ Negócios de Família (1989)	dub=6:1307041
 Negócios e Trapaças	dub=2:375933,10:2461964,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253367.mp4,8:375933	leg=2:375932,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253377.mp4,8:375932
 Neil Armstrong: A Verdadeira História	dub=2:26449,10:2452576,8:26449
 Neil Armstrong: A Verdadeira História (2019)	dub=6:1310796
+Neil Peart: No One's Disciple	leg=2:399087
 Neirud	dub=2:363461,10:2444981,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53591.mp4,8:363461
 Nekrotronic	dub=2:384698,2:75687,10:2461562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17133.mp4,8:384698,8:75687	leg=2:384697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307403.mp4,8:384697
 Nekrotronic (2018)	dub=6:1302402
@@ -550,7 +552,7 @@ Ninguém Ama Ninguém por Mais de Dois Anos (2015)	dub=6:1304399
 Ninguém Brinca com Jesus Quintana	dub=2:90743,10:2460411,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17152.mp4,8:90743
 Ninguém Brinca com Jesus Quintana (2019)	dub=6:1307695
 Ninguém Entra, Ninguém Sai	dub=2:138898,8:138898
-Ninguém Merece, Frida	dub=8:398527
+Ninguém Merece, Frida	dub=2:398527,8:398527
 Ninguém Mexe com a Vovó	dub=2:385845,10:2444199,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308101.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308163.mp4,8:385845	leg=2:385844,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308127.mp4,8:385844
 Ninguém Morre em Lily Dale	dub=2:343044,10:2447659,10:2452805,8:343044	leg=2:343043,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80280.mp4,8:343043
 Ninguém Precisa Acreditar em Mim	dub=2:229143,10:2449379,10:2461709,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17158.mp4,8:229143	leg=2:229172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80290.mp4,8:229172
@@ -577,11 +579,13 @@ Ninja 2: A Vingança	dub=2:360855,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Ninja 3: A Dominação	dub=2:348156,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5260.mp4,8:348156	leg=2:348155,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80336.mp4,8:348155
 Ninja Assassino	dub=2:131068,10:2454983,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5262.mp4,8:131068
 Ninja Assassino (2009)	dub=6:1302391
+Ninja Wars: BlackFox vs Shogun's Ninja	dub=2:399295	leg=2:399294
+Ninja Wars: BlackFox vs Shogun's Ninja (2026)	dub=10:2472342
 Ninja: O Guerreiro Imortal (2014)	dub=6:1303481
 Ninjago: Mestres do Spinjitzu - Dia da Despedida (2016)	dub=6:1304423
 Ninotchka (1939)	dub=6:1302383
 Nirvana	dub=10:2444868,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97301.mp4
-Nise: O Coracao da Loucura (2016)	dub=https://embedplayer2.xyz/cdn/hls/d26200251781a3e40cd5f1f31deb0182/master.txt,6:1299748,2:25488,10:2451092,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38660.mp4,8:25488
+Nise: O Coracao da Loucura (2016)	dub=https://embedplayer2.xyz/cdn/hls/d26200251781a3e40cd5f1f31deb0182/master.txt,6:1299748,2:398969,2:25488,10:2451092,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38660.mp4,8:25488
 Nix: A Entidade	dub=2:186487,10:2452056,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49958.mp4,8:186487	leg=2:186486,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80363.mp4,8:186486
 Nix: A Entidade (2022)	dub=6:1306666	leg=6:1306667
 Nixon (1995)	dub=6:1300258
@@ -589,7 +593,7 @@ No 1 Sentai Gozyuger Tega Sword Resurrection	leg=2:365865,http://dbonline.tech-c
 No Amor e Na Música	dub=2:349762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57185.mp4,8:349762,2:356905,2:349765,10:2445215,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/753.mp4,8:356905,8:349765	leg=2:356904,2:349764,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80358.mp4,8:356904,8:349764
 No Amor e Na Música (2025)	dub=6:1313831
 No Balanco das Coisas (2020)	dub=6:1300342
-No Balanço das Coisas	dub=2:62468,10:2461631,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17161.mp4,8:62468
+No Balanço das Coisas	dub=2:398971,2:62468,10:2461631,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17161.mp4,8:62468	leg=2:398970
 No Balanço do Amor (2001)	dub=6:1503268
 No Cair da Noite	dub=2:104422,10:2445959,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45050.mp4,8:104422
 No Cair da Noite (2003)	dub=6:1300801
@@ -644,6 +648,7 @@ No Lugar da Outra	dub=2:289611,10:2448526,http://dbonline.tech-cdn.top:80/movie/
 No Lugar da Outra (2024)	dub=6:1312280
 No Manches Frida 2 Paraiso Destruido	dub=2:26147,10:2461184,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17165.mp4,8:26147
 No Manches Frida 2: Paraíso Destruído (2019)	dub=6:1308264
+No Mar	leg=2:399227
 No Mar e Na Guerra	leg=2:350967,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80421.mp4,8:350967
 No Mataras	dub=2:103538,10:2453456,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5274.mp4,8:103538
 No Me Sigas	leg=2:365779,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96945.mp4,8:365779
@@ -799,7 +804,7 @@ Nossa Culpa (2025)	dub=https://embedplayer2.xyz/cdn/hls/9ffdfc08bc538bcab483a9f1
 Nossa Escola de Samba	dub=2:393698,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313403.mp4,8:393698
 Nossa Historia de Amor e Musica (2018)	dub=6:1297776
 Nossa Mae é Para Sempre (2022)	dub=6:1302721
-Nossa Mãe era Atriz	dub=8:398792
+Nossa Mãe era Atriz	dub=2:398792,8:398792
 Nossa Mãe é Para Sempre	dub=2:178853,10:2460013,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17230.mp4,8:178853	leg=2:178845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80577.mp4,8:178845
 Nossa Senhora de Guadalupe	dub=2:360856,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52919.mp4,8:360856
 Nossa Vida Com Caes	dub=2:25104,10:2460862,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17235.mp4,8:25104
@@ -807,7 +812,7 @@ Nossa Vida com Cães (2018)	dub=6:1307888
 Nossa Vizinhanca (2026)	dub=https://embedplayer2.xyz/cdn/hls/8573408019775352f81d5fa3afa9a64f/master.txt,6:1314263,2:364621,10:2444948,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53745.mp4,8:364621
 Nossas Meninas	dub=2:168524,10:2461610,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17239.mp4,8:168524	leg=2:168517,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80579.mp4,8:168517
 Nossas Meninas (2019)	dub=6:1303420
-Nossas Noites	dub=8:398528
+Nossas Noites	dub=2:398528,8:398528
 Nosso Amigo Extraordinario (2023)	dub=https://embedplayer2.xyz/cdn/hls/be9b607b473131201a9a7aafda14c059/master.txt,6:1302564,2:218260,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57224.mp4,8:218260	leg=2:217553,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80573.mp4,8:217553
 Nosso Amor	dub=2:88682,10:2456186,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28387.mp4,8:88682
 Nosso Amor (2019)	dub=6:1308454
@@ -925,6 +930,7 @@ Nunca é Tarde Para Amar	dub=2:94732,10:2446567,http://dbonline.tech-cdn.top:80/
 Nunca é Tarde Para Amar (2007)	dub=6:1307193
 Nunca é Tarde para Recomeçar	dub=2:161997,10:2459882,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17293.mp4,8:161997
 Nunca é Tarde para Recomeçar (2020)	dub=6:1306466
+Nunca é Tarde para Viver	dub=2:398973	leg=2:398972
 Nuovo Olimpo	dub=2:223874,10:2446503,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42341.mp4,8:223874	leg=2:223875,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80673.mp4,8:223875
 Nuovo Olimpo (2023)	dub=6:1309297	leg=6:1309298
 Nuremberg (2025)	dub=https://embedplayer2.xyz/cdn/hls/7a6e1ae68da634fd267130313037cb1d/master.txt,6:1314507,2:374632,10:2444862,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253626.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254785.mp4,8:374632	leg=6:1314191,2:374631,2:359072,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80690.mp4,8:374631,8:359072

@@ -338,7 +338,7 @@ Em Algum Lugar do Queens (2023)	dub=https://embedplayer2.xyz/cdn/hls/df4afca9e3e
 Em Algum Momento Além de Agora	dub=https://embedplayer2.xyz/cdn/hls/b064c3f024e2e61f50b74bfeb68deb23/master.txt,2:328093,10:2455464,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25636.mp4,8:328093	leg=2:328092,10:2450362,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71145.mp4,8:328092
 Em Batalha (2020)	dub=6:1298662	leg=6:1298663
 Em Busca Da Fama	dub=2:89733,10:2453634,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3471.mp4,8:89733
-Em Busca Da Verdade (1996)	dub=6:1302303
+Em Busca Da Verdade (1996)	dub=https://embedplayer2.xyz/cdn/hls/c0044eec1bb270d138def64e6f802bbc/master.txt,6:1302303,2:371879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250814.mp4,8:371879	leg=2:371878,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250468.mp4,8:371878
 Em Busca De Um Lar	dub=2:100363,10:2455651,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25640.mp4,8:100363
 Em Busca Do Tesouro Desaparecido (2017)	dub=6:1500870
 Em Busca Pela Verdade (2012)	dub=6:1303061
@@ -354,7 +354,6 @@ Em Busca da Justiça	dub=2:374291,2:21379,10:2446997,http://dbonline.tech-cdn.to
 Em Busca da Justiça (2015)	dub=6:1297524
 Em Busca da Liberdade	dub=2:371877,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250819.mp4,8:371877	leg=2:371876,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250466.mp4,8:371876
 Em Busca da Liberdade (2016)	dub=6:1303753
-Em Busca da Verdade	dub=https://embedplayer2.xyz/cdn/hls/c0044eec1bb270d138def64e6f802bbc/master.txt,2:371879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250814.mp4,8:371879	leg=2:371878,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250468.mp4,8:371878
 Em Busca da Verdade: A História de Amanda Knox	dub=10:2444512
 Em Busca da Vitória (2019)	dub=https://embedplayer2.xyz/cdn/hls/a2182aa07f34004bf7dadfa72c44333d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251419.mp4,6:1308535,6:1314379,2:370335,2:30386,10:2453753,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3483.mp4,8:370335,8:30386	leg=2:370334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249219.mp4,8:370334
 Em Busca de 'Ohana (2021)	dub=6:1308654
@@ -410,6 +409,7 @@ Em Busca do Vale Encantado XI: A Invasão dos Minissauros	dub=2:376309,http://db
 Em Busca do Vale Encantado XII: O Grande Dia dos Voadores	dub=2:376310,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253417.mp4,8:376310
 Em Busca do Vale Encantado XIII: A União dos Amigos	dub=2:376311,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253415.mp4,8:376311
 Em Busca dos Corais (2017)	dub=6:1313171
+Em Campo Minado	dub=2:399151	leg=2:399150
 Em Campo Minado (2014)	dub=6:1303907
 Em Carne Viva (2003)	dub=6:1309151	leg=6:1309150
 Em Casa para o Dia de Natal	dub=2:144057,10:2446638,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39796.mp4,8:144057
@@ -595,7 +595,7 @@ Encurralados (2023)	dub=6:1301122
 Encurralados em Veneza	dub=2:171899,10:2452334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48629.mp4,8:171899	leg=2:171903,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71410.mp4,8:171903
 Encurralados em Veneza (2022)	dub=6:1300055
 Endangered Species	leg=2:109036,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71405.mp4,8:109036
-Ender's Game: O Jogo do Exterminador	dub=https://embedplayer2.xyz/cdn/hls/6bf28e3133e65cf9b44b3b36b6adf120/master.txt,2:338622,2:152002,10:2449270,10:2458824,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35794.mp4,8:338622,8:152002	leg=2:338621,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71425.mp4,8:338621
+Ender's Game: O Jogo do Exterminador	dub=2:338622,2:152002,10:2449270,10:2458824,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35794.mp4,8:338622,8:152002	leg=2:338621,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71425.mp4,8:338621
 Enders Game O Jogo do Exterminador (2013)	dub=https://embedplayer2.xyz/cdn/hls/6bf28e3133e65cf9b44b3b36b6adf120/master.txt,6:1302294
 Endgame: Roubo de Identidade	dub=2:168559,10:2460301,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14884.mp4,8:168559	leg=2:168562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71399.mp4,8:168562
 Endgame: Roubo de Identidade (2021)	dub=6:1306398	leg=6:1306399
@@ -638,8 +638,7 @@ Enquanto Ela Está Fora	dub=2:340459,2:144116,10:2448841,10:2452190,10:2457858,h
 Enquanto Ela Está Fora (2008)	dub=6:1304297
 Enquanto Estivermos Juntos	dub=2:382449,2:89734,10:2454228,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3526.mp4,8:382449,8:89734	leg=2:382448,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301090.mp4,8:382448
 Enquanto Estivermos Juntos (2020)	dub=6:1298091
-Enquanto Houver Amor	dub=https://embedplayer2.xyz/cdn/hls/0589549bb4655f82e785dac06b32ea78/master.txt,2:328221,2:169664,10:2455706,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25743.mp4,8:328221,8:169664	leg=2:328220,2:169711,10:2448556,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71483.mp4,8:328220,8:169711
-Enquanto Houver Amor (2019)	dub=6:1305833	leg=6:1305834
+Enquanto Houver Amor (2019)	dub=https://embedplayer2.xyz/cdn/hls/0589549bb4655f82e785dac06b32ea78/master.txt,6:1305833,2:328221,2:169664,10:2455706,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25743.mp4,8:328221,8:169664	leg=6:1305834,2:328220,2:169711,10:2448556,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71483.mp4,8:328220,8:169711
 Enquanto Houver Esperanca	dub=2:30617,10:2446723,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41942.mp4,8:30617
 Enquanto Houver Esperança (2015)	dub=6:1307962
 Enquanto Somos Jovens (2015)	dub=6:1312015
@@ -739,6 +738,7 @@ Entre Nos Uma Dose Extra de Amor (2025)	dub=https://embedplayer2.xyz/cdn/hls/6a1
 Entre Nós Talvez Estejam Multidões	dub=2:395683,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314615.mp4,8:395683
 Entre Nós, O Amor	leg=2:339770,8:339770
 Entre Pais e Filhos	dub=https://embedplayer2.xyz/cdn/hls/b68f40c0b1938b2d70a4b81671b43496/master.txt,2:328095,10:2447489,10:2457032,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25779.mp4,8:328095	leg=2:328094,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71629.mp4,8:328094
+Entre Penas e Bicadas	dub=2:398959	leg=2:398958
 Entre Piadas e Cigarros (2023)	dub=https://embedplayer2.xyz/cdn/hls/333f96e15dd0235700c417a2cf66a486/master.txt,2:325018,10:2449880,10:2457366,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25783.mp4,8:325018	leg=2:325017,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71639.mp4,8:325017
 Entre Realidades (2020)	dub=6:1297591
 Entre Rosas	dub=2:179756,10:2459913,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14932.mp4,8:179756	leg=2:179784,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71634.mp4,8:179784
@@ -949,9 +949,8 @@ Espero que Esta te Encontre e que Estejas Bem	dub=2:384206,http://dbonline.tech-
 Espetáculo de Sangue	dub=2:341056,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21367.mp4,8:341056
 Espiao Por Acidente (2001)	dub=6:1297289
 Espiao por Acidente	dub=2:97176,10:2453559,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3562.mp4,8:97176
-Espionagem em Londres	dub=https://embedplayer2.xyz/cdn/hls/f0c61ed1befa3f1f3c1157fa150ed854/master.txt,2:300833,10:2449351,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21371.mp4,8:300833	leg=2:300834,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71806.mp4,8:300834
-Espionagem em Londres (2020)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251420.mp4
-Espiral (2019)	dub=https://embedplayer2.xyz/cdn/hls/9d328a220c5f37472f5ad688e973579f/master.txt,6:1300366
+Espionagem em Londres (2020)	dub=https://embedplayer2.xyz/cdn/hls/f0c61ed1befa3f1f3c1157fa150ed854/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251420.mp4,2:300833,10:2449351,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21371.mp4,8:300833	leg=2:300834,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71806.mp4,8:300834
+Espiral (2019)	dub=https://embedplayer2.xyz/cdn/hls/9d328a220c5f37472f5ad688e973579f/master.txt,6:1300366,2:398961	leg=2:398960
 Espiral de Violência	dub=https://embedplayer2.xyz/cdn/hls/88987c9e27947ac3636b5ae4fa5a0f7c/master.txt,2:353769,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/484.mp4,8:353769	leg=2:353768,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71818.mp4,8:353768
 Espiral: O Legado de Jogos Mortais (2021)	dub=https://embedplayer2.xyz/cdn/hls/a5c09463038468f5e706ca64905f52d3/master.txt,6:1305158,2:127446,8:127446,2:125979,10:2451493,10:2457886,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48716.mp4,8:125979
 Espiritos 1	dub=2:21732,10:2452560,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48718.mp4,8:21732

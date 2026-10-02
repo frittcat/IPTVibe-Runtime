@@ -1,4 +1,4 @@
-U.S. Marshals - Os Federais	dub=https://embedplayer2.xyz/cdn/hls/7ae2cff75f2193f4551f1976c2907679/master.txt,2:89295,10:2454207,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7799.mp4,8:89295
+U.S. Marshals - Os Federais	dub=2:89295,10:2454207,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7799.mp4,8:89295
 U311: Guerra em Alto Mar	dub=2:208337,10:2450566,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37201.mp4,8:208337	leg=2:208338,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93110.mp4,8:208338
 U311: Guerra em Alto Mar (2020)	dub=6:1310806	leg=6:1310807
 UFC 311: Makhachev vs. Moicano	dub=2:311828,8:311828
@@ -117,8 +117,7 @@ Ultimas Palavras Do Amor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Ultimo Alvo (2024)	dub=https://embedplayer2.xyz/cdn/hls/6c719a8263d82584d554caec1100e167/master.txt,6:1313432,2:318601,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59431.mp4,8:318601,2:318600,10:2448442,10:2454318,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8286.mp4,8:318600	leg=6:1313431,2:318602,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96586.mp4,8:318602
 Ultraman R&B: O Filme - O Cristal da União	dub=2:64356,10:2453711,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7804.mp4,8:64356
 Ultraman R&B: O Filme - O Cristal da União (2019)	dub=6:1308447
-Ultraman Taiga Clímax da Nova Geração (2020)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251445.mp4
-Ultraman Taiga: Clímax da Nova Geração	dub=https://embedplayer2.xyz/cdn/hls/d127ab04503bef05a5790ad20f85f4fb/master.txt,2:363926,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53660.mp4,8:363926	leg=2:363925,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93128.mp4,8:363925
+Ultraman Taiga Clímax da Nova Geração (2020)	dub=https://embedplayer2.xyz/cdn/hls/d127ab04503bef05a5790ad20f85f4fb/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251445.mp4,2:363926,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53660.mp4,8:363926	leg=2:363925,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93128.mp4,8:363925
 Ultraman: A Ascensão	dub=2:265419,10:2449940,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11640.mp4,8:265419	leg=2:265420,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93127.mp4,8:265420
 Ultraman: A Ascensão (2024)	dub=6:1304211
 Ultras	dub=2:41640,10:2455788,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32417.mp4,8:41640
@@ -320,7 +319,6 @@ Um Dia Cinco Estrelas	dub=2:229174,10:2460872,http://dbonline.tech-cdn.top:80/mo
 Um Dia Cinco Estrelas (2023)	dub=6:1302863
 Um Dia Daqueles (2025)	dub=https://embedplayer2.xyz/cdn/hls/3dae3714e016886aecf07cba961fad91/master.txt,6:1313445,2:319075,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59012.mp4,8:319075,2:319074,10:2449187,10:2461334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20246.mp4,8:319074	leg=2:319076,2:317702,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93334.mp4,8:319076,8:317702
 Um Dia De Chuva Em Nova York	dub=2:89278,10:2459966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20255.mp4,8:89278
-Um Dia De Fúria (1993)	dub=https://embedplayer2.xyz/cdn/hls/27470180aa223aa79126e7e47ac28c09/master.txt,10:2466128,6:1307555,2:73294,10:2456586,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32475.mp4,8:73294
 Um Dia Difícil	dub=2:150753,10:2454258,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7820.mp4,8:150753	leg=2:150754,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93339.mp4,8:150754
 Um Dia Difícil (2022)	dub=6:1306856	leg=6:1306857
 Um Dia Esse Menino	leg=2:395155,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314591.mp4,8:395155
@@ -347,6 +345,7 @@ Um Dia de Caos (2017)	dub=https://embedplayer2.xyz/cdn/hls/281288f67157edfdd4d5a
 Um Dia de Chuva em Nova York (2019)	dub=6:1301887
 Um Dia de Crime	dub=10:2454926
 Um Dia de Crime (2023)	dub=6:1303115
+Um Dia de Fúria (1993)	dub=https://embedplayer2.xyz/cdn/hls/27470180aa223aa79126e7e47ac28c09/master.txt,6:1307555,2:73294,10:2456586,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32475.mp4,8:73294
 Um Dia de Louco (1994)	dub=https://embedplayer2.xyz/cdn/hls/72b2f11611f4786547e2ed888022b6e7/master.txt,6:1300693
 Um Dia de Sorte em Nova York (2026)	dub=https://embedplayer2.xyz/cdn/hls/72b3fa40e3cce2abcde472ed9b2764fc/master.txt,2:387573,10:2444368,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309201.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309212.mp4,8:387573	leg=2:387571,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309204.mp4,8:387571
 Um Dia dos Mortos Nada Tradicional	dub=2:223403,10:2460952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20252.mp4,8:223403	leg=2:223384,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93350.mp4,8:223384
@@ -403,8 +402,7 @@ Um Estranho no Ninho	dub=2:94740,10:2456749,http://dbonline.tech-cdn.top:80/movi
 Um Estranho no Ninho (1975)	dub=6:1308043
 Um Eterno Primeiro Encontro (2023)	leg=6:1302817
 Um Evento Crossover em Chicago	dub=10:2455238
-Um Fantasma na Batalha	dub=https://embedplayer2.xyz/cdn/hls/6b2f0974f5b7a177c3eb9fa62b71656c/master.txt,2:350383,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59017.mp4,8:350383,2:348843,10:2445220,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32499.mp4,8:348843	leg=2:348842,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93428.mp4,8:348842
-Um Fantasma na Batalha (2025)	dub=6:1313919
+Um Fantasma na Batalha (2025)	dub=https://embedplayer2.xyz/cdn/hls/6b2f0974f5b7a177c3eb9fa62b71656c/master.txt,6:1313919,2:350383,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59017.mp4,8:350383,2:348843,10:2445220,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32499.mp4,8:348843	leg=2:348842,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93428.mp4,8:348842
 Um Fascinante Novo Mundo	dub=2:189326,10:2446687,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43168.mp4,8:189326	leg=2:189334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93433.mp4,8:189334
 Um Fascinante Novo Mundo (2021)	dub=6:1301322
 Um Faz de Conta Que Acontece (2008)	dub=6:1303844
@@ -646,7 +644,7 @@ Um Natal Para Todos	dub=https://embedplayer2.xyz/cdn/hls/c2ee9a8b20b976362195acf
 Um Natal Perfeito	dub=2:365292,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96692.mp4,8:365292	leg=2:365291,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96832.mp4,8:365291
 Um Natal Quase Perfeito	dub=2:387092,10:2444692,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308813.mp4,8:387092
 Um Natal Real	dub=2:358120,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43201.mp4,8:358120	leg=2:358119,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93868.mp4,8:358119
-Um Natal Surreal (2025)	dub=6:1314104
+Um Natal Surreal (2025)	dub=https://embedplayer2.xyz/cdn/hls/27cd91c9c721dc6f3607ee245a2eb1e3/master.txt,6:1314104,2:354958,10:2462022,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1259.mp4,8:354958	leg=2:354957,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94090.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289505.mp4,8:354957
 Um Natal com Amor e Vinho	dub=2:182594,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40398.mp4,8:182594	leg=2:182593,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93747.mp4,8:182593
 Um Natal com Amor e Vinho (2021)	dub=6:1301999
 Um Natal com Teddy (2022)	dub=https://embedplayer2.xyz/cdn/hls/ba1ca59db4e1884a11ef9b40c2d8d41a/master.txt,6:1309227,2:235132,10:2446930,10:2449095,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53271.mp4,8:235132	leg=6:1309228,2:235135,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93769.mp4,8:235135
@@ -777,7 +775,7 @@ Um Reino Unido	dub=2:32248,10:2456227,http://dbonline.tech-cdn.top:80/movie/ke-v
 Um Reino Unido (2016)	dub=6:1307505
 Um Retrato de Esperança (2025)	dub=https://embedplayer2.xyz/cdn/hls/9160f69cf876c31b2e54bf96810ab33f/master.txt,10:2468835,2:395117,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314467.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314682.mp4,8:395117	leg=2:395116,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314595.mp4,8:395116
 Um Retrato de Teresa	dub=2:367840,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99811.mp4,8:367840
-Um Rio Muito Frio	dub=2:178820,10:2452438,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52453.mp4,8:178820	leg=2:178833,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93977.mp4,8:178833
+Um Rio Muito Frio	dub=2:398986,2:178820,10:2452438,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52453.mp4,8:178820	leg=2:398985,2:178833,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93977.mp4,8:178833
 Um Rio Muito Frio (2022)	dub=6:1306557	leg=6:1306558
 Um Robô em Curto Circuito 2	dub=2:383016,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306325.mp4,8:383016	leg=2:383015,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301274.mp4,8:383015
 Um Romance Perfeito (2022)	dub=https://embedplayer2.xyz/cdn/hls/cd2dc20ab6b2a95dc5de5e0547546f99/master.txt,6:1311513,2:233797,10:2446284,10:2448519,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43230.mp4,8:233797	leg=6:1311514,2:233796,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93983.mp4,8:233796
@@ -797,6 +795,8 @@ Um Santo Vizinho (2014)	dub=https://embedplayer2.xyz/cdn/hls/c3e757bc086810c0bb6
 Um Sem Juízo, Outro Sem Razão (1991)	dub=6:1310005	leg=6:1310006
 Um Senhor Estagiario (2015)	dub=6:1300677
 Um Senhor Estagiário	dub=2:343061,2:20859,10:2450001,10:2460387,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20434.mp4,8:343061,8:20859	leg=2:343060,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93988.mp4,8:343060
+Um Sentimento Chamado Amor	dub=2:398864	leg=2:398863
+Um Sentimento Chamado Amor (2024)	dub=10:2471678
 Um Sequestrador Apaixonado (2018)	leg=6:1308032
 Um Show de Matar	dub=2:223414,10:2452245,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52459.mp4,8:223414	leg=2:223379,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93993.mp4,8:223379
 Um Show de Matar (2020)	dub=6:1311084	leg=6:1311085
@@ -814,8 +814,7 @@ Um Sonho Sem Limites	dub=2:330409,10:2449160,10:2455203,http://dbonline.tech-cdn
 Um Sonho de Amor	dub=2:348084,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32676.mp4,8:348084	leg=2:348083,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94010.mp4,8:348083
 Um Sonho de Liberdade	dub=2:21191,10:2457225,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32680.mp4,8:21191
 Um Sonho de Liberdade (1994)	dub=6:1298591
-Um Sonho de Natal	dub=https://embedplayer2.xyz/cdn/hls/cc5fa043ef56f2cd083de8f9c109f8cf/master.txt,2:371683,2:31590,10:2444688,10:2446465,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40447.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254844.mp4,8:371683,8:31590	leg=2:371682,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250503.mp4,8:371682
-Um Sonho de Natal (2017)	dub=6:1307921
+Um Sonho de Natal (2017)	dub=https://embedplayer2.xyz/cdn/hls/cc5fa043ef56f2cd083de8f9c109f8cf/master.txt,6:1307921,2:371683,2:31590,10:2444688,10:2446465,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40447.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254844.mp4,8:371683,8:31590	leg=2:371682,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250503.mp4,8:371682
 Um Sonho em Pedaços (2021)	dub=https://embedplayer2.xyz/cdn/hls/d648e6a4418476d7623ea499f44be874/master.txt
 Um Sopro Musical	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253721.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254849.mp4
 Um Stalker Apaixonado (2025)	dub=https://embedplayer2.xyz/cdn/hls/132bd5214f49a522ad6788252965eda7/master.txt,6:1314523,2:375701,10:2444613,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253666.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254845.mp4,8:375701	leg=2:375700,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253385.mp4,8:375700
@@ -886,7 +885,6 @@ Um Álibi	dub=https://embedplayer2.xyz/cdn/hls/b91b0a11d16208d43a4660b1d9a145d2/
 Um Álibi Perfeito	dub=2:122865,10:2446128,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46365.mp4,8:122865
 Um Álibi Perfeito (2014)	dub=6:1310016
 Um é Pouco, Dois é Bom	dub=2:370367,8:370367
-Um. Natal. Surreal.	dub=https://embedplayer2.xyz/cdn/hls/27cd91c9c721dc6f3607ee245a2eb1e3/master.txt,2:354958,10:2462022,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1259.mp4,8:354958	leg=2:354957,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94090.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289505.mp4,8:354957
 Uma Advogada Brilhante	dub=2:344456,10:2445518,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39532.mp4,8:344456	leg=2:344455,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94095.mp4,8:344455
 Uma Advogada Brilhante (2025)	dub=6:1313843
 Uma Agente Muito Louca (2017)	dub=https://embedplayer2.xyz/cdn/hls/84efe7ee350b923675db661790c8a75b/master.txt,6:1303912,2:20865,10:2461576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20507.mp4,8:20865
@@ -1359,6 +1357,8 @@ Un été pour tout changer	dub=2:397846,8:397846	leg=2:397845,8:397845
 Una famiglia sottosopra	leg=2:397716,8:397716
 Una gran voglia di vivere	dub=2:194202,8:194202
 Una gran voglia di vivere (2023)	dub=6:1305487
+Unabomber	dub=2:399000,2:398862	leg=2:398861
+Unabomber (2026)	dub=10:2471679
 Unabomber: Terrorista	dub=2:163574,10:2453511,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7927.mp4,8:163574	leg=2:163572,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94849.mp4,8:163572
 Unabomber: Terrorista (2021)	dub=6:1299538
 Unbelievable	leg=2:68470,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94860.mp4,8:68470
@@ -1486,7 +1486,7 @@ undertone (2026)	dub=https://embedplayer2.xyz/cdn/hls/be493a2a842d935a3a44698d59
 Última Chamada para Istambul	dub=2:229138,10:2446307,10:2450119,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43421.mp4,8:229138	leg=2:229154,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96558.mp4,8:229154
 Última Chance Para Emma (2016)	dub=6:1310351	leg=6:1310352
 Última Cidade	dub=2:150151,8:150151
-Última Noite em Boston	dub=8:398549	leg=8:398548
+Última Noite em Boston	dub=2:398549,8:398549	leg=2:398548,8:398548
 Última Parada (2026)	dub=https://embedplayer2.xyz/cdn/hls/12b164d5b0a295391151ccd7c8b10db6/master.txt,6:1502223,10:2444092
 Última Parada 174	dub=2:372793,2:28608,10:2457333,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32413.mp4,8:372793,8:28608
 Última Parada 174 (2008)	dub=6:1307278

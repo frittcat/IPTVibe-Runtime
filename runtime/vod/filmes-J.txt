@@ -182,7 +182,7 @@ Jim Knopf e Lucas: O Maquinista	dub=2:177207,10:2458501,http://dbonline.tech-cdn
 Jim Knopf e Lucas: O Maquinista (2018)	dub=6:1305686	leg=6:1305687
 Jim Knopf e os 13 Piratas	dub=2:227024,10:2450122,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11982.mp4,8:227024	leg=2:227032,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75809.mp4,8:227032
 Jim Knopf e os 13 Piratas (2020)	dub=6:1310803	leg=6:1310804
-Jimmy Bolha	dub=8:398526	leg=8:398525
+Jimmy Bolha	dub=2:398526,8:398526	leg=2:398525,8:398525
 Jinxed	dub=2:385792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308100.mp4,8:385792
 Jiu Jitsu	dub=2:376786,2:93653,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253767.mp4,8:376786,8:93653	leg=2:376785,2:92579,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75799.mp4,8:376785,8:92579
 Jiu Jitsu (2020)	dub=6:1298247

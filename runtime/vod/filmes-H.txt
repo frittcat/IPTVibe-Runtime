@@ -263,6 +263,7 @@ Herança de Família (2022)	dub=https://embedplayer2.xyz/cdn/hls/fc1a29d89c2d9c5
 Herança de Narcisa (2026)	dub=https://embedplayer2.xyz/cdn/hls/bc09b8b7ba5472fd41ad4183c54a06ea/master.txt,2:397553,8:397553
 Herança de Sangue (1986)	dub=6:1309400
 Herança em Jogo	dub=10:2444031
+Herbert	dub=2:398965	leg=2:398964
 Herbert de Perto (2009)	dub=6:1303047
 Herbie: Meu Fusca Turbinado	dub=2:343036,10:2448396,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15493.mp4,8:343036	leg=2:343035,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74317.mp4,8:343035
 Herbie: Meu Fusca Turbinado (2005)	dub=6:1298985
@@ -474,7 +475,7 @@ Homens Maus (2025)	dub=2:294985,10:2449380,http://dbonline.tech-cdn.top:80/movie
 Homens Não Choram	dub=2:226082,10:2456518,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26745.mp4,8:226082	leg=2:226081,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74597.mp4,8:226081
 Homens Não Choram (2022)	dub=6:1311317	leg=6:1311318
 Homens Perigosos	dub=2:394566,10:2459808,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313914.mp4,8:394566
-Homens de Bem	dub=2:354133,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/574.mp4,8:354133	leg=2:354132,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74592.mp4,8:354132
+Homens de Bem	dub=2:398966,2:354133,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/574.mp4,8:354133	leg=2:354132,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74592.mp4,8:354132
 Homens de Coragem	dub=2:372759,10:2457840,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4100.mp4,8:372759	leg=2:372758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251227.mp4,8:372758
 Homens de Coragem (2016)	dub=6:1303812
 Homens de Coragem (2017)	dub=6:1312939
@@ -556,6 +557,7 @@ Horácio	dub=2:208220,10:2451120,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Horácio (2019)	dub=6:1310744
 Hospedagem Mortal	dub=2:64383,10:2446975,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44667.mp4,8:64383
 Hospedagem Mortal (2019)	dub=6:1308505
+Hospede Indesejado (2019)	dub=6:1297628
 Hospedeira	leg=2:349702,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74691.mp4,8:349702
 Hospedeira (2025)	leg=6:1313934
 Hospital Macabro	dub=2:311132,10:2451965,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49199.mp4,8:311132
@@ -644,5 +646,4 @@ Hércules (2014)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZj
 Hércules e as Amazonas	dub=2:376916,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253764.mp4,8:376916	leg=2:376915,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253825.mp4,8:376915
 Hércules e o Círculo de Fogo	dub=2:376918,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253765.mp4,8:376918	leg=2:376917,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253826.mp4,8:376917
 Hércules no Mundo dos Mortos	dub=2:376919,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253766.mp4,8:376919
-Hóspede Indesejado (2019)	dub=10:2470954,6:1297628
 Hölmö nuori sydän (2018)	leg=6:1307882

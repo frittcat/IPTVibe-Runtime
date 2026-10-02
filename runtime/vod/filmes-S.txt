@@ -333,7 +333,7 @@ Scooby-Doo! e o Fantasma Gourmet (2018)	dub=6:1298808
 Scooby-Doo! e o Lobisomem	dub=2:291869,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11219.mp4,8:291869
 Scooby-Doo! em Uma Noite das Arábias	dub=2:376806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253778.mp4,8:376806
 Scooby-Doo, Cadê Você Agora!	dub=2:351908,10:2445222,8:351908	leg=2:351907,8:351907
-Scooby-Doo: O Filme	dub=https://embedplayer2.xyz/cdn/hls/8adc320c1634c266101f9e6f249ea615/master.txt,2:199886,10:2458362,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12072.mp4,8:199886
+Scooby-Doo: O Filme	dub=2:199886,10:2458362,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12072.mp4,8:199886
 ScoobyDoo AbracadabraDoo (2010)	dub=6:1314061
 ScoobyDoo E a Lenda do Vampiro (2003)	dub=6:1314066
 ScoobyDoo E o Monstro do Mexico (2003)	dub=6:1314060
@@ -759,6 +759,7 @@ Sete Anos em Maio	dub=2:73289,10:2453293,8:73289
 Sete Anos em Maio (2019)	dub=6:1308481
 Sete Anos no Tibet	dub=2:376810,2:92613,10:2456879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31567.mp4,8:376810,8:92613	leg=2:376809,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253841.mp4,8:376809
 Sete Anos no Tibet (1997)	dub=6:1309061
+Sete Atiradores (2026)	dub=10:2472340
 Sete Chaves e uma Mensagem	dub=2:254661,10:2451010,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39279.mp4,8:254661
 Sete Dias Sem Fim	dub=2:42512,10:2455847,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31578.mp4,8:42512
 Sete Dias Sem Fim (2014)	dub=6:1307323
@@ -800,6 +801,7 @@ Seus Olhos Dizem (2020)	dub=6:1304701	leg=6:1304702
 Seven - 7 Pecados Capitais (1995)	dub=6:1297468
 Seven - Os Sete Crimes Capitais	dub=2:382487,2:21666,10:2445903,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46023.mp4,8:382487,8:21666	leg=2:382486,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301246.mp4,8:382486
 Seven Cemeteries (2024)	dub=https://embedplayer2.xyz/cdn/hls/e28228eee9170e8dbd69b94082c4a7bc/master.txt	leg=https://embedplayer2.xyz/cdn/hls/3e4791f56a71cc4a66fbe1e41450de9c/master.txt
+Seven Snipers	dub=2:399299	leg=2:399298
 Seven Veils	dub=2:328257,10:2457633,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31597.mp4,8:328257	leg=2:328256,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89319.mp4,8:328256
 Sex	leg=2:318630,10:2450410,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89329.mp4,8:318630
 Sex And The City - O Filme (2008)	dub=6:1298983
@@ -912,7 +914,7 @@ Shazam Legendado	dub=2:24949,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Shazam!	dub=2:25477,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58490.mp4,8:25477,2:100004,10:2453769,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7276.mp4,8:100004
 Shazam! (2019)	dub=6:1313296	leg=6:1313295
 Shazam! Fúria dos Deuses	dub=2:191444,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58500.mp4,8:191444,2:191150,10:2453498,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7281.mp4,8:191150	leg=2:191149,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89408.mp4,8:191149
-She Came Back	dub=8:398684	leg=8:398683
+She Came Back	dub=2:398684,8:398684	leg=2:398683,8:398683
 She Rides Shotgun	dub=https://embedplayer2.xyz/cdn/hls/331c10b265fff08f19d9e829a8939f56/master.txt,10:2450032	leg=2:341433,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89402.mp4,8:341433
 She Taught Love (2024)	leg=6:1312214
 She's a Good Skate, Charlie Brown	dub=2:324015,8:324015	leg=2:324014,8:324014
@@ -1098,7 +1100,7 @@ Sintonizados no Amor (2020)	dub=6:1298323
 Sinédoque, Nova York	dub=2:368255,8:368255	leg=2:368254,8:368254
 Sira	dub=2:264358,10:2448579,10:2456089,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31659.mp4,8:264358	leg=2:264359,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89613.mp4,8:264359
 Sira (2023)	dub=6:1304954	leg=6:1304955
-Siren: The Voices of Shelley Beattie	leg=8:398690
+Siren: The Voices of Shelley Beattie	leg=2:398690,8:398690
 Sirāt	dub=https://embedplayer2.xyz/cdn/hls/78d5598e63aedcb19e212879aab16040/master.txt,2:376285,10:2444757,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253408.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254831.mp4,8:376285	leg=2:376284,2:361813,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89618.mp4,8:376284,8:361813
 Sistema Bruto (2022)	dub=https://embedplayer2.xyz/cdn/hls/12a8f78eefaccaeb604ce6313556ebb3/master.txt,6:1302994,2:374316,2:233499,10:2454874,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7310.mp4,8:374316,8:233499
 Sisu	dub=2:202574,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58511.mp4,8:202574,2:202245,10:2450507,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37159.mp4,8:202245	leg=2:196328,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89623.mp4,8:196328
@@ -1284,6 +1286,7 @@ Sobreviventes - Depois do Terremoto (2023)	dub=https://embedplayer2.xyz/cdn/hls/
 Sobreviver a Noite (2020)	dub=https://embedplayer2.xyz/cdn/hls/b8c3e6750ff695caf892f5002ee55923/master.txt,6:1298559,2:46164,10:2454264,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7335.mp4,8:46164
 Sobrou Pra Você	dub=2:67503,8:67503
 Sobrou Pra Você (2000)	dub=6:1301289
+Social Media Killed the Movie Star	leg=2:399290
 Sociedade Secreta dos Segundos Filhos Reais (2020)	dub=https://embedplayer2.xyz/cdn/hls/3d0227ca3a07edab20586a8db49bcdb2/master.txt,6:1297979,2:358159,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58565.mp4,8:358159,2:75659,10:2458605,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34697.mp4,8:75659
 Sociedade da Justica: 2ª Guerra Mundial (2021)	dub=6:1298399
 Sociedade da Justiça: 2ª Guerra Mundial	dub=2:104143,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11295.mp4,8:104143
@@ -1294,6 +1297,8 @@ Sociedade dos Poetas Mortos (1989)	dub=6:1301427
 Sociedade dos Talentos Mortos	dub=10:2450008	leg=2:317073,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89884.mp4,8:317073
 Socorro (2026)	dub=https://embedplayer2.xyz/cdn/hls/6d0fc9fd080dae690897041e399bfeb8/master.txt,6:1314562,2:377215,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254242.mp4,8:377215,2:377108,10:2444653,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254241.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254833.mp4,8:377108	leg=6:1314561,2:377107,2:371181,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250099.mp4,8:377107,8:371181
 Socorro Nobre	dub=2:366118,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97177.mp4,8:366118
+Socorro! Minha Babá Tirou Férias!	dub=2:398858,2:398860	leg=2:398859
+Socorro! Minha Babá Tirou Férias! (2026)	dub=10:2472041
 Socorro, Virei uma Garota! (2019)	dub=https://embedplayer2.xyz/cdn/hls/68718041e03e07c7a1e90fbd21bfad01/master.txt,6:1297955,2:332694,2:30624,10:2461918,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19526.mp4,8:332694,8:30624
 Sofa Assassino (2019)	dub=6:1297956
 Sofia Foi	dub=2:396028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315429.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315434.mp4,8:396028	leg=2:396027,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315425.mp4,8:396027
@@ -1686,7 +1691,7 @@ Stoyan	dub=2:194203,8:194203
 Stoyan (2022)	dub=6:1306497
 Straight	dub=10:2449822	leg=2:317275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90343.mp4,8:317275
 Straight Outta Compton A Historia do NWA (2015)	dub=https://embedplayer2.xyz/cdn/hls/03d8dada5e8117bd85926a5b2bb8068b/master.txt,6:1301307,2:47429,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31820.mp4,8:47429
-Straight Outta Compton: A História do N.W.A.	dub=https://embedplayer2.xyz/cdn/hls/03d8dada5e8117bd85926a5b2bb8068b/master.txt,2:372790,10:2455754,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306355.mp4,8:372790	leg=2:372789,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251243.mp4,8:372789
+Straight Outta Compton: A História do N.W.A.	dub=2:372790,10:2455754,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306355.mp4,8:372790	leg=2:372789,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251243.mp4,8:372789
 Stranger Minds (2023)	leg=https://embedplayer2.xyz/cdn/hls/9fceb4f78cd22f9bc0d9a45bf6dd98b5/master.txt
 Strangers (2024)	dub=https://embedplayer2.xyz/cdn/hls/ca64cdf0bd21f5e69ad78b374ead4e7e/master.txt
 Stranizza d'amuri (2023)	dub=https://embedplayer2.xyz/cdn/hls/1b962eec70f78f485b8d22d82b22e5a3/master.txt	leg=6:1311476
@@ -1947,12 +1952,14 @@ Só Mais Uma Frase	dub=2:186751,10:2455978,http://dbonline.tech-cdn.top:80/movie
 Só Mais Uma Frase (2022)	dub=6:1305494
 Só Pode Ser Amor	dub=2:185316,10:2459838,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19663.mp4,8:185316	leg=2:185317,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90621.mp4,8:185317
 Só Que Não	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19681.mp4
+Só Termina Quando Acaba	dub=2:398857
+Só Termina Quando Acaba (2024)	dub=10:2472042
 Só Você	dub=2:384377,2:127409,10:2444037,10:2446507,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42994.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307359.mp4,8:384377,8:127409	leg=2:384376,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307311.mp4,8:384376
 Só Você (1994)	dub=6:1305296
 Só Você (2023)	dub=https://embedplayer2.xyz/cdn/hls/cf4d9467143c5122f588e078c69c4131/master.txt
 Só no Carnaval...	dub=2:369443,8:369443
 Só no Sertão (2024)	dub=https://embedplayer2.xyz/cdn/hls/04b1ec7840afdd23bf8aaf95f7c6cd2d/master.txt,6:1303280,2:252794,10:2450872,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39341.mp4,8:252794
-Só por Uma Noite (2026)	dub=https://embedplayer2.xyz/cdn/hls/832eaab3a686d430bb74f4112ce9d498/master.txt,8:398651,8:398587	leg=8:398586
+Só por Uma Noite (2026)	dub=https://embedplayer2.xyz/cdn/hls/832eaab3a686d430bb74f4112ce9d498/master.txt,10:2472276,2:398651,8:398651,2:398587,8:398587	leg=2:398586,8:398586
 Sócias em Guerra	dub=2:42954,10:2461454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19668.mp4,8:42954
 Sócias em Guerra (2020)	dub=6:1308130
 Sócrates (2018)	dub=https://embedplayer2.xyz/cdn/hls/3c4537a65ae734dfd8880dcea34cbc78/master.txt,6:1308227,2:31434,10:2455860,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31707.mp4,8:31434

@@ -89,6 +89,7 @@ La boda de Rosa (2020)	dub=https://embedplayer2.xyz/cdn/hls/48fca0eb13a0b0f4ffbc
 La bête dans la jungle (2023)	leg=6:1311306
 La casa de papel: El fenómeno	dub=2:42922,10:2453363,8:42922
 La coda del diavolo	dub=2:353478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/626.mp4,8:353478	leg=2:353477,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76528.mp4,8:353477
+La coleccionista	dub=2:399304	leg=2:399303
 La dicha en movimiento	leg=2:390296,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311015.mp4,8:390296
 La fianza	dub=2:352716,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/630.mp4,8:352716	leg=2:352715,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76538.mp4,8:352715
 La fiebre de los ricos (2024)	dub=https://embedplayer2.xyz/cdn/hls/a87b2fdd5492c724a2ae1493e1f70236/master.txt
@@ -205,6 +206,7 @@ Larissa: O Outro Lado de Anitta (2025)	dub=https://embedplayer2.xyz/cdn/hls/afa5
 Larry Crowne: O Amor Está de Volta	dub=2:263099,10:2461028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15956.mp4,8:263099
 Larry Crowne: O Amor Está de Volta (2011)	dub=6:1305157
 Las Leyes de la Termodinamica	dub=2:22569,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27271.mp4,8:22569
+LasVegas	leg=2:399178
 Lascados	dub=2:366098,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97160.mp4,8:366098
 Lassie	dub=2:96866,10:2455175,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27280.mp4,8:96866
 Lassie de Volta a Casa	dub=2:178556,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12007.mp4,8:178556	leg=2:178543,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76708.mp4,8:178543
@@ -244,7 +246,7 @@ Le paradis (2023)	leg=6:1309188
 Leal So Existe uma Maneira de Viver	dub=2:22034,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4638.mp4,8:22034
 Lealdade à Prova (2019)	dub=https://embedplayer2.xyz/cdn/hls/f3cad11ad4d7ae5bdeee204a7204a4b6/master.txt,6:1308075,2:48212,10:2456263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27307.mp4,8:48212
 Leao Branco: O Lutador Sem Lei (1990)	dub=6:1300020
-Learning How To Fly	leg=8:398800
+Learning How To Fly	leg=2:398800,8:398800
 Leaving Neverland 2: Surviving Michael Jackson	dub=2:376519,10:2444435,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253459.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254771.mp4,8:376519	leg=2:376518,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253449.mp4,8:376518
 Lection	leg=2:63012,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76761.mp4,8:63012
 Lee (2024)	dub=https://embedplayer2.xyz/cdn/hls/3c7045f6ca79069f18d1bbb788e0d989/master.txt,6:1313216,2:315325,10:2447777,10:2450589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36976.mp4,8:315325	leg=6:1312314,6:1313215,2:315326,2:291257,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76776.mp4,8:315326,8:291257
@@ -437,8 +439,7 @@ Lilian M: Relatório Confidencial	dub=2:370343,http://dbonline.tech-cdn.top:80/m
 Lilith Fair: Construindo um Mistério	leg=2:378010,8:378010
 Lilly Lives Alone (2025)	dub=10:2457717	leg=https://embedplayer2.xyz/cdn/hls/aa8ffcb3c3ddb8e41c3ec74a87ca776d/master.txt
 Lilly e o Natal Encantado (2017)	dub=6:1302973
-Lilo & Stitch	dub=https://embedplayer2.xyz/cdn/hls/35e556752717d78a474e6bd4d576a7eb/master.txt,2:343128,10:2444419,10:2448948,10:2459316,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16001.mp4,8:343128	leg=2:343127,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77046.mp4,8:343127
-Lilo & Stitch (2002)	dub=6:1297824
+Lilo & Stitch (2002)	dub=https://embedplayer2.xyz/cdn/hls/35e556752717d78a474e6bd4d576a7eb/master.txt,6:1297824,2:343128,10:2444419,10:2448948,10:2459316,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16001.mp4,8:343128	leg=2:343127,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77046.mp4,8:343127
 Lilo & Stitch 2: Stitch Deu Defeito	dub=2:247349,10:2459680,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9898.mp4,8:247349
 Lilo Lilo Crocodilo (2022)	dub=6:1300831	leg=6:1300830
 Lilo e Stitch	dub=2:20382,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9902.mp4,8:20382
@@ -448,7 +449,7 @@ Lilo e Stitch 2: Stitch Deu Defeito (2005)	dub=6:1300792
 Lilo, Lilo, Crocodilo	dub=2:180623,8:180623	leg=2:180624,8:180624
 Lima Barreto ao Terceiro Dia	dub=2:182297,10:2455451,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27356.mp4,8:182297
 Lima Barreto ao Terceiro Dia (2019)	dub=6:1306814
-Limbo	dub=2:150731,10:2457735,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27367.mp4,8:150731	leg=2:150729,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77052.mp4,8:150729
+Limbo	dub=2:399155,2:150731,10:2457735,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27367.mp4,8:150731	leg=2:399154,2:150729,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77052.mp4,8:150729
 Limbo (2020)	dub=6:1305867	leg=6:1305868
 Limbo Entre O Ceu E O Inferno	dub=2:30536,10:2459968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16014.mp4,8:30536
 Limbo Entre o Ceu e o Inferno (2019)	dub=6:1301330
@@ -516,8 +517,10 @@ Little Wing (2024)	dub=6:1304076	leg=6:1304075
 Liuben	leg=2:393726,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313371.mp4,8:393726
 Live Is Life (2022)	dub=6:1299672
 Live Marilia Mendonca TodosOsCantosdeCasa	dub=2:137607,8:137607
+Live dos Infernos	dub=2:399288
 Live is Life	dub=2:166219,10:2460113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16023.mp4,8:166219	leg=2:166228,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77118.mp4,8:166228
 Lively vs Baldoni: Escândalo em Hollywood (2025)	dub=https://embedplayer2.xyz/cdn/hls/0a0670a101bdb4c10cf9377bf8bb74a7/master.txt,10:2445086
+Livestream from Hell	dub=2:399243,10:2472326	leg=2:399242
 Living the Land	leg=2:379424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256482.mp4,8:379424
 Livinho e MC Davi: Lollapalooza Brasil (2024)	dub=6:1303261
 Livrai nos do Mal (2014)	dub=6:1314364
@@ -608,11 +611,11 @@ Los Angeles: Cidade Proibida	dub=2:352217,2:64386,10:2446551,http://dbonline.tec
 Los Angeles: Cidade Proibida (1997)	dub=6:1298522
 Los Bandoleros	dub=10:2448146	leg=2:333577,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77231.mp4,8:333577
 Los Nobles: Quando os Ricos Quebram a Cara	dub=2:362861,10:2461806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53518.mp4,8:362861	leg=2:362860,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77236.mp4,8:362860
-Los lobos	dub=https://embedplayer2.xyz/cdn/hls/8dbaf14353fc0b8b18b6eb025783e8f3/master.txt	leg=2:148692,2:76666,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77241.mp4,8:148692,8:76666
-Los lobos (2020)	dub=6:1299214
+Los lobos (2020)	dub=https://embedplayer2.xyz/cdn/hls/8dbaf14353fc0b8b18b6eb025783e8f3/master.txt,6:1299214	leg=2:148692,2:76666,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77241.mp4,8:148692,8:76666
 Lost Girls - Os Crimes de Long Island (2020)	dub=6:1297889
 Lost Girls And Love Hotels	leg=2:75658,2:73279,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77246.mp4,8:75658,8:73279
 Lost Girls: Os Crimes de Long Island	dub=2:192106,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56697.mp4,8:192106,2:41567,8:41567
+Lost Queen	leg=2:399179
 Lost and Found in Armenia	leg=2:390149,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310673.mp4,8:390149
 Lost in Paradise	dub=10:2444485
 Lost on a Mountain in Maine	dub=https://embedplayer2.xyz/cdn/hls/21d0008bdd8d9e106021df8e5fae375a/master.txt	leg=2:302730,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77253.mp4,8:302730
@@ -676,6 +679,8 @@ Love Captive To The Mafia Boss	dub=2:389567,8:389567	leg=http://dbonline.tech-cd
 Love Film Festival	dub=2:382458,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301345.mp4,8:382458
 Love Film Festival (2014)	dub=6:1302519
 Love Is Blind: The Reunion	leg=2:370147,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249225.mp4,8:370147
+Love Kills	dub=2:399293
+Love Kills (2026)	dub=10:2472339
 Love Lies Bleeding - O Amor Sangra	dub=2:274994,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21530.mp4,8:274994	leg=2:274995,2:258321,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77312.mp4,8:274995,8:258321
 Love Lies Bleeding - O Amor Sangra (2024)	leg=6:1303578
 Love Me (2025)	dub=https://embedplayer2.xyz/cdn/hls/e6997399ac198ce9bcb36bbdd93d58d0/master.txt,6:1313786,10:2444402

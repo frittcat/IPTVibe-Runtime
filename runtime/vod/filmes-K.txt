@@ -1,9 +1,7 @@
 K-9: D.P.: Um Policial Bom pra Cachorro	dub=2:127453,10:2454113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4467.mp4,8:127453
-K-Pops!	dub=https://embedplayer2.xyz/cdn/hls/bc6ed2d79542990e778af4b1e18ffab4/master.txt,2:380676,10:2443984,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290727.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290818.mp4,8:380676	leg=2:380675,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290768.mp4,8:380675
-K-Pops. (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301382.mp4
-K.O.	dub=https://embedplayer2.xyz/cdn/hls/3a7f1d0a986e25002f38ae60bbdf117f/master.txt,2:327563,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56524.mp4,8:327563,2:325901,10:2455139,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4474.mp4,8:325901	leg=2:325900,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76204.mp4,8:325900
+K-Pops. (2026)	dub=https://embedplayer2.xyz/cdn/hls/bc6ed2d79542990e778af4b1e18ffab4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301382.mp4,2:380676,10:2443984,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290727.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290818.mp4,8:380676	leg=2:380675,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290768.mp4,8:380675
+K.O.	dub=2:327563,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56524.mp4,8:327563,2:325901,10:2455139,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4474.mp4,8:325901	leg=2:325900,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76204.mp4,8:325900
 K.O. (2025)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300827.mp4
-K19 (2002)	dub=10:2467779
 K9 DP: Um Policial Bom pra Cachorro (2002)	dub=6:1299910
 KILL: O Massacre no Trem (2024)	dub=6:1312396	leg=6:1311784
 KIZUMONOGATARI -Koyomi Vamp-	dub=10:2447831	leg=2:299622,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76439.mp4,8:299622
@@ -40,6 +38,7 @@ Kamen Rider Gotchard GRADUATIONS	leg=2:345111,http://dbonline.tech-cdn.top:80/mo
 Kamen Rider Gotchard: The Future Daybreak	dub=10:2449920	leg=2:303575,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76256.mp4,8:303575
 Kamp Holland	dub=2:42910,10:2458041,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27196.mp4,8:42910
 Kamp Holland (2016)	dub=6:1307589
+Kanakaraju Coreano	leg=2:399006
 Kandasamys: A Viagem (2021)	dub=https://embedplayer2.xyz/cdn/hls/2be7ae61fb3d4ebcefd86b9c4ab3535d/master.txt,6:1308989,2:109205,10:2460545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15868.mp4,8:109205
 Kandasamys: O Bebê (2023)	dub=https://embedplayer2.xyz/cdn/hls/a10f61f4878809e17be8418242ee903f/master.txt,6:1309647,2:221641,10:2461158,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15877.mp4,8:221641	leg=6:1309648,2:221642,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76264.mp4,8:221642
 Kandisha: Invocação ao Demônio	dub=https://embedplayer2.xyz/cdn/hls/8aa33af3364e074d2c21f430e56b08f7/master.txt,2:311227,10:2447896,10:2451871,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49476.mp4,8:311227	leg=2:311228,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76271.mp4,8:311228
@@ -218,7 +217,7 @@ Krwawe trofeum	leg=2:338424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Kryptic	dub=https://embedplayer2.xyz/cdn/hls/56e54deaf9e9dfb20c3a67020df1816e/master.txt,2:356852,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/618.mp4,8:356852	leg=2:356851,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76483.mp4,8:356851
 Kubo e as Cordas Mágicas	dub=2:128570,10:2459191,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9736.mp4,8:128570
 Kubo e as Cordas Mágicas (2016)	dub=6:1305061
-Kung Fu Futebol Clube (2001)	dub=https://embedplayer2.xyz/cdn/hls/8b61fc656990b7a718cfbd7211ae59b2/master.txt,6:1297546,2:20643,10:2459889,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15900.mp4,8:20643
+Kung Fu Futebol Clube (2001)	dub=https://embedplayer2.xyz/cdn/hls/8b61fc656990b7a718cfbd7211ae59b2/master.txt,6:1297546,2:399153,2:20643,10:2459889,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15900.mp4,8:20643	leg=2:399152
 Kung Fu Panda (2008)	dub=https://embedplayer2.xyz/cdn/hls/b38b0e4282e2d1bdf73080d9b7e49ee2/master.txt,6:1297093,10:2459497
 Kung Fu Panda 1	dub=https://embedplayer2.xyz/cdn/hls/b38b0e4282e2d1bdf73080d9b7e49ee2/master.txt,2:20378,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9753.mp4,8:20378
 Kung Fu Panda 2 (2011)	dub=https://embedplayer2.xyz/cdn/hls/50e0a99da3afcfabdcd68cd2ca28da76/master.txt,6:1297094,2:20379,10:2459209,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9740.mp4,8:20379

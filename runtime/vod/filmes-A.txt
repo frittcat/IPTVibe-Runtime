@@ -317,7 +317,7 @@ A Casa de Tijolos de Barro (2024)	dub=https://embedplayer2.xyz/cdn/hls/cdd6bb035
 A Casa de Verão	dub=2:381807,10:2444159,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301344.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301364.mp4,8:381807	leg=2:381806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300974.mp4,8:381806
 A Casa de Verão (2026)	dub=6:1500865
 A Casa de Vidro (2001)	dub=https://embedplayer2.xyz/cdn/hls/3611d084317dc49315012dc2677ae31b/master.txt,6:1307293,2:95904,10:2457532,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22289.mp4,8:95904
-A Casa de Vidro 2	dub=10:2445380,8:398494	leg=8:398493
+A Casa de Vidro 2	dub=2:398494,10:2445380,8:398494	leg=2:398493,8:398493
 A Casa do Engano (2024)	dub=https://embedplayer2.xyz/cdn/hls/af30a009b2030f4f353002667ccd81e8/master.txt,6:1313787,2:359047,10:2445066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/148.mp4,8:359047	leg=2:359046,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60290.mp4,8:359046
 A Casa do Lago	dub=2:21542,10:2446883,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41116.mp4,8:21542
 A Casa do Lago (2006)	dub=6:1298691
@@ -554,7 +554,7 @@ A Dama e o Vagabundo	dub=2:41191,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 A Dama e o Vagabundo (1955)	dub=6:1300872
 A Dama e o Vagabundo (2019)	dub=6:1300871
 A Dama e o Vagabundo 2: As Aventuras de Banze (2001)	dub=6:1300933
-A Dama e o Vagabundo II: As Aventuras de Banzé	dub=10:2459343,8:398551	leg=8:398550
+A Dama e o Vagabundo II: As Aventuras de Banzé	dub=2:398551,10:2459343,8:398551	leg=2:398550,8:398550
 A Dama na Agua (2006)	dub=6:1302210
 A Dama na Água	dub=2:138917,10:2458464,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33398.mp4,8:138917
 A Danca dos Vampiros (1967)	dub=6:1300775
@@ -1137,7 +1137,7 @@ A Heroina em Cape Cod (2015)	dub=6:1302230
 A Heroína da Fita (2026)	dub=https://embedplayer2.xyz/cdn/hls/3d74ff8cb9d5a429e683912bdd508dcf/master.txt,10:2444103,10:2444119
 A Heroína em Cape Cod	dub=2:134056,10:2453100,8:134056
 A Hidden Life	dub=https://embedplayer2.xyz/cdn/hls/3e8d57243585e6d94382f49b50cd9297/master.txt	leg=2:40616,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61098.mp4,8:40616
-A Hipótese do Amor	dub=8:398796,8:398711	leg=8:398710
+A Hipótese do Amor	dub=2:398796,8:398796,2:398711,10:2472278,8:398711	leg=2:398710,8:398710
 A Historia Pessoal de David Copperfield (2019)	dub=6:1298176
 A Historia Sem Fim II (1990)	dub=6:1299231
 A Historia Verdadeira	dub=2:20904,10:2457185,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22634.mp4,8:20904
@@ -1182,7 +1182,7 @@ A História do Maior Best-Seller de Todos os Tempos	dub=2:286350,10:2453208,8:28
 A História sem Fim	dub=2:106807,10:2455670,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22653.mp4,8:106807
 A Hora Da Sua Morte	dub=2:41193,10:2452361,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46869.mp4,8:41193
 A Hora Da Sua Morte (2019)	dub=6:1297890
-A Hora Mais Escura	dub=2:108272,10:2445978,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43556.mp4,8:108272
+A Hora Mais Escura	dub=2:398942,2:108272,10:2445978,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43556.mp4,8:108272	leg=2:398941
 A Hora Mais Escura (2012)	dub=6:1298402
 A Hora Negra	dub=2:376744,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253861.mp4,8:376744	leg=2:376743,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253808.mp4,8:376743
 A Hora da Escuridao (2011)	dub=6:1301361
@@ -1373,7 +1373,7 @@ A Jornada de Vivo	dub=2:117537,10:2461494,http://dbonline.tech-cdn.top:80/movie/
 A Jornada de Vivo (2021)	dub=6:1298669
 A Jornada: Uma Viagem Pelo Tempo (2003)	dub=6:1304000
 A Jovem Bruxa	dub=2:335749,10:2447260,10:2458844,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33458.mp4,8:335749	leg=2:335748,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61261.mp4,8:335748
-A Jovem Juliette	dub=2:144894,10:2461339,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12564.mp4,8:398496,8:144894	leg=2:144895,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61271.mp4,8:398495,8:144895
+A Jovem Juliette	dub=2:398496,2:144894,10:2461339,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12564.mp4,8:398496,8:144894	leg=2:398495,2:144895,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61271.mp4,8:398495,8:144895
 A Jovem Juliette (2019)	dub=6:1300356
 A Jovem Rainha Vitória	dub=2:347277,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22703.mp4,8:347277	leg=2:347276,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61276.mp4,8:347276
 A Jovem Rainha Vitória (2009)	dub=6:1313791
@@ -1624,7 +1624,7 @@ A Maldição do Queen Mary (2023)	dub=https://embedplayer2.xyz/cdn/hls/bb6bcfb54
 A Maldição do Sanpaku	dub=2:370873,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249894.mp4,8:370873
 A Maldição do Titanic	dub=2:256936,10:2449279,10:2451910,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47124.mp4,8:256936	leg=2:256937,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61582.mp4,8:256937
 A Maldição do Tubarão	dub=2:394477,10:2444133,10:2444149,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313979.mp4,8:394477	leg=2:394476,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313925.mp4,8:394476
-A Maldição dos Brinquedos	dub=8:398553	leg=8:398552
+A Maldição dos Brinquedos	dub=2:398553,8:398553	leg=2:398552,8:398552
 A Maldição dos Esquecidos	dub=2:213953,2:114386,10:2452113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47128.mp4,8:213953,8:114386	leg=2:213954,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61592.mp4,8:213954
 A Maldição dos Minimoys	dub=https://embedplayer2.xyz/cdn/hls/6780034a975bd02be47107c1bb8724a1/master.txt,2:343123,10:2448139,10:2451296,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47133.mp4,8:343123	leg=2:343122,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61587.mp4,8:343122
 A Maldição dos Templários	dub=2:200319,10:2452293,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47136.mp4,8:200319	leg=2:200318,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61597.mp4,8:200318
@@ -1768,7 +1768,8 @@ A Morte Te Da Parabens 2 (2019)	dub=https://embedplayer2.xyz/cdn/hls/1c136453694
 A Morte Veste Vermelho	dub=2:310586,10:2451928,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47209.mp4,8:310586
 A Morte de Branca de Neve (2025)	leg=https://embedplayer2.xyz/cdn/hls/207164fd287b648949de2d8bc71df7a4/master.txt
 A Morte de Jesus: Uma Investigação Médica	dub=2:318541,10:2452886,8:318541
-A Morte de Robin Hood	dub=8:398845	leg=2:389187,10:2444172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310334.mp4,8:389187
+A Morte de Robin Hood	dub=2:399010,2:398845,8:398845	leg=2:389187,10:2444172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310334.mp4,8:389187
+A Morte de Robin Hood (2026)	dub=10:2471642
 A Morte de Stalin	dub=2:20500,10:2460535,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12620.mp4,8:20500
 A Morte de Stalin (2017)	dub=6:1310346
 A Morte de um Unicornio (2025)	dub=https://embedplayer2.xyz/cdn/hls/89facaa8edc888f500fa1b57cbb1604d/master.txt,6:1313714,2:338421,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54197.mp4,8:338421,10:2444543	leg=6:1313713,10:2448534
@@ -2121,8 +2122,7 @@ A Possessão de Deborah Logan (2014)	dub=6:1305059
 A Possessão de Mary	dub=2:45116,10:2451679,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47320.mp4,8:45116
 A Possessão do Mal	dub=2:348088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47316.mp4,8:348088	leg=2:348087,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62059.mp4,8:348087
 A Poucos Passos de Paris	dub=2:348136,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12689.mp4,8:348136	leg=2:348135,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62070.mp4,8:348135
-A Praga	dub=https://embedplayer2.xyz/cdn/hls/1e61a93c3b429e0f3e0f8d919b3deebb/master.txt	leg=2:367006,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97716.mp4,8:367006
-A Praga (2021)	dub=6:1303091
+A Praga (2021)	dub=https://embedplayer2.xyz/cdn/hls/1e61a93c3b429e0f3e0f8d919b3deebb/master.txt,6:1303091	leg=2:367006,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97716.mp4,8:367006
 A Praia	dub=2:233809,10:2457379,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22942.mp4,8:233809
 A Praia (2000)	dub=6:1298504
 A Premonicao	dub=2:99815,10:2445832,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43703.mp4,8:99815
@@ -2319,6 +2319,7 @@ A Ressurreição de Charles Manson (2023)	dub=6:1311606	leg=6:1311607
 A Ressurreição de Jesus	dub=2:157452,10:2455884,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23010.mp4,8:157452
 A Ressurreição de Jesus (2021)	dub=6:1306559
 A Restauração (2024)	dub=https://embedplayer2.xyz/cdn/hls/a6576053b7b1cb95153fd37d64863a58/master.txt
+A Revanche	dub=2:398944	leg=2:398943
 A Revanche Final	dub=2:349025,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21087.mp4,8:349025	leg=2:349024,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62257.mp4,8:349024
 A Reviravolta	dub=2:26395,10:2457316,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23014.mp4,8:26395
 A Reviravolta (2017)	dub=6:1307683
@@ -2478,7 +2479,7 @@ A TORTURA DO MEU AMANTE MODERNO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin
 A TRAVESSIA JA FICOU PARA TRAS	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302518.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302538.mp4
 A Tabacaria	dub=2:88693,10:2456962,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23063.mp4,8:88693
 A Tabacaria (2018)	dub=6:1303765
-A Tartaruga e a Lebre: A Revanche do Século	dub=8:398498	leg=8:398497
+A Tartaruga e a Lebre: A Revanche do Século	dub=2:398498,8:398498	leg=2:398497,8:398497
 A Tecnologia Social	dub=2:366078,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97117.mp4,8:366078
 A Teia	dub=2:275481,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54295.mp4,8:275481,2:275480,2:265621,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21101.mp4,8:275480,8:265621	leg=2:275482,2:265622,2:256843,10:2450264,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62432.mp4,8:275482,8:265622,8:256843
 A Teia (2024)	dub=6:1304920	leg=6:1303421
@@ -2533,8 +2534,7 @@ A Trégua	dub=https://embedplayer2.xyz/cdn/hls/75b0267dc2b609278627c5be5b5b32f2/
 A Tumba do Diabo	dub=2:105524,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1790.mp4,8:105524
 A Turma do Bairro - Operação U.M.	dub=2:368201,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98840.mp4,8:368201
 A Turma do Bairro - Operação U.M. (2008)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300856.mp4
-A Turma do Bairro - Operação Z E.R.O. (2006)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300857.mp4
-A Turma do Bairro - Operação Z.E.R.O.	dub=https://embedplayer2.xyz/cdn/hls/e2f0bf9aa6db32e371c8d87e412938b0/master.txt,2:368202,2:340454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8524.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289489.mp4,8:368202,8:340454
+A Turma do Bairro - Operação Z E.R.O. (2006)	dub=https://embedplayer2.xyz/cdn/hls/e2f0bf9aa6db32e371c8d87e412938b0/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300857.mp4,2:368202,2:340454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8524.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289489.mp4,8:368202,8:340454
 A Turma do Pererê.DOC	dub=2:205201,10:2453147,8:205201
 A Turma do Pererê.DOC (2019)	dub=6:1310672
 A Turma dos Geeks	dub=2:219945,10:2446967,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53036.mp4,8:219945	leg=2:219944,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62485.mp4,8:219944
@@ -2690,6 +2690,7 @@ A Vida em Mim (2019)	dub=6:1310743
 A Vida em Si	dub=2:20930,10:2456664,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23190.mp4,8:20930
 A Vida em Si (2018)	dub=6:1310456
 A Vida em um Ano (2020)	dub=6:1301121
+A Vida em um Pote de Vidro	dub=2:398947	leg=2:398946
 A Vida no Skate com Leo Baker (2022)	dub=https://embedplayer2.xyz/cdn/hls/86cf4f264da6e6f771bb7103529dbb83/master.txt,2:392592,8:392592	leg=2:392591,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312015.mp4,8:392591
 A Vida por Philomena Cunk (2024)	leg=6:1312907
 A Vida É Um Circo, Charlie Brown	dub=2:324004,8:324004	leg=2:324003,8:324003
@@ -2786,7 +2787,7 @@ A Volta do Espírito de Natal (2017)	dub=6:1307920
 A Volta do Homem de Seis Milhões de Dólares e da Mulher Biônica	leg=2:370878,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249867.mp4,8:370878
 A Volta do Incrível Hulk	dub=2:315413,10:2459065,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35472.mp4,8:315413
 A Volta do Juizo Final (2017)	dub=6:1309180
-A Volta do Mestre dos Brinquedos	dub=8:398555	leg=8:398554
+A Volta do Mestre dos Brinquedos	dub=2:398555,8:398555	leg=2:398554,8:398554
 A Volta do Todo Poderoso	dub=2:101649,10:2460642,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12786.mp4,8:101649
 A Volta do Todo Poderoso (2007)	dub=6:1297624
 A Volta dos Mortos Vivos	dub=2:382816,2:21702,10:2451674,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47441.mp4,8:382816,8:21702	leg=2:382815,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300998.mp4,8:382815
@@ -2895,8 +2896,7 @@ A Última Viagem	dub=2:145925,10:2460859,http://dbonline.tech-cdn.top:80/movie/k
 A Última Viagem (2019)	dub=6:1304605	leg=6:1304606
 A Última Vítima	dub=2:169754,10:2454046,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1827.mp4,8:169754
 A Única Mulher na Orquestra	dub=10:2449781	leg=2:314590,2:314589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40538.mp4,8:314590,8:314589
-A Única Saída	dub=https://embedplayer2.xyz/cdn/hls/962999e16892c77fc0fd8b23d5218248/master.txt	leg=2:380371,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289934.mp4,8:380371
-A Única Saída (2025)	dub=10:2466058
+A Única Saída (2025)	dub=https://embedplayer2.xyz/cdn/hls/962999e16892c77fc0fd8b23d5218248/master.txt,10:2466058	leg=2:380371,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289934.mp4,8:380371
 A Única Sobrevivente	dub=2:338669,10:2455673,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23310.mp4,8:338669	leg=2:338668,10:2450467,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62881.mp4,8:338668
 A-X-L: O Cão Robô (2018)	dub=6:1307730
 A.I.: Inteligência Artificial	dub=2:393674,2:371849,10:2459096,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250832.mp4,8:393674,8:371849	leg=2:393673,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313354.mp4,8:393673
@@ -2936,7 +2936,8 @@ AINDA ESCOLHO VOCE	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 AJOELHE-SE PELO RETORNO DA MINHA ESPOSA TOLA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302658.mp4
 AK vs AK	dub=2:90724,10:2461439,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12907.mp4,8:90724
 AK vs AK (2020)	dub=6:1308883
-AK-47: A Arma Que Mudou o Mundo (2020)	dub=https://embedplayer2.xyz/cdn/hls/155f9edb8af96fb01b7d9685e323168b/master.txt,10:2454954	leg=6:1298575
+AK-47: A Arma Que Mudou o Mundo	dub=10:2454954
+AK-47: A Arma Que Mudou o Mundo (2020)	leg=6:1298575
 AK47 A Arma Que Mudou o Mundo (2020)	dub=https://embedplayer2.xyz/cdn/hls/155f9edb8af96fb01b7d9685e323168b/master.txt,6:1313962,2:100745,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1904.mp4,8:100745
 ALEM DAS MARES	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301905.mp4
 ALFA DO DESTINO MEU GUARDIAO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301447.mp4
@@ -3253,6 +3254,7 @@ Adeus, Amor (1963)	dub=6:1310051
 Adeus, Borboleta	dub=2:159291,2:147463,10:2453431,8:159291,8:147463	leg=2:159280,2:147471,8:159280,8:147471
 Adeus, Capitão	dub=2:259064,10:2452798,8:259064
 Adeus, Capitão (2022)	dub=6:1305319
+Adeus, Emmanuelle	dub=2:398948
 Adeus, Idiotas	dub=2:160597,8:160597	leg=2:160587,8:160587
 Adeus, Idiotas (2020)	dub=6:1306159	leg=6:1306160
 Adeus, Lênin!	dub=2:161950,10:2456149,8:161950
@@ -3844,6 +3846,7 @@ Além dos Votos	dub=2:163270,10:2456821,http://dbonline.tech-cdn.top:80/movie/ke
 Além dos Votos (2019)	dub=6:1306266	leg=6:1306267
 Alô, Amigos	dub=2:33351,10:2450607,10:2459277,8:33351
 Alô, Amigos (1942)	dub=6:1309833
+Alô, privilégio? É a Chelsea.	dub=2:399143	leg=2:399142
 Ama-me	dub=2:139257,10:2456952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23516.mp4,8:139257	leg=2:139241,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63575.mp4,8:139241
 Ama-me (2021)	dub=6:1304882	leg=6:1304883
 Amadeus	dub=2:339279,10:2456463,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23525.mp4,8:339279
@@ -3877,7 +3880,7 @@ Amante a Domicílio (2013)	dub=6:1307289
 Amante sob Suspeita	dub=10:2459633
 Amante sob Suspeita (2018)	leg=6:1312231
 Amantes	dub=2:375921,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253668.mp4,8:375921	leg=2:375920,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253679.mp4,8:375920
-Amantes & Infiéis	dub=8:398500	leg=8:398499
+Amantes & Infiéis	dub=2:398500,8:398500	leg=2:398499,8:398499
 Amantes Eternos (2013)	dub=6:1300477
 Amantes e Traições	dub=2:35994,10:2459990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12999.mp4,8:35994
 Amantes e Traições (2018)	dub=6:1307942
@@ -4807,7 +4810,7 @@ Armas e Amores aka Segundo Turno	dub=2:112917,10:2457655,http://dbonline.tech-cd
 Armas em Jogo (2020)	dub=https://embedplayer2.xyz/cdn/hls/fddcd5526398fbb4abb58e5181ea16a0/master.txt,6:1302272,2:87116,10:2460509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13217.mp4,8:87116
 Armas na Mesa	dub=2:314687,10:2447617,10:2457187,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23897.mp4,8:314687	leg=2:314688,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64686.mp4,8:314688
 Armas na Mesa (2016)	dub=6:1301453
-Armações do Amor	dub=8:398501
+Armações do Amor	dub=2:398501,8:398501
 Armações do Amor (2006)	dub=6:1313012
 Armstrong (2019)	leg=6:1308466
 Armstrong Legendado	dub=2:26576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64696.mp4,8:26576
@@ -5180,7 +5183,7 @@ As Quatro Estações do Amor	dub=2:319544,http://dbonline.tech-cdn.top:80/movie/
 As Quatro Irmãs	dub=2:371855,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250509.mp4,8:371855
 As Quíntuplas: O Filme	dub=2:201988,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8759.mp4,8:201988	leg=2:201987,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64981.mp4,8:201987
 As Rachaduras de Jara (2018)	dub=6:1301373
-As Rainhas Da Torcida	dub=2:30564,10:2459849,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13319.mp4,8:30564
+As Rainhas da Torcida	dub=2:399145,2:30564,10:2459849,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13319.mp4,8:30564	leg=2:399144
 As Rainhas da Torcida (2019)	dub=6:1308367
 As Ridículas Ferias de Eddie (2003)	dub=6:1303328
 As Ruinas (2008)	dub=6:1311836	leg=6:1311835
@@ -5311,8 +5314,7 @@ Assassinato no Grupo de Mães (2018)	dub=6:1308453
 Assassinatos do Passado (2013)	dub=6:1303749
 Assassinatos em Boston (2000)	dub=6:1312861
 Assassinatos na Hamburgueria	dub=2:280607,10:2448418,10:2452970,8:280607	leg=2:280608,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65151.mp4,8:280608
-Assassino	dub=https://embedplayer2.xyz/cdn/hls/82f879dadaa5a68039a3acc46e74530a/master.txt,2:320037,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35530.mp4,8:320037	leg=2:320036,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65144.mp4,8:320036
-Assassino (2006)	dub=6:1303958
+Assassino (2006)	dub=https://embedplayer2.xyz/cdn/hls/82f879dadaa5a68039a3acc46e74530a/master.txt,6:1303958,2:320037,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35530.mp4,8:320037	leg=2:320036,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65144.mp4,8:320036
 Assassino Americano	dub=2:186478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21179.mp4,8:186478	leg=2:186480,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65146.mp4,8:186480
 Assassino Americano (2022)	dub=6:1301679
 Assassino Em Série	dub=2:31780,10:2445802,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43975.mp4,8:31780
@@ -5360,15 +5362,14 @@ Assedio Sexual (1994)	dub=6:1300122
 Assento Quente	dub=2:168537,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54726.mp4,8:168537,2:168510,10:2445755,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43983.mp4,8:168510	leg=2:168509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65191.mp4,8:168509
 Assento Quente (2022)	dub=6:1300018
 Assim Estava Escrito (1952)	dub=6:1302264
-Assim e a Vida (2017)	dub=6:1297746
+Assim e a Vida (2017)	dub=https://embedplayer2.xyz/cdn/hls/950ad4896ba0862249a7b5b9464e3d5c/master.txt,6:1297746,2:357560,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13358.mp4,8:357560	leg=2:357559,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65197.mp4,8:357559
 Assim na Tela Como no Céu	dub=2:348141,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13350.mp4,8:348141
 Assim na Terra Como no Inferno	dub=2:21716,10:2451847,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47838.mp4,8:21716
 Assim na Terra Como no Inferno (2014)	dub=6:1303258
-Assim é a Vida	dub=https://embedplayer2.xyz/cdn/hls/950ad4896ba0862249a7b5b9464e3d5c/master.txt,2:357560,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13358.mp4,8:357560	leg=2:357559,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65197.mp4,8:357559
 Assimilados - Os Novos Invasores de Corpos (2019)	dub=https://embedplayer2.xyz/cdn/hls/0ebc0830d67d515f19539b85abcb33e4/master.txt
 Assine Aquí	dub=2:265899,10:2447781,10:2456052,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24041.mp4,8:265899	leg=2:265900,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65193.mp4,8:265900
 Assine Aquí (2024)	dub=6:1310955	leg=6:1310956
-Assistente Virtual	dub=8:398816	leg=8:398815
+Assistente Virtual	dub=2:398816,8:398816	leg=2:398815,8:398815
 Assombrado Pelas Lembrancas de Voce	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302985.mp4
 Assombrosas	dub=2:192069,10:2451290,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47841.mp4,8:192069	leg=2:192068,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65202.mp4,8:192068
 Assombrosas (2023)	dub=6:1305483	leg=6:1305484
@@ -5531,7 +5532,8 @@ Atraídos Pelo Destino	dub=2:395889,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Atraídos Pelo Destino (2026)	dub=https://embedplayer2.xyz/cdn/hls/a590a1f19ebe3d127018bf81d14bb47e/master.txt,10:2469478,6:1503125
 Atraídos pelo Desejo	dub=2:249248,10:2445673,10:2449707,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43994.mp4,8:249248	leg=2:249249,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65332.mp4,8:249249
 Atrevida: A Paixão Não Tem Regras	dub=2:341813,10:2455799,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24084.mp4,8:341813	leg=2:341812,10:2448936,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65339.mp4,8:341812
-Atriz	dub=8:398669
+Atriz	dub=2:398669,8:398669
+Atriz (2023)	dub=10:2471617
 Atrás da Estante (2019)	dub=6:1308493
 Atrás da Linha Fuga para Dunkirk	dub=2:88674,10:2454738,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2259.mp4,8:88674
 Atrás da Linha: Fuga para Dunkirk (2020)	dub=6:1308859

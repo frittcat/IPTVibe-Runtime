@@ -373,6 +373,7 @@ Dead Leaves	dub=2:376776,10:2459518,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Dead Leaves (2004)	dub=6:1314535
 Dead List - Sua Hora Chegou	dub=2:27649,10:2452496,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48437.mp4,8:27649
 Dead List - Sua Hora Chegou (2018)	dub=6:1308107
+Dead Of Night	leg=2:399220
 Dead Reckoning	leg=2:92003,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69396.mp4,8:92003
 Dead Space: A Queda	dub=10:2459660
 Dead Trigger - Tiroteio Zumbi (2017)	dub=6:1299135
@@ -437,6 +438,7 @@ Deepsea Challenge 3D (2014)	leg=6:1310098
 Deerskin: Estilo Matador (2019)	leg=6:1308415
 Defendor	dub=2:128512,10:2457126,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25198.mp4,8:128512
 Defendor (2009)	dub=6:1305069
+Deite Comigo	dub=2:398957	leg=2:398956
 Deive Leonardo A Resposta (2023)	dub=6:1302896
 Deive Leonardo: A Resposta	dub=2:231339,10:2452869,8:231339	leg=2:231321,10:2449823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69492.mp4,8:231321
 Deixa Acontecer	dub=2:383102,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301304.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301376.mp4,8:383102,2:383022,10:2444041,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301305.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301375.mp4,8:383022	leg=2:383028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301075.mp4,8:383028
@@ -823,6 +825,7 @@ Desvio do Batimento Cardiaco	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Detenção	dub=2:295474,10:2445979,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44378.mp4,8:295474
 Determinado a Matar	dub=2:129340,10:2454224,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3239.mp4,8:129340
 Determinado a Matar (2003)	dub=6:1305060
+Detetive Chinatown	dub=2:399028	leg=2:399029
 Detetive Chinatown (2015)	dub=6:1303725
 Detetive Chinatown 2 (2018)	dub=6:1303726
 Detetive Chinatown 3	dub=2:250607,10:2454379,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3247.mp4,8:250607
@@ -958,8 +961,7 @@ Dia dos Mortos (2017)	dub=6:1303826
 Dia dos Namorados Macabro	dub=2:95909,10:2452345,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48526.mp4,8:95909
 Dia dos Namorados Macabro (2009)	dub=6:1303016
 Dia e Noite	dub=2:333264,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9272.mp4,8:333264
-Diablo	dub=https://embedplayer2.xyz/cdn/hls/c4f6bc21ac355559d4e321b1c61a339f/master.txt,2:45087,10:2447841,10:2454396,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3282.mp4,8:45087	leg=2:328509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70099.mp4,8:328509
-Diablo (2016)	dub=6:1302972
+Diablo (2016)	dub=https://embedplayer2.xyz/cdn/hls/c4f6bc21ac355559d4e321b1c61a339f/master.txt,6:1302972,2:45087,10:2447841,10:2454396,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3282.mp4,8:45087	leg=2:328509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70099.mp4,8:328509
 Diablo: A Última Corrida	dub=2:62572,10:2454504,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3286.mp4,8:62572
 Diablo: A Última Corrida (2019)	dub=6:1308341
 Diablo: Caçada Mortal (2025)	dub=https://embedplayer2.xyz/cdn/hls/c4f6bc21ac355559d4e321b1c61a339f/master.txt,6:1313653,2:334288,10:2454519,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3283.mp4,8:334288	leg=2:334287,10:2448208,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70131.mp4,8:334287
@@ -1022,8 +1024,7 @@ Dias de Trovão	dub=2:20000,10:2454708,http://dbonline.tech-cdn.top:80/movie/ke-
 Dias de Trovão (1990)	dub=6:1301273
 Dias de Trovão (2015)	dub=6:1310482
 Dias de Verao Noites de Verao (2018)	dub=https://embedplayer2.xyz/cdn/hls/7c6e93c9594505db8e1aaeadfa1e1e41/master.txt,6:1301163
-Dibu Martinez O Garoto que Parava o Tempo (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289523.mp4
-Dibu Martínez: O Garoto que Parava o Tempo	dub=https://embedplayer2.xyz/cdn/hls/9f199643a17ed4863acbf770d92967f4/master.txt,2:380257,10:2444208,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289926.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289961.mp4,8:380257	leg=2:380256,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289939.mp4,8:380256
+Dibu Martinez O Garoto que Parava o Tempo (2026)	dub=https://embedplayer2.xyz/cdn/hls/9f199643a17ed4863acbf770d92967f4/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289523.mp4,2:380257,10:2444208,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289926.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289961.mp4,8:380257	leg=2:380256,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289939.mp4,8:380256
 Dick Dinamite	dub=10:2444286,10:2444301
 Dick Tracy	dub=2:354219,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3294.mp4,8:354219	leg=2:354218,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70159.mp4,8:354218
 Diddy: A queda de um Monstro (2025)	leg=https://embedplayer2.xyz/cdn/hls/3cc902f8d335952f59d98f68de812f62/master.txt,6:1312924,2:307748,10:2448781,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70156.mp4,8:307748
@@ -1181,7 +1182,7 @@ Diário de um Banana 2: Rodrick é o Cara	dub=2:31782,10:2460778,http://dbonline
 Diário de um Banana 3: Dias de Cão	dub=2:31783,10:2460330,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14521.mp4,8:31783
 Diário de um Banana 4: Caindo na Estrada	dub=2:31784,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14525.mp4,8:31784
 Diário de um Banana no Natal: Casa dos Horrores	dub=2:231313,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55554.mp4,8:231313,2:231317,10:2458336,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9319.mp4,8:231317
-Diário de um Banana: A Gota d'Água	dub=https://embedplayer2.xyz/cdn/hls/087875c63f7244b5609d132a8727b770/master.txt,2:355555,10:2445177,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/448.mp4,8:355555	leg=2:355554,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70305.mp4,8:355554
+Diário de um Banana: A Gota d'Água	dub=2:355555,10:2445177,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/448.mp4,8:355555	leg=2:355554,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70305.mp4,8:355554
 Diário de um Banana: Caindo na Estrada	dub=10:2459949
 Diário de um Banana: Caindo na Estrada (2017)	dub=6:1307650
 Diário de uma Louca	dub=2:347143,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25376.mp4,8:347143	leg=2:347142,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70310.mp4,8:347142
@@ -1530,7 +1531,7 @@ Dragon Ball Z: O Retorno dos Androides	dub=2:131046,10:2459565,http://dbonline.t
 Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)	dub=https://embedplayer2.xyz/cdn/hls/1767d7be0a64944443f9e08f66c55494/master.txt,6:1312115	leg=https://embedplayer2.xyz/cdn/hls/1bb3bbba8ffe9ef18b6565eaacf26970/master.txt
 Dragon Ball: A Lenda de Shenlong (1986)	dub=https://embedplayer2.xyz/cdn/hls/9898dbc5ea616fafabfa6f55c2263c44/master.txt,6:1310312,2:20343,10:2459603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9349.mp4,8:20343
 Dragon Ball: Em Busca do Poder	dub=10:2459541
-Dragon Ball: Uma Aventura Mística (1988)	dub=https://embedplayer2.xyz/cdn/hls/6fb8cc867813970590423239ebbb462f/master.txt,8:398511	leg=https://embedplayer2.xyz/cdn/hls/2bab204f2c072ab27ee3cf451c309a0c/master.txt,8:398510
+Dragon Ball: Uma Aventura Mística (1988)	dub=https://embedplayer2.xyz/cdn/hls/6fb8cc867813970590423239ebbb462f/master.txt,2:398511,8:398511	leg=https://embedplayer2.xyz/cdn/hls/2bab204f2c072ab27ee3cf451c309a0c/master.txt,2:398510,8:398510
 Dragon Fight	dub=2:112961,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3373.mp4,8:112961
 Dragon Inn Parte 1 A Cidade da Tristeza (2020)	dub=6:1301907
 Dragon Inn Parte 2 A Noite dos Deuses (2021)	dub=6:1301908
@@ -1563,7 +1564,7 @@ Drillbit Taylor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF
 Drive	dub=2:390426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311088.mp4,8:390426,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/805?hash=1d76b3c0769fa12aeb5e9021	leg=2:390425,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311091.mp4,8:390425
 Drive (2011)	dub=6:1309111,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/805?hash=1d76b3c0769fa12aeb5e9021	leg=6:1309110
 Drive My Car (2021)	dub=https://embedplayer2.xyz/cdn/hls/11a38f3f61363c2d777fb271452414a6/master.txt,6:1306411,2:253533,2:163379,10:2449980,10:2456845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25498.mp4,8:253533,8:163379	leg=2:253534,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70675.mp4,8:253534
-Drive Through Fire	leg=8:398562
+Drive Through Fire	leg=2:398562,8:398562
 Drive-Thru: Fast Food da Morte	dub=2:384203,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307343.mp4,8:384203	leg=2:384202,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307279.mp4,8:384202
 Driveways	leg=2:91266,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70681.mp4,8:91266
 Driveways: Uma Amizade Inesperada	dub=2:194467,10:2456750,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25494.mp4,8:194467	leg=2:194468,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70686.mp4,8:194468

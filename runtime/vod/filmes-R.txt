@@ -110,7 +110,7 @@ Rainha do Mundo (2015)	dub=6:1298157
 Rainha do Natal	dub=2:227019,10:2458389,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40251.mp4,8:227019
 Rainha do Natal (2022)	dub=6:1311324
 Rainha do Ring	dub=10:2450084	leg=2:329643,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87659.mp4,8:329643
-Rainhas do Crime	dub=2:30438,10:2455021,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6744.mp4,8:398545,8:30438
+Rainhas do Crime	dub=2:398545,2:30438,10:2455021,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6744.mp4,8:398545,8:30438
 Rainhas do Crime (2019)	dub=6:1297947
 Rainhas em Fuga	dub=2:192105,10:2461558,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19108.mp4,8:192105	leg=2:192107,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87661.mp4,8:192107
 Rainhas em Fuga (2023)	dub=6:1301176
@@ -176,6 +176,7 @@ Rastros de Vingança	dub=2:365280,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Rastros de um Crime (2021)	dub=https://embedplayer2.xyz/cdn/hls/5dfdde1ed6a43b290c8bf3e51049dd8e/master.txt,6:1306759,2:160626,2:160625,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21832.mp4,8:160626,8:160625
 Rastros de um Sequestro (2017)	dub=https://embedplayer2.xyz/cdn/hls/1b73a873b1692a8bb1ae74035db23e81/master.txt,6:1301553,2:303671,10:2445901,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45828.mp4,8:303671
 Rastros de Ódio	dub=2:371941,2:365278,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96740.mp4,8:371941,8:365278
+Rastros de Ódio (1956)	dub=10:2472116
 Rastros do Alem (2018)	dub=6:1297172
 Rastros do Além	dub=2:355760,2:26393,10:2445873,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45837.mp4,8:355760,8:26393	leg=2:355759,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87691.mp4,8:355759
 Ratatouille	dub=2:20441,10:2459441,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11033.mp4,8:20441
@@ -212,7 +213,6 @@ Re Member The Last Night	dub=https://embedplayer2.xyz/cdn/hls/388b2b0e41278f896a
 Re-Animator: A Hora dos Mortos-Vivos	dub=2:311150,10:2458945,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36433.mp4,8:311150
 Re-Animator: Fase Terminal (2003)	dub=6:1307099
 Re/Member (2022)	dub=https://embedplayer2.xyz/cdn/hls/d0d3d88c86ed8b625f9b8587015b6ec4/master.txt,6:1306963	leg=6:1306964
-ReMember	dub=https://embedplayer2.xyz/cdn/hls/d0d3d88c86ed8b625f9b8587015b6ec4/master.txt,2:187563,10:2452709,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51633.mp4,8:187563	leg=2:187578,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88025.mp4,8:187578
 ReNascer (2023)	dub=https://embedplayer2.xyz/cdn/hls/e8c531295e7f43d06baefd6f691324e5/master.txt,6:1303376	leg=6:1303375
 Reacao em Cadeia (1996)	dub=6:1298535
 Reading Lolita in Tehran	dub=https://embedplayer2.xyz/cdn/hls/b5f6c7862d7a0a4345291acc7a138a0d/master.txt,2:347353,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31082.mp4,8:347353	leg=2:347352,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87732.mp4,8:347352
@@ -246,8 +246,8 @@ Rebeldes e Heróis	dub=2:138915,10:2454691,http://dbonline.tech-cdn.top:80/movie
 Rebeldes e Heróis (1991)	dub=6:1304244
 Rebeldia Indomavel (1967)	dub=6:1300498
 Rebeldia Indomável	dub=2:386824,10:2444098,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308625.mp4,8:386824	leg=2:386823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308655.mp4,8:386823
-Rebeliao	dub=2:24317,10:2453326,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6803.mp4,8:24317
 Rebeliao (2015)	dub=6:1303813
+Rebelião	dub=2:398980,2:24317,10:2453326,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6803.mp4,8:24317	leg=2:398979
 Rebelião Silenciosa	leg=2:384469,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307305.mp4,8:384469
 Rebelião em Alto Mar	dub=2:106841,10:2454567,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6807.mp4,8:106841
 Rebelião em Alto Mar (1984)	dub=6:1307368
@@ -270,7 +270,7 @@ Recompensa de Sangue a Herdeira Retorna	leg=http://dbonline.tech-cdn.top:80/movi
 Reconhecidos	dub=10:2444786
 Recontagem	dub=2:386826,10:2444069,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308624.mp4,8:386826	leg=2:386825,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308656.mp4,8:386825
 Recreo (2018)	dub=https://embedplayer2.xyz/cdn/hls/d478149a664f8e856ed5fef04b433128/master.txt,6:1301374,2:330037,10:2456398,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31093.mp4,8:330037
-Recrutas da Pesada	dub=8:398547	leg=8:398546
+Recrutas da Pesada	dub=2:398547,8:398547	leg=2:398546,8:398546
 Recrutas da Pesada (1981)	dub=6:1309412	leg=6:1309413
 Recuerdos del mal	leg=2:396030,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315424.mp4,8:396030
 Recuperando a Esperanca	dub=2:21144,10:2455898,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31097.mp4,8:21144
@@ -345,7 +345,7 @@ Refugiado Americano (2021)	dub=6:1301174
 Refugio (2021)	dub=6:1299192,2:147460,10:2458829,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36462.mp4,8:147460	leg=https://embedplayer2.xyz/cdn/hls/fa600dd894f348b553c60e4000edcf98/master.txt,6:1299191,2:147451,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87938.mp4,8:147451
 Refugio do Medo (2014)	dub=6:1303796
 Refém (2005)	dub=https://embedplayer2.xyz/cdn/hls/050d9d8751b7eaabf1da225a0b79d46a/master.txt,6:1307277,2:341804,2:104510,10:2448445,10:2454251,10:2457954,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6836.mp4,8:341804,8:104510	leg=2:341803,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87883.mp4,8:341803
-Refém Por um Fio (2026)	dub=https://embedplayer2.xyz/cdn/hls/a9df243f6368bc06563d8e240379e180/master.txt	leg=2:393788,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313383.mp4,8:393788
+Refém Por Um Fio (2026)	dub=https://embedplayer2.xyz/cdn/hls/a9df243f6368bc06563d8e240379e180/master.txt,10:2472341,2:399309	leg=2:393788,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313383.mp4,8:393788
 Refém Rebelde	dub=2:382669,2:129537,10:2454280,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6845.mp4,8:382669,8:129537	leg=2:382668,2:129540,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87906.mp4,8:382668,8:129540
 Refém da Paixão	dub=2:357597,2:307949,10:2446442,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31132.mp4,8:357597,8:307949	leg=2:357596,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87894.mp4,8:357596
 Refém de Uma Mentira (2023)	dub=2:328514,10:2457009,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31127.mp4,8:328514	leg=https://embedplayer2.xyz/cdn/hls/ab9be8563444df41237ce19629d1a0b0/master.txt,2:328513,10:2450293,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87901.mp4,8:328513
@@ -379,7 +379,8 @@ Regras Nao Se Aplicam	dub=2:23933,10:2446694,http://dbonline.tech-cdn.top:80/mov
 Regras Nao Se Aplicam (2016)	dub=6:1299948
 Regras da Atração	dub=2:347163,2:101409,10:2461539,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19146.mp4,8:347163,8:101409	leg=2:347162,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87950.mp4,8:347162
 Regras da Atração (2002)	dub=6:1307233
-Regras do Amor na Cidade Grande	dub=10:2448406	leg=2:338677,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87955.mp4,8:338677
+Regras do Amor na Cidade Grande	dub=2:399219,10:2448406	leg=2:399218,2:338677,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87955.mp4,8:338677
+Regras do Amor na Cidade Grande (2024)	dub=10:2472325
 Regras do Jogo	dub=2:363911,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53722.mp4,8:363911	leg=2:363910,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87959.mp4,8:363910
 Regresso a Halloweentown (2006)	dub=6:1300281
 Regresso do Mal	dub=2:328171,2:128550,10:2448730,10:2451760,10:2458307,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34669.mp4,8:328171,8:128550	leg=2:328170,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87970.mp4,8:328170
@@ -440,7 +441,7 @@ Relíquia Macabra (2020)	dub=6:1308194	leg=6:1308195
 Remando para o Ouro (2023)	dub=https://embedplayer2.xyz/cdn/hls/64c612767061880468f7dbe120023ee4/master.txt,6:1303167,2:265873,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58283.mp4,8:265873,2:249246,10:2450272,10:2456561,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31162.mp4,8:249246	leg=2:249247,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88020.mp4,8:249247
 Remanescentes - Esquecidos Por Deus	dub=2:21664,10:2445849,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45882.mp4,8:21664
 Remanescentes: Esquecidos por Deus (2014)	dub=6:1297635
-Remember (2022)	dub=6:1300986
+Remember (2022)	dub=https://embedplayer2.xyz/cdn/hls/d0d3d88c86ed8b625f9b8587015b6ec4/master.txt,6:1300986,2:187563,10:2452709,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51633.mp4,8:187563	leg=2:187578,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88025.mp4,8:187578
 Remédio Amargo (2020)	dub=https://embedplayer2.xyz/cdn/hls/e20b12c169b15af507aea635f518aaea/master.txt,6:1308809,2:73012,10:2445792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45887.mp4,8:73012
 Renascer S01E (1914)	dub=11:2311223
 Renascer da Terra	leg=2:381785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301234.mp4,8:381785
@@ -480,7 +481,7 @@ Replicante	dub=2:265626,10:2458184,http://dbonline.tech-cdn.top:80/movie/ke-vin-
 Replicante (2001)	dub=6:1303338
 Replicator	leg=2:384356,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307308.mp4,8:384356
 Repo Men O Resgate de Orgaos (2010)	dub=6:1302552
-Repo Men: O Resgate de Órgãos	dub=2:357599,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6888.mp4,8:357599	leg=2:357598,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88067.mp4,8:357598
+Repo Men: O Resgate de Órgãos	dub=2:399161,2:357599,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6888.mp4,8:357599	leg=2:399160,2:357598,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88067.mp4,8:357598
 Reprisal: Contra Ataque	dub=2:72644,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6900.mp4,8:72644
 Reputação	dub=2:181455,10:2460912,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19156.mp4,8:181455	leg=2:181415,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88072.mp4,8:181415
 Reputação (2020)	dub=6:1306205
@@ -672,8 +673,7 @@ Riddick 1	dub=2:21347,10:2458554,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Riddick 2	dub=2:21348,10:2458454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34674.mp4,8:21348
 Riddick 3	dub=2:21349,10:2458489,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34678.mp4,8:21349
 Riddick 3 (2013)	dub=6:1297637
-Ride	dub=https://embedplayer2.xyz/cdn/hls/4c96ed9aeb0f2ac881711d20c3e009a3/master.txt,2:337603,10:2447924,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21851.mp4,8:337603	leg=2:337602,2:62566,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88270.mp4,8:337602,8:62566
-Ride (2018)	leg=6:1308218
+Ride (2018)	dub=https://embedplayer2.xyz/cdn/hls/4c96ed9aeb0f2ac881711d20c3e009a3/master.txt,2:337603,10:2447924,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21851.mp4,8:337603	leg=6:1308218,2:337602,2:62566,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88270.mp4,8:337602,8:62566
 Riders of Justice	leg=2:103144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88279.mp4,8:103144
 Riff Raff (2025)	dub=https://embedplayer2.xyz/cdn/hls/16e480bd03bca5774c2b584a365a1d5d/master.txt
 Rihanna - Good Girl Gone Bad Live	leg=2:391917,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311890.mp4,8:391917
