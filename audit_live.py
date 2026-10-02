@@ -6,6 +6,8 @@ import argparse
 import collections
 import concurrent.futures
 import hashlib
+import gzip
+import io
 import json
 import re
 import threading
@@ -49,12 +51,46 @@ def media(data):
     return len(data) >= 12 and data[4:8] in (b"ftyp", b"styp", b"moof", b"sidx")
 
 
+_account_locks = collections.defaultdict(threading.RLock)
+_account_status = {}
+
+def account(url):
+    parsed = urllib.parse.urlsplit(url)
+    parts = parsed.path.strip('/').split('/')
+    if len(parts) == 4 and parts[0] == 'live': parts = parts[1:]
+    if len(parts) != 3 or not re.fullmatch(r'\d+\.ts', parts[2]): return None
+    return parsed.scheme + '://' + parsed.netloc, parts[0], parts[1]
+
 def probe(url, headers=None, logo=False, depth=0):
+    credentials = None if logo or depth else account(url)
+    if credentials is None: return _probe(url, headers, logo, depth)
+    key = identity('|'.join(credentials))
+    # One short sample per supplied account; do not consume its entire connection allowance.
+    with _account_locks[key]:
+        cached = _account_status.get(key)
+        if cached is None or time.monotonic() - cached[0] > 60:
+            busy = False
+            try:
+                base, user, password = credentials
+                query = urllib.parse.urlencode({'username': user, 'password': password})
+                with urllib.request.urlopen(base + '/player_api.php?' + query, timeout=5) as response:
+                    info = json.load(response).get('user_info', {})
+                limit = int(info.get('max_connections') or 0)
+                busy = limit > 0 and int(info.get('active_cons') or 0) >= limit
+            except Exception: pass
+            _account_status[key] = (time.monotonic(), busy)
+        if _account_status[key][1]: return {'status': 'provider_capacity'}
+        return _probe(url, headers, logo, depth)
+
+def _probe(url, headers=None, logo=False, depth=0):
     try:
         request = urllib.request.Request(url, headers={"User-Agent": "IPTVibe/LiveAudit", "Range": "bytes=0-16383", **(headers or {})})
         with urllib.request.urlopen(request, timeout=5) as response:
             data = response.read(16384)
             resolved = response.geturl()
+        # Some official HLS servers gzip playlists even when no encoding was requested.
+        if data.startswith(b'\x1f\x8b'):
+            with gzip.GzipFile(fileobj=io.BytesIO(data)) as compressed: data = compressed.read(65536)
         if logo:
             image = data.startswith((b"\x89PNG", b"\xff\xd8", b"GIF8", b"RIFF")) or b"<svg" in data[:1024]
             return {"status": "image" if image else "non_image"}

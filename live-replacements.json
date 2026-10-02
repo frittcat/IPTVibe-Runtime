@@ -1,0 +1,34 @@
+{
+  "FIFA+": [
+    {
+      "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
+    }
+  ],
+  "Teletubbies": [
+    {
+      "url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8"
+    },
+    {
+      "url": "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8"
+    }
+  ],
+  "Band Pará": [
+    {
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+    }
+  ],
+  "SBT BA": [
+    {
+      "account_host": "corruptx.org:80",
+      "stream_id": 108770
+    }
+  ],
+  "Rede Família": [
+    {
+      "url": "http://168.197.104.22/REDE_FAMILIA/index.m3u8"
+    },
+    {
+      "url": "http://186.219.52.187/rede_familia/index.m3u8"
+    }
+  ]
+}
