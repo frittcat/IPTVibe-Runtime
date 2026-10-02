@@ -44,6 +44,9 @@ jobs:
       - name: Validate labels and highlighted explicit media sources
         run: python3 runtime_quality.py runtime --probe
 
+      - name: Preserve reviewed live channel identities, source order and logos
+        run: python3 live_overrides.py runtime --policy live-health.json --probe
+
       - name: Commit runtime changes
         shell: bash
         run: |
