@@ -6,7 +6,7 @@
   "minimumSupportedVersionCode": 0,
   "minSdk": 23,
   "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.5/IPTVibe.apk",
-  "sha256": "29c4792a891d7f7207129faa4c0a3ad76721e8d67d9e00181946592b2b4e966a",
+  "sha256": "e023e87e7970355d832dfb2c68dacd3468cf7363d3f11b8eb687a05e59d3cd02",
   "sizeBytes": 7587705,
   "releaseNotes": "Atualizações pelo aplicativo, com verificação automática, download e validação do APK. Preserva os dados e respeita a confirmação de instalação do Android."
 }
