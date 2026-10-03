@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "tv.iptvibe.app",
-  "versionName": "1.6.5",
-  "versionCode": 50028,
+  "versionName": "1.6.6",
+  "versionCode": 50029,
   "minimumSupportedVersionCode": 0,
   "minSdk": 23,
-  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.5/IPTVibe.apk",
-  "sha256": "3dcaaaf4cd82c3a1dec94af8efeec51c0c5bbb4a9f09fe003e01bafe85428946",
-  "sizeBytes": 7587705,
-  "releaseNotes": "Atualizações pelo aplicativo, com verificação automática, download e validação do APK. Preserva os dados e respeita a confirmação de instalação do Android."
+  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.6/IPTVibe.apk",
+  "sha256": "52d9cfb36568673e99f3794a3bf188ff2a71c9d6dd951d07fb55f66f95d9a87f",
+  "sizeBytes": 7596374,
+  "releaseNotes": "Futebol com melhor enquadramento dos botões e datas, ícones, mais competições e atualização da grade sem substituir temporariamente os jogos por resultados parciais."
 }
