@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packageName": "tv.iptvibe.app",
+  "versionName": "1.6.10",
+  "versionCode": 50032,
+  "minimumSupportedVersionCode": 0,
+  "minSdk": 23,
+  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.10/IPTVibe.apk",
+  "sha256": "8ca6cba383d570012cccf007b525dffa9b180b7ee9e7a207b05d3f47f89eb2ff",
+  "sizeBytes": 7846388,
+  "releaseNotes": "IPTVibe 1.6.10\n\n- Ao Vivo passa a abrir primeiro pela última fonte que ficou estável naquele canal, sem expiração após algumas horas.\n- A ordem de prioridade das demais fontes continua preservada quando a fonte lembrada não estiver disponível.\n- Em erro, EOF ou travamento, o player avança rapidamente para a próxima fonte em vez de insistir na que falhou.\n- Detecção de travamento mais rápida, com reconexões curtas e cooldown reduzido após esgotar as alternativas.\n- A política de preferência da última fonte vale para todos os canais, inclusive Pluto TV e 24 Horas, sem alterar ou podar os catálogos dessas categorias.\n- Mantidos o novo login, contas, controles administrativos e demais melhorias da versão 1.6.9.\n\nA atualização mantém o pacote e a assinatura do IPTVibe. O Android pode solicitar confirmação para instalar."
+}
