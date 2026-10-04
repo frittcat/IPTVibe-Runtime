@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "mac-arm64",
+  "versionName": "1.6.11",
+  "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.11/IPTVibe-Mac-arm64.dmg",
+  "sha256": "824795a347d5f4b50e453d946183034bf8c93787d0bf32b587b33f8a8be11b78",
+  "sizeBytes": 129182099,
+  "publishedAt": "2026-10-04T14:23:55Z",
+  "signature": "ad-hoc-unnotarized",
+  "sourceRevision": "ad975ba988df17fa8240c5763fb3d6a7a1fd0ee9",
+  "verification": "native-smoke"
+}
