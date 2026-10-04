@@ -5,8 +5,8 @@
   "versionCode": 50034,
   "minimumSupportedVersionCode": 0,
   "minSdk": 23,
-  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.12/IPTVibe-TV.apk",
+  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.12/IPTVibe.apk",
   "sha256": "0ed8e4de37bbb43f379010e103835ca98e182a728d647548c10b8150be29e434",
   "sizeBytes": 7846388,
-  "releaseNotes": "IPTVibe 1.6.12 · mesma assinatura e dados; verificação de atualizações a cada cinco minutos na tela inicial. O Android pode pedir confirmação para instalar."
+  "releaseNotes": "IPTVibe 1.6.12 Â· mesma assinatura e dados; verificaÃ§Ã£o de atualizaÃ§Ãµes a cada cinco minutos na tela inicial. O Android pode pedir confirmaÃ§Ã£o para instalar."
 }
