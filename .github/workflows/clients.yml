@@ -1,0 +1,82 @@
+name: Build and publish verified desktop clients
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing TV release tag
+        required: true
+        default: v1.6.11
+        type: string
+  release:
+    types: [published]
+permissions:
+  contents: write
+concurrency:
+  group: clients-${{ github.event.release.tag_name || inputs.tag }}
+  cancel-in-progress: false
+jobs:
+  desktop:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-latest
+            target: win
+            arch: x64
+            artifact: IPTVibe-Setup.exe
+          - os: macos-latest
+            target: mac
+            arch: arm64
+            artifact: IPTVibe-Mac-arm64.dmg
+          - os: macos-latest
+            target: mac
+            arch: x64
+            artifact: IPTVibe-Mac-x64.dmg
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 25
+    env:
+      RELEASE_TAG: ${{ github.event.release.tag_name || inputs.tag }}
+      CSC_IDENTITY_AUTO_DISCOVERY: 'false'
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: frittcat/IPTVibe-Clients
+          path: clients
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: clients/portal/package-lock.json
+      - name: Validate existing stable release
+        shell: bash
+        run: |
+          node -e "if(!/^v[0-9]+\.[0-9]+\.[0-9]+$/.test(process.env.RELEASE_TAG))process.exit(1)"
+          gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --json isDraft,isPrerelease --jq 'if .isDraft or .isPrerelease then error("stable release required") else true end'
+      - name: Verify portal and prepare shared client
+        working-directory: clients/portal
+        shell: bash
+        run: |
+          npm ci
+          npm test
+          npm run build
+          node scripts/desktop-bundle.mjs
+          node -e "const fs=require('fs'),p='desktop/package.json',v=JSON.parse(fs.readFileSync(p));v.version=process.env.RELEASE_TAG.slice(1);fs.writeFileSync(p,JSON.stringify(v,null,2))"
+          npm ci --prefix desktop
+      - name: Package native installer
+        working-directory: clients/portal/desktop
+        shell: bash
+        run: npm exec -- electron-builder --${{ matrix.target }} --${{ matrix.arch }} --publish never
+      - name: Native shared interface smoke test
+        if: matrix.arch != 'x64' || matrix.target == 'win'
+        working-directory: clients/portal/desktop
+        shell: bash
+        run: npm exec -- electron . --smoke-test --smoke-output=smoke
+      - name: Verify digest and publish artifact
+        working-directory: clients/portal/desktop
+        shell: bash
+        env:
+          ARTIFACT: ${{ matrix.artifact }}
+        run: |
+          node -e "const fs=require('fs'),crypto=require('crypto'),p='release/'+process.env.ARTIFACT,b=fs.readFileSync(p);if(b.length<1000000)process.exit(1);fs.writeFileSync(p+'.sha256',crypto.createHash('sha256').update(b).digest('hex')+'  '+process.env.ARTIFACT+'\n')"
+          gh release upload "$RELEASE_TAG" "release/$ARTIFACT" "release/$ARTIFACT.sha256" --repo "$GITHUB_REPOSITORY"
