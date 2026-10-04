@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "platform": "windows",
-  "versionName": "1.6.12",
-  "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.12/IPTVibe-Setup.exe",
-  "sha256": "edb6dc82e4165d718373aff4715a69a9cf1b6e21cdd1e69496b807a8f2880756",
-  "sizeBytes": 113551098,
-  "publishedAt": "2026-10-04T16:22:08Z",
+  "versionName": "1.6.13",
+  "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.13/IPTVibe-Setup.exe",
+  "sha256": "21ba40255695efde4219211ea1ab6f64a8dbd4588b2db14cf0e656805c6ffafc",
+  "sizeBytes": 113551908,
+  "publishedAt": "2026-10-04T17:02:09Z",
   "signature": "unsigned",
   "sourceRevision": "da5dfdf33077ff17d26c0ef5078420f7445d2cbf",
-  "workflowRevision": "63860cdfab65450cf5bd96488224f97733559e89",
+  "workflowRevision": "e958f892ec6ff00dfb0abce8317395a52f637076",
   "verification": "native-smoke"
 }
