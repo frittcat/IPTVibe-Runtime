@@ -3,10 +3,10 @@
   "platform": "mac-x64",
   "versionName": "1.6.11",
   "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.11/IPTVibe-Mac-x64.dmg",
-  "sha256": "0bbb7165bbf395dd10fb3330fc705e552bc3496bdef23bbe1a0219e3d3d07975",
-  "sizeBytes": 136098453,
+  "sha256": "36c75de7f5293ba04f57221403a2e066ae5eade20238f89df629f768a1ae1f08",
+  "sizeBytes": 136102685,
   "publishedAt": "2026-10-04T14:23:55Z",
   "signature": "ad-hoc-unnotarized",
-  "sourceRevision": "ad975ba988df17fa8240c5763fb3d6a7a1fd0ee9",
+  "sourceRevision": "0ee359c481f48353bc67bdb819cc24b117ca431e",
   "verification": "native-smoke"
 }
