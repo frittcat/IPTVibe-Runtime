@@ -28,7 +28,7 @@ jobs:
             target: mac
             arch: arm64
             artifact: IPTVibe-Mac-arm64.dmg
-          - os: macos-latest
+          - os: macos-15-intel
             target: mac
             arch: x64
             artifact: IPTVibe-Mac-x64.dmg
@@ -68,10 +68,15 @@ jobs:
         shell: bash
         run: npm exec -- electron-builder --${{ matrix.target }} --${{ matrix.arch }} --publish never
       - name: Native shared interface smoke test
-        if: matrix.arch != 'x64' || matrix.target == 'win'
         working-directory: clients/portal/desktop
         shell: bash
-        run: npm exec -- electron . --smoke-test --smoke-output=smoke
+        run: |
+          if [ "${{ matrix.target }}" = "win" ]; then
+            ./release/win-unpacked/IPTVibe.exe --smoke-test --smoke-output=smoke
+          else
+            ./release/mac${{ matrix.arch == 'arm64' && '-arm64' || '' }}/IPTVibe.app/Contents/MacOS/IPTVibe --smoke-test --smoke-output=smoke
+          fi
+          node -e "if(!require('./smoke/result.json').passed)process.exit(1)"
       - name: Verify digest and publish artifact
         working-directory: clients/portal/desktop
         shell: bash
