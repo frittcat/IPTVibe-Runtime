@@ -33,7 +33,7 @@ jobs:
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '9.6.0'
-      - uses: android-actions/setup-android@v3
+      - uses: android-actions/setup-android@v4
       - name: Prepare SDK and validated version
         shell: bash
         run: |
@@ -68,3 +68,4 @@ jobs:
           "$ANDROID_HOME/build-tools/36.0.0/aapt" dump badging "$APK" > "$RUNNER_TEMP/mobile-badging.txt"
           export ARTIFACT_PATH="$APK"
           node clients/portal/scripts/publish-artifact.mjs
+
