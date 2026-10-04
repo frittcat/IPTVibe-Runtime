@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "tv.iptvibe.app",
-  "versionName": "1.6.11",
-  "versionCode": 50033,
+  "versionName": "1.6.12",
+  "versionCode": 50034,
   "minimumSupportedVersionCode": 0,
   "minSdk": 23,
-  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.11/IPTVibe.apk",
-  "sha256": "dee780867c5f52cf4927dbeb1bbf49cf25561227e1d56d4e0360b049e4f3d95a",
+  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.12/IPTVibe-TV.apk",
+  "sha256": "0ed8e4de37bbb43f379010e103835ca98e182a728d647548c10b8150be29e434",
   "sizeBytes": 7846388,
-  "releaseNotes": "IPTVibe 1.6.11\n\n- Verificação de atualizações em até cinco minutos na tela inicial, sem esperar seis horas.\n- Verificação manual continua imediata.\n- Reprodução não é interrompida para apresentar instaladores.\n- Preservados o mesmo pacote, assinatura, dados e as melhorias do Ao Vivo da versão 1.6.10.\n\nO Android pode solicitar confirmação para instalar."
+  "releaseNotes": "IPTVibe 1.6.12 · mesma assinatura e dados; verificação de atualizações a cada cinco minutos na tela inicial. O Android pode pedir confirmação para instalar."
 }
