@@ -3,10 +3,10 @@
   "platform": "windows",
   "versionName": "1.6.11",
   "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.11/IPTVibe-Setup.exe",
-  "sha256": "39081ccc5769f6fd560268c8a4af6147cdbe970db4afb83e1d68aea689d68185",
-  "sizeBytes": 113540412,
+  "sha256": "c11857c54496f8e795fd7e0077318b0bf29a4b000f12f53d1570c36201bffe99",
+  "sizeBytes": 113548137,
   "publishedAt": "2026-10-04T14:23:55Z",
   "signature": "unsigned",
-  "sourceRevision": "ad975ba988df17fa8240c5763fb3d6a7a1fd0ee9",
+  "sourceRevision": "0ee359c481f48353bc67bdb819cc24b117ca431e",
   "verification": "native-smoke"
 }
