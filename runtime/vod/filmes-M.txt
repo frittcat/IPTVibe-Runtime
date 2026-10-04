@@ -150,7 +150,7 @@ MINHA VINGANCA COMECOU NO ANIVERSARIO	dub=http://dbonline.tech-cdn.top:80/movie/
 MINHA VISAO, SEU OLHAR	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302114.mp4
 MINHAS LAGRIMAS SAO AGUAS PASSADAS	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302570.mp4
 MISSAO DA GENERAL CACAR UM MARIDO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302774.mp4
-MK Ultra: Controlando Mentes	dub=2:353748,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/698.mp4,8:353748,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/1094?hash=861ceb32933bfad137b895ea	leg=2:353747,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79166.mp4,8:353747
+MK Ultra: Controlando Mentes	dub=2:353748,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/698.mp4,8:353748	leg=2:353747,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79166.mp4,8:353747
 MMA - Meu Melhor Amigo (2025)	dub=https://embedplayer2.xyz/cdn/hls/c2825ee821d10ecfdd7620d863617c67/master.txt,6:1313356,2:316306,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57025.mp4,8:316306,2:316236,10:2449882,10:2451027,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38616.mp4,8:316236	leg=2:316759,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79177.mp4,8:316759
 MMA Cop (2025)	dub=https://embedplayer2.xyz/cdn/hls/95fc017af8f860f0543c56da657232be/master.txt
 MR9: Missao Mortal (2023)	dub=6:1304195
@@ -241,7 +241,7 @@ Madrinha (2017)	dub=6:1299914
 Madrinhas de Casamento Brutais	dub=2:112415,10:2445806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44844.mp4,8:112415
 Madrinhas de Casamento Brutais (2020)	dub=6:1308907
 Madrugada Muito Louca (2004)	dub=https://embedplayer2.xyz/cdn/hls/3bb5a6e6d9a69f0b436f176a2edfdd5e/master.txt,6:1309502,10:2461655,10:2461706
-Madrugada Muito Louca 1	dub=https://embedplayer2.xyz/cdn/hls/3bb5a6e6d9a69f0b436f176a2edfdd5e/master.txt,2:20660,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16210.mp4,8:20660
+Madrugada Muito Louca 1	dub=2:20660,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16210.mp4,8:20660
 Madrugada Muito Louca 2	dub=2:20661,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16214.mp4,8:20661
 Madrugada dos Mortos	dub=2:189986,2:100342,10:2452141,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49599.mp4,8:189986,8:100342
 Madrugada dos Mortos (2004)	dub=6:1297512
@@ -268,7 +268,8 @@ Mafia contra Mafia (2019)	dub=6:1302378
 Mafia da Dor (2023)	dub=https://embedplayer2.xyz/cdn/hls/e76dff2372d3d36f9c3fe98f46c18cc6/master.txt,6:1302709,2:223398,10:2455056,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28183.mp4,8:223398	leg=2:223378,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79685.mp4,8:223378
 Magal e os Formigas	dub=2:376322,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253707.mp4,8:376322
 Magal e os Formigas (2016)	dub=6:1302374
-Magazine Dreams (2025)	dub=https://embedplayer2.xyz/cdn/hls/68591c9eaf495323f4d822c2d47fbdf9/master.txt,10:2448342	leg=6:1314086,2:338427,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77582.mp4,8:338427,https://fenixbot.squareweb.app/stream/52342?hash=b030029c92bc2839bb39e80e
+Magazine Dreams	dub=10:2448342	leg=2:338427,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77582.mp4,8:338427
+Magazine Dreams (2025)	leg=6:1314086
 Maggie - A Transformação	dub=10:2457751
 Maggie Moore	dub=https://embedplayer2.xyz/cdn/hls/9f26cfdc6058359c989f8f4c5578eafc/master.txt,2:292099,10:2445750,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44848.mp4,8:292099	leg=2:292100,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77587.mp4,8:292100
 Magia Estranha	dub=2:20387,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9950.mp4,8:20387
@@ -910,7 +911,7 @@ Medidas Extremas (1996)	dub=6:1298865
 Medidas Extremas (2022)	dub=6:1311604	leg=6:1311605
 Medieval	dub=2:179767,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56835.mp4,8:179767,2:179786,10:2455730,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27729.mp4,8:179786	leg=2:179788,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78207.mp4,8:179788
 Medieval (2022)	dub=6:1300351
-Medo	dub=2:359056,2:319847,2:217555,10:2445548,10:2447848,10:2452353,10:2455049,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/662.mp4,8:359056,8:319847,8:217555,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/708?hash=f869513b484f79dd73b1d0b2	leg=2:359055,2:319874,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78212.mp4,8:359055,8:319874
+Medo	dub=2:359056,2:319847,2:217555,10:2445548,10:2447848,10:2452353,10:2455049,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/662.mp4,8:359056,8:319847,8:217555	leg=2:359055,2:319874,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78212.mp4,8:359055,8:319874
 Medo (1996)	dub=6:1309320
 Medo (2023)	dub=6:1303429	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301141.mp4
 Medo Ponto Com Br	dub=2:128562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49689.mp4,8:128562
@@ -1391,7 +1392,8 @@ Mexido	dub=10:2459971
 Mi mejor escena	leg=2:395859,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315689.mp4,8:395859
 Miami Vice	dub=2:385794,2:198532,10:2453352,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4972.mp4,8:385794,8:198532	leg=2:385793,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308126.mp4,8:385793
 Miami Vice (2006)	dub=6:1301814
-Michael (2026)	dub=https://embedplayer2.xyz/cdn/hls/e9d1649813e5543616f7aec3df52d3cf/master.txt,https://embedplayer2.xyz/cdn/hls/1a8df1e9540a7e5a30a4ec3c8059651a/master.txt,https://embedplayer2.xyz/cdn/hls/618b3b1f2a1fe1b1e2cfe617770d7d38/master.txt,6:1314627,2:382542,2:382530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306260.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306261.mp4,8:382542,8:382530,2:381984,10:2444004,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290825.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301385.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306346.mp4,8:381984	leg=https://embedplayer2.xyz/cdn/hls/618b3b1f2a1fe1b1e2cfe617770d7d38/master.txt,6:1314626,2:381983,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301143.mp4,8:381983
+Michael	dub=https://embedplayer2.xyz/cdn/hls/e9d1649813e5543616f7aec3df52d3cf/master.txt,https://embedplayer2.xyz/cdn/hls/1a8df1e9540a7e5a30a4ec3c8059651a/master.txt,2:382542,2:382530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306260.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306261.mp4,8:382542,8:382530,2:381984,10:2444004,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290825.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301385.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306346.mp4,8:381984	leg=https://embedplayer2.xyz/cdn/hls/618b3b1f2a1fe1b1e2cfe617770d7d38/master.txt,2:381983,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301143.mp4,8:381983
+Michael (2026)	dub=6:1314627	leg=6:1314626
 Michael Anjo e Sedutor (1996)	dub=6:1302258
 Michael Jackson's This Is It	dub=10:2448383	leg=2:307737,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/78718.mp4,8:307737
 Michael Jackson's: This is It (2009)	leg=6:1309786
@@ -1669,7 +1671,7 @@ Missao Cupido (2021)	dub=6:1301946
 Missao Dragao - Sua Historia (2019)	dub=6:1297683
 Missao Extraordinaria	dub=2:28685,10:2454009,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5012.mp4,8:28685
 Missao Final	dub=2:30597,10:2453677,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5016.mp4,8:30597
-Missao Impossivel 4 Protocolo Fantasma (2011)	dub=https://embedplayer2.xyz/cdn/hls/88964d887de48c1a1e4a395d6988026f/master.txt,6:1301535,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/952?hash=50b74f18c5a90943ec8933e9
+Missao Impossivel 4 Protocolo Fantasma (2011)	dub=https://embedplayer2.xyz/cdn/hls/88964d887de48c1a1e4a395d6988026f/master.txt,6:1301535
 Missao Impossivel 6 - Efeito Fallout (2018)	dub=https://embedplayer2.xyz/cdn/hls/845903d9e2d311850c20532821df21e2/master.txt,6:1313634
 Missao Impossivel Acerto de Contas Parte 1 (2023)	dub=https://embedplayer2.xyz/cdn/hls/4d544273f43bc00caa55fbc335b8a305/master.txt,6:1302586,2:219168,2:219165,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56994.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56998.mp4,8:219168,8:219165,2:219162,10:2454950,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5048.mp4,8:219162	leg=6:1302585,2:219163,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79068.mp4,8:219163
 Missao Impossivel Fallout	dub=https://embedplayer2.xyz/cdn/hls/845903d9e2d311850c20532821df21e2/master.txt,2:22511,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56989.mp4,8:22511
@@ -1683,10 +1685,10 @@ Missao Russia	dub=2:166222,10:2457572,http://dbonline.tech-cdn.top:80/movie/ke-v
 Missao Suicida (2024)	dub=6:1311823	leg=6:1311822
 Missao de Honra (2018)	dub=6:1297477
 Missao de Sobrevivencia (2023)	dub=https://embedplayer2.xyz/cdn/hls/7c9c544289b0ef3ab5726c35f9c091d6/master.txt,6:1302438,2:215061,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56991.mp4,8:215061,2:215063,10:2453941,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5040.mp4,8:215063	leg=2:215062,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79051.mp4,8:215062
-Missao: Impossivel (1996)	dub=https://embedplayer2.xyz/cdn/hls/52e0d32f184f90d358d3db5d4ba9a428/master.txt,6:1298036,6:1301532,2:108232,10:2454671,10:2457859,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5044.mp4,8:108232,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/948?hash=a9c8e1f02198e4c7667b8e0f
+Missao: Impossivel (1996)	dub=https://embedplayer2.xyz/cdn/hls/52e0d32f184f90d358d3db5d4ba9a428/master.txt,6:1298036,6:1301532,2:108232,10:2454671,10:2457859,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5044.mp4,8:108232
 Missao: Impossivel 2 (2000)	dub=https://embedplayer2.xyz/cdn/hls/41832b66a030bfd87048a68759d3d236/master.txt,6:1298037,6:1301533,2:108233,10:2454848,10:2457881,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5064.mp4,8:108233
-Missao: Impossivel 3 (2006)	dub=https://embedplayer2.xyz/cdn/hls/448bc592c927bd8c738e044c1a5ebca2/master.txt,6:1298038,6:1301534,2:108234,10:2454351,10:2458109,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5086.mp4,8:108234,https://fenixbot.squareweb.app/stream/950?hash=c6e969f057e7e38ffd163f93
-Missao: Impossivel 4 (2011)	dub=https://embedplayer2.xyz/cdn/hls/88964d887de48c1a1e4a395d6988026f/master.txt,6:1298039,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/952?hash=50b74f18c5a90943ec8933e9
+Missao: Impossivel 3 (2006)	dub=https://embedplayer2.xyz/cdn/hls/448bc592c927bd8c738e044c1a5ebca2/master.txt,6:1298038,6:1301534,2:108234,10:2454351,10:2458109,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5086.mp4,8:108234
+Missao: Impossivel 4 (2011)	dub=https://embedplayer2.xyz/cdn/hls/88964d887de48c1a1e4a395d6988026f/master.txt,6:1298039
 Missao: Impossivel 5 (2015)	dub=https://embedplayer2.xyz/cdn/hls/47aecd75be404fc9b609146f386ee2ef/master.txt,6:1298040
 Missao: Impossivel 6 (2018)	dub=https://embedplayer2.xyz/cdn/hls/845903d9e2d311850c20532821df21e2/master.txt,6:1298041
 Missao: Marte (2000)	dub=6:1299713
@@ -1916,7 +1918,8 @@ Mortal Kombat	dub=https://embedplayer2.xyz/cdn/hls/0b25919b781615f129f6ebcc6f196
 Mortal Kombat (1995)	dub=6:1311574
 Mortal Kombat (2021)	dub=https://embedplayer2.xyz/cdn/hls/0b25919b781615f129f6ebcc6f19633c/master.txt,6:1298557	leg=6:1298397
 Mortal Kombat 1	dub=2:20112,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5129.mp4,8:20112
-Mortal Kombat 2 (2026)	dub=https://embedplayer2.xyz/cdn/hls/07e6ea58e9071376b859022fbfc6e2a0/master.txt,6:1314625,2:382494,2:382418,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306262.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306263.mp4,8:382494,8:382418,2:381986,10:2443985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5137.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290829.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301387.mp4,8:381986	leg=6:1314624,2:381985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301147.mp4,8:381985
+Mortal Kombat 2	dub=https://embedplayer2.xyz/cdn/hls/07e6ea58e9071376b859022fbfc6e2a0/master.txt,2:382494,2:382418,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306262.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306263.mp4,8:382494,8:382418,2:381986,10:2443985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5137.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290829.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301387.mp4,8:381986	leg=2:381985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301147.mp4,8:381985
+Mortal Kombat 2 (2026)	dub=6:1314625	leg=6:1314624
 Mortal Kombat A Aniquilacao (1997)	dub=6:1302386
 Mortal Kombat Legends Cage Bom de Briga (2023)	dub=6:1302737
 Mortal Kombat Legends Cegueira Glacial (2022)	dub=6:1301629
@@ -1984,7 +1987,7 @@ Motel Destino	dub=2:288875,10:2450859,http://dbonline.tech-cdn.top:80/movie/ke-v
 Motel Destino (2024)	dub=6:1312601
 Motel Melati (2023)	dub=https://embedplayer2.xyz/cdn/hls/a7e368bc187b780a3174ed1fa84047d6/master.txt,2:309859,10:2449973,10:2451656,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49818.mp4,8:309859	leg=2:309860,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79439.mp4,8:309860
 Mother	dub=https://embedplayer2.xyz/cdn/hls/025947c471b34eff4ef1d6146f012bcd/master.txt	leg=2:85166,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79451.mp4,8:85166
-Mother Mary	dub=https://embedplayer2.xyz/cdn/hls/eb5fed4211af8cbc171f2cc29de62bb0/master.txt	leg=2:378992,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256217.mp4,8:378992
+Mother Mary	leg=2:378992,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256217.mp4,8:378992
 Mother of Flies	leg=2:365782,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96940.mp4,8:365782
 Mother's Deadly Son	dub=2:194180,8:194180
 Mother's Deadly Son (2022)	dub=6:1305387
@@ -2134,7 +2137,7 @@ Muppets Haunted Mansion: A Festa Aterrorizante (2021)	dub=https://embedplayer2.x
 Muppets do Espaço	dub=2:351000,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17032.mp4,8:351000	leg=2:350999,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79575.mp4,8:350999
 Muppets do Espaço (1999)	dub=6:1309225
 Muppets: O Filme	dub=2:351002,2:329663,10:2447719,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10173.mp4,8:351002,8:329663	leg=2:351001,2:329662,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79593.mp4,8:351001,8:329662
-Murder in Monaco	dub=https://embedplayer2.xyz/cdn/hls/a89ac0298be2d7bbaee44764725c70c8/master.txt,2:357801,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/713.mp4,8:357801,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/555?hash=6bc723e917edf15cfc159558	leg=2:357800,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79590.mp4,8:357800
+Murder in Monaco	dub=https://embedplayer2.xyz/cdn/hls/a89ac0298be2d7bbaee44764725c70c8/master.txt,2:357801,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/713.mp4,8:357801	leg=2:357800,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79590.mp4,8:357800
 Murder in the Dark	leg=2:378241,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255455.mp4,8:378241
 Murilo Couto	dub=2:92560,8:92560
 Murilo Couto: Leso	dub=2:199754,8:199754
