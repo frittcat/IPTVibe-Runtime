@@ -24,14 +24,17 @@ jobs:
             target: win
             arch: x64
             artifact: IPTVibe-Setup.exe
+            platform: windows
           - os: macos-latest
             target: mac
             arch: arm64
             artifact: IPTVibe-Mac-arm64.dmg
+            platform: mac-arm64
           - os: macos-15-intel
             target: mac
             arch: x64
             artifact: IPTVibe-Mac-x64.dmg
+            platform: mac-x64
     runs-on: ${{ matrix.os }}
     timeout-minutes: 25
     env:
@@ -82,6 +85,9 @@ jobs:
         shell: bash
         env:
           ARTIFACT: ${{ matrix.artifact }}
+          PLATFORM: ${{ matrix.platform }}
+          ARTIFACT_PATH: release/${{ matrix.artifact }}
         run: |
           node -e "const fs=require('fs'),crypto=require('crypto'),p='release/'+process.env.ARTIFACT,b=fs.readFileSync(p);if(b.length<1000000)process.exit(1);fs.writeFileSync(p+'.sha256',crypto.createHash('sha256').update(b).digest('hex')+'  '+process.env.ARTIFACT+'\n')"
           gh release upload "$RELEASE_TAG" "release/$ARTIFACT" "release/$ARTIFACT.sha256" --repo "$GITHUB_REPOSITORY" --clobber
+          node ../scripts/publish-artifact.mjs

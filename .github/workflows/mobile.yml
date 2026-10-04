@@ -33,6 +33,7 @@ jobs:
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '9.6.0'
+      - uses: android-actions/setup-android@v3
       - name: Prepare SDK and validated version
         shell: bash
         run: |
@@ -47,6 +48,8 @@ jobs:
         shell: bash
         env:
           ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          PLATFORM: mobile
+          ARTIFACT: IPTVibe-Mobile.apk
         run: |
           test -n "$ANDROID_KEYSTORE_BASE64"
           KEYSTORE_PATH="$RUNNER_TEMP/mobile-signing.jks"
@@ -62,3 +65,6 @@ jobs:
           cmp "$RUNNER_TEMP/mobile-digest.txt" "$RUNNER_TEMP/tv-digest.txt"
           node -e "const fs=require('fs'),crypto=require('crypto'),p=process.env.RUNNER_TEMP+'/IPTVibe-Mobile.apk',b=fs.readFileSync(p);fs.writeFileSync(p+'.sha256',crypto.createHash('sha256').update(b).digest('hex')+'  IPTVibe-Mobile.apk\n')"
           gh release upload "$RELEASE_TAG" "$APK" "$APK.sha256" --repo "$GITHUB_REPOSITORY" --clobber
+          "$ANDROID_HOME/build-tools/36.0.0/aapt" dump badging "$APK" > "$RUNNER_TEMP/mobile-badging.txt"
+          export ARTIFACT_PATH="$APK"
+          node clients/portal/scripts/publish-artifact.mjs
