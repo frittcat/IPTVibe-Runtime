@@ -1,0 +1,64 @@
+name: Build and publish signed Android mobile
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing TV release tag
+        required: true
+        default: v1.6.11
+        type: string
+  release:
+    types: [published]
+permissions:
+  contents: write
+concurrency:
+  group: mobile-${{ github.event.release.tag_name || inputs.tag }}
+  cancel-in-progress: false
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      RELEASE_TAG: ${{ github.event.release.tag_name || inputs.tag }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: frittcat/IPTVibe-Clients
+          path: clients
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '9.6.0'
+      - name: Prepare SDK and validated version
+        shell: bash
+        run: |
+          node -e "if(!/^v[0-9]+\.[0-9]+\.[0-9]+$/.test(process.env.RELEASE_TAG))process.exit(1)"
+          sdkmanager 'platforms;android-37.0' 'build-tools;36.0.0'
+          gh release download "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --pattern IPTVibe-TV.apk --dir "$RUNNER_TEMP"
+          "$ANDROID_HOME/build-tools/36.0.0/aapt" dump badging "$RUNNER_TEMP/IPTVibe-TV.apk" > "$RUNNER_TEMP/tv-badging.txt"
+          node -e "const fs=require('fs'),b=fs.readFileSync(process.env.RUNNER_TEMP+'/tv-badging.txt','utf8'),c=b.match(/versionCode='([0-9]+)'/),p='clients/mobile/app/build.gradle';if(!c)process.exit(1);let s=fs.readFileSync(p,'utf8').replace(/versionCode [0-9]+/,'versionCode '+c[1]).replace(/versionName '[^']+'/,'versionName '+JSON.stringify(process.env.RELEASE_TAG.slice(1)));fs.writeFileSync(p,s)"
+      - name: Compile native touch interface and player
+        run: gradle -p clients/mobile assembleRelease --console=plain
+      - name: Sign, compare certificate and publish
+        shell: bash
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          test -n "$ANDROID_KEYSTORE_BASE64"
+          KEYSTORE_PATH="$RUNNER_TEMP/mobile-signing.jks"
+          printf '%s' "$ANDROID_KEYSTORE_BASE64" | base64 --decode > "$KEYSTORE_PATH"
+          chmod 600 "$KEYSTORE_PATH"
+          trap 'rm -f "$KEYSTORE_PATH"' EXIT
+          APK="$RUNNER_TEMP/IPTVibe-Mobile.apk"
+          "$ANDROID_HOME/build-tools/36.0.0/apksigner" sign --ks "$KEYSTORE_PATH" --ks-key-alias androiddebugkey --ks-pass pass:android --key-pass pass:android --out "$APK" clients/mobile/app/build/outputs/apk/release/app-release-unsigned.apk
+          "$ANDROID_HOME/build-tools/36.0.0/apksigner" verify --print-certs "$APK" > "$RUNNER_TEMP/mobile-cert.txt"
+          "$ANDROID_HOME/build-tools/36.0.0/apksigner" verify --print-certs "$RUNNER_TEMP/IPTVibe-TV.apk" > "$RUNNER_TEMP/tv-cert.txt"
+          grep 'Signer #1 certificate SHA-256 digest:' "$RUNNER_TEMP/mobile-cert.txt" > "$RUNNER_TEMP/mobile-digest.txt"
+          grep 'Signer #1 certificate SHA-256 digest:' "$RUNNER_TEMP/tv-cert.txt" > "$RUNNER_TEMP/tv-digest.txt"
+          cmp "$RUNNER_TEMP/mobile-digest.txt" "$RUNNER_TEMP/tv-digest.txt"
+          node -e "const fs=require('fs'),crypto=require('crypto'),p=process.env.RUNNER_TEMP+'/IPTVibe-Mobile.apk',b=fs.readFileSync(p);fs.writeFileSync(p+'.sha256',crypto.createHash('sha256').update(b).digest('hex')+'  IPTVibe-Mobile.apk\n')"
+          gh release upload "$RELEASE_TAG" "$APK" "$APK.sha256" --repo "$GITHUB_REPOSITORY" --clobber
