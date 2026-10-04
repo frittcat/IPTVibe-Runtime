@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "platform": "mac-arm64",
-  "versionName": "1.6.11",
-  "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.11/IPTVibe-Mac-arm64.dmg",
-  "sha256": "e3f892c73169173e0c2d62191fc1d4e7d57abe9d759e0455847424b38042c472",
-  "sizeBytes": 129207239,
-  "publishedAt": "2026-10-04T14:23:55Z",
+  "versionName": "1.6.12",
+  "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.12/IPTVibe-Mac-arm64.dmg",
+  "sha256": "4f43b6227c56beffa93775acb36dfc7406dcc921daec6f5d1750b8ceeaf8a9a5",
+  "sizeBytes": 129229922,
+  "publishedAt": "2026-10-04T16:22:08Z",
   "signature": "ad-hoc-unnotarized",
-  "sourceRevision": "7d1311812f389d1de7eec61b1d8c394c7c252a1e",
-  "verification": "native-smoke",
-  "workflowRevision": "0ee359c481f48353bc67bdb819cc24b117ca431e"
+  "sourceRevision": "da5dfdf33077ff17d26c0ef5078420f7445d2cbf",
+  "workflowRevision": "63860cdfab65450cf5bd96488224f97733559e89",
+  "verification": "native-smoke"
 }
