@@ -1,0 +1,84 @@
+name: Verify complete multiplatform release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag to verify
+        required: true
+        default: v1.6.13
+        type: string
+  workflow_run:
+    workflows:
+      - Build and publish signed Android mobile
+      - Build and publish verified desktop clients
+    types: [completed]
+
+permissions:
+  contents: read
+
+jobs:
+  verify-suite:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Resolve release tag
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            tag="${{ inputs.tag }}"
+          else
+            tag="$(gh api "repos/$GITHUB_REPOSITORY/releases/latest" --jq .tag_name)"
+          fi
+          [[ "$tag" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]]
+          echo "RELEASE_TAG=$tag" >> "$GITHUB_ENV"
+
+      - name: Wait for the complete verified suite
+        shell: bash
+        run: |
+          set -euo pipefail
+          required=(
+            IPTVibe.apk
+            IPTVibe-TV.apk
+            IPTVibe-TV.apk.sha256
+            IPTVibe-Mobile.apk
+            IPTVibe-Mobile.apk.sha256
+            IPTVibe-Setup.exe
+            IPTVibe-Setup.exe.sha256
+            IPTVibe-Mac-arm64.dmg
+            IPTVibe-Mac-arm64.dmg.sha256
+            IPTVibe-Mac-x64.dmg
+            IPTVibe-Mac-x64.dmg.sha256
+          )
+
+          complete=0
+          for attempt in $(seq 1 30); do
+            assets="$(gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --json assets)"
+            missing=()
+            for name in "${required[@]}"; do
+              present="$(printf '%s' "$assets" | jq --arg n "$name" '[.assets[] | select(.name==$n and .state=="uploaded" and (.size|tonumber)>0)] | length')"
+              [ "$present" -eq 1 ] || missing+=("$name")
+            done
+
+            bad_digest="$(printf '%s' "$assets" | jq '[.assets[] | select((.name|endswith(".sha256")|not) and ((.digest // "") | test("^sha256:[a-f0-9]{64}$") | not))] | length')"
+            if [ "${#missing[@]}" -eq 0 ] && [ "$bad_digest" -eq 0 ]; then
+              complete=1
+              break
+            fi
+
+            echo "Attempt $attempt/30: waiting for: ${missing[*]:-digest verification}"
+            sleep 20
+          done
+
+          if [ "$complete" -ne 1 ]; then
+            echo "Release $RELEASE_TAG is incomplete after waiting for client builds."
+            gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --json assets --jq '.assets[] | [.name,.size,.digest] | @tsv'
+            exit 1
+          fi
+
+          echo "Release $RELEASE_TAG has the complete IPTVibe multiplatform suite."
+          gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --json assets --jq '.assets[] | [.name,.size,.digest] | @tsv'

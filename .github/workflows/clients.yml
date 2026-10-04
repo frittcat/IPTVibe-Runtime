@@ -5,7 +5,7 @@ on:
       tag:
         description: Existing TV release tag
         required: true
-        default: v1.6.12
+        default: v1.6.13
         type: string
   release:
     types: [published]
@@ -92,5 +92,5 @@ jobs:
           ARTIFACT_PATH: release/${{ matrix.artifact }}
         run: |
           node -e "const fs=require('fs'),crypto=require('crypto'),p='release/'+process.env.ARTIFACT,b=fs.readFileSync(p);if(b.length<1000000)process.exit(1);fs.writeFileSync(p+'.sha256',crypto.createHash('sha256').update(b).digest('hex')+'  '+process.env.ARTIFACT+'\n')"
-          gh release upload "$RELEASE_TAG" "release/$ARTIFACT" "release/$ARTIFACT.sha256" --repo "$GITHUB_REPOSITORY"
+          gh release upload "$RELEASE_TAG" "release/$ARTIFACT" "release/$ARTIFACT.sha256" --repo "$GITHUB_REPOSITORY" --clobber
           node ../scripts/publish-artifact.mjs
