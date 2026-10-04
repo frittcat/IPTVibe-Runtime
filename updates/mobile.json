@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "platform": "mobile",
+  "versionName": "1.6.11",
+  "url": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.11/IPTVibe-Mobile.apk",
+  "sha256": "9f5623053fb4df266c9eae01078c3418c086055114945b0938f2981b22de9289",
+  "sizeBytes": 3910175,
+  "publishedAt": "2026-10-04T14:23:55Z",
+  "signature": "existing-android-certificate",
+  "sourceRevision": "b7d7b073781190a6ff9374c6c256a18588810495",
+  "verification": "build-and-signature",
+  "packageName": "tv.iptvibe.mobile",
+  "versionCode": 50033,
+  "minimumSupportedVersionCode": 0,
+  "minSdk": 26,
+  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.11/IPTVibe-Mobile.apk",
+  "releaseNotes": "IPTVibe Mobile · navegação touch, busca por aba, favoritos, episódios e player nativo com controle de telas."
+}
