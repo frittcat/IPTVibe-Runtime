@@ -5,7 +5,7 @@ on:
       tag:
         description: Existing TV release tag
         required: true
-        default: v1.6.11
+        default: v1.6.12
         type: string
   release:
     types: [published]
@@ -46,6 +46,9 @@ jobs:
         with:
           repository: frittcat/IPTVibe-Clients
           path: clients
+      - name: Record immutable client source revision
+        shell: bash
+        run: echo "CLIENTS_SOURCE_SHA=$(git -C clients rev-parse HEAD)" >> "$GITHUB_ENV"
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
@@ -89,5 +92,5 @@ jobs:
           ARTIFACT_PATH: release/${{ matrix.artifact }}
         run: |
           node -e "const fs=require('fs'),crypto=require('crypto'),p='release/'+process.env.ARTIFACT,b=fs.readFileSync(p);if(b.length<1000000)process.exit(1);fs.writeFileSync(p+'.sha256',crypto.createHash('sha256').update(b).digest('hex')+'  '+process.env.ARTIFACT+'\n')"
-          gh release upload "$RELEASE_TAG" "release/$ARTIFACT" "release/$ARTIFACT.sha256" --repo "$GITHUB_REPOSITORY" --clobber
+          gh release upload "$RELEASE_TAG" "release/$ARTIFACT" "release/$ARTIFACT.sha256" --repo "$GITHUB_REPOSITORY"
           node ../scripts/publish-artifact.mjs
