@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packageName": "tv.iptvibe.app",
+  "versionName": "1.6.13",
+  "versionCode": 50035,
+  "minimumSupportedVersionCode": 0,
+  "minSdk": 23,
+  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.13/IPTVibe.apk",
+  "sha256": "62753e2fa49e43846050483d435cbf48f54b928807aa51054ee87973523ab3d4",
+  "sizeBytes": 7846388,
+  "releaseNotes": "IPTVibe 1.6.13\n\n- Corrige globalmente series que podiam abrir com temporadas ou episodios faltando.\n- A ficha de serie agora aguarda a inicializacao da tabela de bases VOD antes de resolver as fontes compactadas dos episodios.\n- Evita descarte silencioso de episodios quando a ficha e aberta antes de o indice.txt terminar de carregar.\n- Corrige The Big Bang Theory, que agora exibe as 12 temporadas completas e inicia em T1 E1.\n- Validacao adicional no BlueStacks com Criminal Minds confirmou 19 temporadas e episodios da temporada 6 ate o E24.\n- Mantem Busca, Filtros, catalogo e demais comportamentos da versao 1.6.12."
+}
