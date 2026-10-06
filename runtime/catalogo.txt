@@ -86,10 +86,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/518547.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/518548.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/518549.m3u8
-qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTc2Mi5tM3U4.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71760.ts
@@ -262,14 +258,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/animalplanet/animalplanet.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/296619.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/296620.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/296621.m3u8
-qualidade: SD · 768x432
-fonte: http://64.31.23.207:80/59471019/60849037/324374.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71774.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71772.ts
@@ -374,8 +362,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonnetwork.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/1882622.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882623.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882624.m3u8
@@ -445,8 +431,8 @@ qualidade: Qualidade não informada
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 fonte: http://64.31.23.207:80/59471019/60849037/324379.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/3459554.m3u8
-qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/3459555.m3u8
+qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459556.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71798.ts
@@ -783,10 +769,6 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61
 fonte: http://64.31.23.207:80/59471019/60849037/324387.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/518568.m3u8
-qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/518569.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518570.m3u8
 qualidade: SD · 960x540
@@ -1392,8 +1374,6 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 fonte: http://64.31.23.207:80/59471019/60849037/3460221.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3460222.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460223.m3u8
 qualidade: SD · 960x540
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI1Mi5tM3U4.m3u8
@@ -1456,8 +1436,6 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 8bf16a4ba05bcc97e6259297e50be63d:8dd97d486cbdd15cc47ea8c41b264ebb
 fonte: http://64.31.23.207:80/59471019/60849037/3460224.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3460225.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460226.m3u8
 qualidade: SD · 960x540
@@ -1706,8 +1684,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/324390.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459578.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/3459579.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459580.m3u8
 qualidade: HD · 1280x720
 
@@ -1826,8 +1802,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324391.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/3460200.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3460201.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3460202.m3u8
@@ -1895,8 +1869,6 @@ qualidade: Qualidade não informada
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
-fonte: http://64.31.23.207:80/59471019/60849037/3460203.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460204.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460205.m3u8
@@ -2072,12 +2044,12 @@ fonte: https://nexustvplay.bbroot.com/api/stream/telecineaction/telecineaction.m
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324314.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324316.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324318.m3u8
 qualidade: SD · 960x540
-fonte: http://64.31.23.207:80/59471019/60849037/324393.m3u8
-qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0OC5tM3U4.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY2Ny5tM3U4.m3u8
@@ -2159,8 +2131,6 @@ qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324332.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324334.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/324336.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324396.m3u8
 qualidade: FHD · 1920x1080
@@ -2248,8 +2218,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/324340.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324342.m3u8
 qualidade: SD · 960x540
-fonte: http://64.31.23.207:80/59471019/60849037/324397.m3u8
-qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY1NC5tM3U4.m3u8
 qualidade: SD · 852x480
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90237.ts
@@ -2522,8 +2490,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/324378.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/1882631.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/1882632.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882633.m3u8
 qualidade: SD · 960x540
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgxNC5tM3U4.m3u8
@@ -2588,8 +2554,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324445.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324447.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90643.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71833.ts
@@ -2843,8 +2807,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460182.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460183.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3460184.m3u8
-qualidade: SD · 768x432
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90640.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71911.ts
@@ -2909,8 +2871,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460185.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460186.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3460187.m3u8
-qualidade: SD · 768x432
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkyMS5tM3U4.m3u8
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71921.ts
@@ -3032,8 +2992,6 @@ qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn5.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/3460194.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3460195.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460196.m3u8
 qualidade: SD · 768x432
@@ -3305,8 +3263,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/hbofamily/hbofamily.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbofamily.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/514113.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/514114.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExNy5tM3U4.m3u8
@@ -3370,8 +3326,6 @@ qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomundi.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/514116.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/514117.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY5NC5tM3U4.m3u8
 qualidade: HD
@@ -3699,8 +3653,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8916.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31870.ts
 qualidade: HD
-fonte: http://64.31.23.207:80/59471019/60849037/514128.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/514129.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90636.ts
@@ -3868,8 +3820,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: FHD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324481.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324483.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM3Ny5tM3U4.m3u8
@@ -3960,8 +3910,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/tntseries/tntseries.m3u8
 qualidade: SD · 1024x576
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntseries.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324493.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324495.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM4NC5tM3U4.m3u8
@@ -4120,12 +4068,8 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/297942.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/297943.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/297944.m3u8
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324383.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518556.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518557.m3u8
@@ -4179,8 +4123,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0MS5tM3U4.m3u8
 qualidade: SD
-fonte: http://64.31.23.207:80/59471019/60849037/324505.m3u8
-qualidade: SD · 768x432
 fonte: http://64.31.23.207:80/59471019/60849037/324507.m3u8
 qualidade: SD · 768x432
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72338.ts
@@ -4329,12 +4271,8 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324320.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324322.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324324.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/324394.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103456.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72350.ts
@@ -4509,8 +4447,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/1882638.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882639.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/1882640.m3u8
-qualidade: HD · 1280x720
 
 canal: TLC
 categoria: Variedades
@@ -4533,8 +4469,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/518586.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518587.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/518588.m3u8
-qualidade: SD · 768x432
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM3NC5tM3U4.m3u8
 qualidade: SD · 768x432
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103465.ts
@@ -4645,8 +4579,6 @@ qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntnovelas.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324485.m3u8
-qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324487.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0NS5tM3U4.m3u8
 qualidade: HD · 1280x720
@@ -4844,6 +4776,8 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324475.m3u8
 qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/324477.m3u8
+qualidade: Qualidade não informada
 fonte: https://nexustvplay.bbroot.com/api/stream/tcm/tcm.m3u8
 
 canal: Band News
@@ -4875,11 +4809,7 @@ fonte: http://45.162.64.114/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459551.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459552.m3u8
-qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/3459553.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103526.ts
 qualidade: 4K
@@ -4993,8 +4923,6 @@ fonte: http://170.83.16.50/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459575.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459576.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459577.m3u8
 qualidade: SD · 960x540
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72297.ts
@@ -5025,8 +4953,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/3459569.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459570.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/3459571.m3u8
-qualidade: SD · 960x540
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103513.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71851.ts
@@ -5149,8 +5075,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/espn3/espn3.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn3.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3460188.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460189.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460190.m3u8
@@ -5291,8 +5215,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/cancaonova/cancaonova.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cancaonova.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3459542.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72404.ts
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72404.ts
@@ -5428,8 +5350,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30172.ts
 qualidade: HD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryid.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/297949.m3u8
-qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/297950.m3u8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90243.ts
@@ -5537,8 +5457,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/xsports/xsports.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3460175.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460262.m3u8
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/3460263.m3u8
@@ -5697,8 +5615,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324307.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324308.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/77963.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/104939.ts
@@ -5781,8 +5697,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgyMy5tM3U4.m3u8
 qualidade: SD
-fonte: http://64.31.23.207:80/59471019/60849037/3459582.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178516.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178512.ts
@@ -6484,8 +6398,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/89852.ts
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3459581.m3u8
-qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM1MTYubTN1OA.m3u8
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103516.ts
@@ -6591,8 +6503,6 @@ fonte: http://168.197.104.22/ZOOMOO/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://186.219.52.187/zoomoo/index.m3u8
 qualidade: SD · 720x576
-fonte: http://64.31.23.207:80/59471019/60849037/1882641.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/1882642.m3u8
 qualidade: SD · 960x540
 fonte: http://64.31.23.207:80/59471019/60849037/1882643.m3u8
@@ -7823,8 +7733,6 @@ categoria: 24 Horas
 logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTA0ODgubTN1OA.m3u8
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/2945300.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/150488.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/150489.ts
@@ -7931,8 +7839,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/297542.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/297543.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/297544.m3u8
 qualidade: SD · 768x432
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg0Ni5tM3U4.m3u8
@@ -8010,8 +7916,6 @@ categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169095.ts
 qualidade: HD
-fonte: http://64.31.23.207:80/59471019/60849037/296915.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/142032.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/128347.ts
@@ -8062,8 +7966,6 @@ categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169097.ts
 qualidade: HD
-fonte: http://64.31.23.207:80/59471019/60849037/296917.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/142036.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/129346.ts
@@ -8209,8 +8111,6 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynet.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3460158.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460269.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184572.ts
@@ -8233,18 +8133,20 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/184570.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/184571.ts
 qualidade: SD
+fonte: http://64.31.23.207:80/59471019/60849037/3460158.m3u8
+qualidade: HD · 1280x720
 
 canal: UFC Fight Pass 01
 categoria: Esportes
 logo: https://img.faz-o-eli.online/ufcfightpass.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/ufcfightpass.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/297545.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/297548.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2403505.ts
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/297545.m3u8
+qualidade: HD · 1280x720
 
 canal: UFC Fight Pass 03
 categoria: Esportes
@@ -8315,8 +8217,6 @@ categoria: Filmes e Séries
 logo: http://www.fontedecanais.dev/logos/canais/cinesky.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13071.ts
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/1832882.m3u8
-qualidade: HD · 1920x816
 fonte: http://64.31.23.207:80/59471019/60849037/1882617.m3u8
 qualidade: FHD · 1920x1080
 
@@ -8333,8 +8233,6 @@ categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13073.ts
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/1882619.m3u8
-qualidade: FHD · 1920x1080
 
 canal: Cine SKY 04
 categoria: Filmes e Séries
@@ -8365,8 +8263,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8944.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13538.ts
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/518571.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518572.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518573.m3u8
@@ -8495,8 +8391,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/studiouniversal/studiouniversal
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324392.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324469.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103467.ts
@@ -8603,8 +8497,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69036.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69037.ts
 qualidade: HD
-fonte: http://64.31.23.207:80/59471019/60849037/1882628.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882629.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882630.m3u8
@@ -8667,8 +8559,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9193.ts
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/1882634.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/1882635.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882636.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103458.ts
@@ -8721,10 +8611,10 @@ qualidade: HD · 1280x720
 canal: Band Curitiba
 categoria: TV Aberta
 logo: https://i.imgur.com/SOfcdFf.png
-fonte: http://64.31.23.207:80/59471019/60849037/324354.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324355.m3u8
 qualidade: SD · 854x480
+fonte: http://64.31.23.207:80/59471019/60849037/324354.m3u8
+qualidade: HD · 1280x720
 
 canal: Band MG
 categoria: TV Aberta
@@ -8738,8 +8628,6 @@ canal: Band Pará
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
 fonte: https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-fonte: http://64.31.23.207:80/59471019/60849037/324362.m3u8
-qualidade: HD · 1280x720
 
 canal: Band Recife TV Tribuna
 categoria: TV Aberta
@@ -8802,8 +8690,6 @@ canal: SBT BA
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/108770.ts
-fonte: http://64.31.23.207:80/59471019/60849037/324288.m3u8
-qualidade: FHD · 1920x1080
 
 canal: SBT GO
 categoria: TV Aberta
@@ -8848,6 +8734,8 @@ categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/131432.ts
 qualidade: HD
+fonte: http://64.31.23.207:80/59471019/60849037/324300.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324309.m3u8
 qualidade: FHD · 1920x1080
 
@@ -8877,8 +8765,6 @@ qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sbtrj.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324302.m3u8
-qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324303.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/108681.ts
 qualidade: FHD
