@@ -171,6 +171,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/251960.ts
 qualidade: 4K
 fonte: http://vivlar.me:80/497238/KK8Kdy/251961.ts
 qualidade: Qualidade não informada
+fonte: http://45.185.11.126:8000/play/a06m/index.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518593.m3u8
 qualidade: HD · 1280x720
 
@@ -235,6 +236,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71770.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71771.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a06s/index.m3u8
 
 canal: Animal Planet
 categoria: Documentários
@@ -297,6 +299,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71775.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71776.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71774.ts
 
 canal: Band
 categoria: TV Aberta
@@ -349,6 +352,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/79312.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20525.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/79311.ts
 
 canal: Cartoon Network
 categoria: Infantil
@@ -446,8 +450,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/3459554.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459555.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459556.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71798.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71837.ts
@@ -480,6 +482,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71840.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8711.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71840.ts
 
 canal: CNN Brasil Money
 categoria: Notícias
@@ -525,6 +528,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/295485.ts
 qualidade: FHD
 fonte: http://vivlar.me:80/497238/KK8Kdy/295486.ts
 qualidade: 4K
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/295482.ts
 
 canal: E!
 categoria: Variedades
@@ -582,6 +586,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71902.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71903.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/103506.ts
 
 canal: GE TV
 categoria: Esportes
@@ -599,6 +604,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460156.m3u8
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/3460157.m3u8
 qualidade: SD · 768x432
+fonte: http://45.185.11.126:8000/play/a08v/index.m3u8
 
 canal: GloboNews
 categoria: Notícias
@@ -672,6 +678,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8854.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30169.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a08d/index.m3u8
 
 canal: Globoplay Novelas
 categoria: Filmes e Séries
@@ -746,6 +753,7 @@ qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13496.ts
 qualidade: Qualidade não informada
 fonte: https://nexustvplay.bbroot.com/nxs/stream/globonovelas/globonovelas.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/103450.ts
 
 canal: GNT
 categoria: Variedades
@@ -819,6 +827,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72104.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/131136.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a079/index.m3u8
 
 canal: History
 categoria: Documentários
@@ -884,6 +893,7 @@ qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/304496.ts
 qualidade: HD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/history/history.m3u8
+fonte: http://45.185.11.126:8000/play/a0al/index.m3u8
 
 canal: History 2
 categoria: Documentários
@@ -965,6 +975,8 @@ qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459560.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459561.m3u8
+qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459562.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/134021.ts
 qualidade: 4K
@@ -1091,6 +1103,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/131171.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/43933.ts
 qualidade: Qualidade não informada
+fonte: http://45.185.11.126:8000/play/a057/index.m3u8
 
 canal: Multishow
 categoria: Variedades
@@ -1154,6 +1167,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72182.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/131134.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/131193.ts
 
 canal: Premiere 2
 categoria: Esportes
@@ -1222,6 +1236,7 @@ qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69028.ts
 qualidade: HD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere/premiere.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72237.ts
 
 canal: Premiere 3
 categoria: Esportes
@@ -1289,6 +1304,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69031.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30051.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72241.ts
 
 canal: Premiere 4
 categoria: Esportes
@@ -1356,6 +1372,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108296.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108300.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72245.ts
 
 canal: Premiere 5
 categoria: Esportes
@@ -1427,6 +1444,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72251.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72252.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72249.ts
 
 canal: Premiere 6
 categoria: Esportes
@@ -1492,6 +1510,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72256.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108307.ts
 qualidade: FHD
+fonte: http://45.185.11.126:8000/play/a05j/index.m3u8
 
 canal: Premiere 7
 categoria: Esportes
@@ -1559,6 +1578,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108313.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108315.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a05k/index.m3u8
 
 canal: Premiere 8
 categoria: Esportes
@@ -1618,6 +1638,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/180159.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/180160.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a05l/index.m3u8
 
 canal: Premiere Clubes
 categoria: Esportes
@@ -1677,6 +1698,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72265.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72266.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a06g/index.m3u8
 
 canal: SBT
 categoria: TV Aberta
@@ -1723,10 +1745,13 @@ referer: https://mais.sbt.com.br/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 fonte: https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459566.m3u8
+qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459567.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459568.m3u8
 qualidade: FHD · 1920x1080
+fonte: http://45.185.11.126:8000/play/a0a7/index.m3u8
 
 canal: Sony Channel
 categoria: Filmes e Séries
@@ -1743,8 +1768,6 @@ fonte: https://nexustvplay.bbroot.com/nxs/stream/sonychannel/sonychannel.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sonychannel.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324457.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324459.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103517.ts
@@ -1865,6 +1888,9 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69096.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30126.ts
 qualidade: HD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30127.ts
+qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/131132.ts
 
 canal: SporTV 2
 categoria: Esportes
@@ -1928,6 +1954,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72324.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13586.ts
 qualidade: Qualidade não informada
+fonte: http://45.185.11.126:8000/play/a05f/index.m3u8
 
 canal: SporTV 3
 categoria: Esportes
@@ -1995,6 +2022,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9106.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9105.ts
 qualidade: FHD
+fonte: http://45.185.11.126:8000/play/a06v/index.m3u8
 
 canal: Canal OFF
 categoria: Esportes
@@ -2045,6 +2073,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72211.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72212.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a07t/index.m3u8
 
 canal: Telecine Action
 categoria: Filmes e Séries
@@ -2069,8 +2098,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324314.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324316.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324318.m3u8
 qualidade: SD · 960x540
 fonte: http://64.31.23.207:80/59471019/60849037/324393.m3u8
@@ -2135,6 +2162,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9126.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9127.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a058/index.m3u8
 
 canal: Telecine Pipoca
 categoria: Filmes e Séries
@@ -2211,6 +2239,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90657.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9132.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a08g/index.m3u8
 
 canal: Telecine Premium
 categoria: Filmes e Séries
@@ -2241,6 +2270,8 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324338.m3u8
 qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/324340.m3u8
+qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324342.m3u8
 qualidade: SD · 960x540
 fonte: http://64.31.23.207:80/59471019/60849037/324397.m3u8
@@ -2297,6 +2328,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90654.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9134.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72362.ts
 
 canal: TV Brasil
 categoria: TV Aberta
@@ -2343,6 +2375,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72400.ts
 qualidade: FHD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72401.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71816.ts
 
 canal: Universal Premiere
 categoria: Filmes e Séries
@@ -2352,6 +2385,7 @@ qualidade: Qualidade não informada
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 3531c1c49b8e63c0b94a8061154e0c58:90e91e6549d2061b793177c70d35e177
+fonte: http://45.185.11.126:8000/play/a08m/index.m3u8
 
 canal: Universal Reality
 categoria: Filmes e Séries
@@ -2367,6 +2401,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/518602.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518603.m3u8
 qualidade: SD · 960x540
+fonte: http://45.185.11.126:8000/play/a08c/index.m3u8
 
 canal: Warner
 categoria: Filmes e Séries
@@ -2382,8 +2417,6 @@ qualidade: HD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/warnerchannel/warnerchannel.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/warnerchannel.txt
-qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324511.m3u8
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324513.m3u8
 qualidade: HD · 1280x720
@@ -2493,6 +2526,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168917.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168918.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72040.ts
 
 canal: Cartoonito
 categoria: Infantil
@@ -2513,8 +2547,6 @@ fonte: https://nexustvplay.bbroot.com/nxs/stream/cartoonito/cartoonito.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324378.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/1882631.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/1882632.m3u8
@@ -2557,6 +2589,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71815.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13503.ts
 qualidade: Qualidade não informada
+fonte: http://45.185.11.126:8000/play/a0ae/index.m3u8
 
 canal: Cinemax
 categoria: Filmes e Séries
@@ -2619,6 +2652,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8708.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8709.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a081/index.m3u8
 
 canal: Discovery Channel
 categoria: Documentários
@@ -2686,6 +2720,7 @@ qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8735.ts
 qualidade: FHD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/discoverychannel/discoverychannel.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71862.ts
 
 canal: Discovery Kids
 categoria: Infantil
@@ -2744,6 +2779,7 @@ qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8742.ts
 qualidade: FHD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/discoverykids/discoverykids.m3u8
+fonte: http://45.185.11.126:8000/play/a0ad/index.m3u8
 
 canal: Discovery Theater
 categoria: Documentários
@@ -2806,6 +2842,7 @@ qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71882.ts
 qualidade: SD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/discoverytheather/discoverytheather.m3u8
+fonte: http://45.185.11.126:8000/play/a085/index.m3u8
 
 canal: ESPN
 categoria: Esportes
@@ -2938,6 +2975,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71922.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71923.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71919.ts
 
 canal: ESPN 4
 categoria: Esportes
@@ -3004,6 +3042,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71961.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30083.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a05m/index.m3u8
 
 canal: ESPN 5
 categoria: Esportes
@@ -3068,6 +3107,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8827.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30081.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a05n/index.m3u8
 
 canal: ESPN 6
 categoria: Esportes
@@ -3128,6 +3168,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71917.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71918.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a084/index.m3u8
 
 canal: HBO
 categoria: Filmes e Séries
@@ -3212,6 +3253,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90696.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8902.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72133.ts
 
 canal: HBO2
 categoria: Filmes e Séries
@@ -3274,6 +3316,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72113.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8897.ts
 qualidade: FHD
+fonte: http://45.185.11.126:8000/play/a08o/index.m3u8
 
 canal: HBO Family
 categoria: Filmes e Séries
@@ -3336,6 +3379,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72116.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72117.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72114.ts
 
 canal: HBO Mundi
 categoria: Filmes e Séries
@@ -3422,6 +3466,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90693.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31864.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72123.ts
 
 canal: HBO Plus
 categoria: Filmes e Séries
@@ -3592,6 +3637,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90687.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/24593.ts
 qualidade: FHD
+fonte: http://45.185.11.126:8000/play/a08s/index.m3u8
 
 canal: HBO Signature
 categoria: Filmes e Séries
@@ -3674,6 +3720,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90684.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8914.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72134.ts
 
 canal: HBO Xtreme
 categoria: Filmes e Séries
@@ -3753,6 +3800,7 @@ qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13536.ts
 qualidade: Qualidade não informada
 fonte: https://nexustvplay.bbroot.com/nxs/stream/hboxtreme/hboxtreme.m3u8
+fonte: http://45.185.11.126:8000/play/a083/index.m3u8
 
 canal: Record
 categoria: TV Aberta
@@ -3783,10 +3831,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: FHD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/space.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324463.m3u8
-qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324465.m3u8
-qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDYzMy5tM3U4.m3u8
 qualidade: 4K
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjMyMC5tM3U4.m3u8
@@ -3935,6 +3979,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594020.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594023.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72375.ts
 
 canal: TNT Séries
 categoria: Filmes e Séries
@@ -3961,6 +4006,8 @@ fonte: https://nexustvplay.bbroot.com/nxs/stream/tntseries/tntseries.m3u8
 qualidade: SD · 1024x576
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntseries.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324493.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324495.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM4NC5tM3U4.m3u8
@@ -4054,8 +4101,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/324399.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324499.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324500.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90632.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72419.ts
@@ -4088,6 +4133,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72422.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/21682.ts
 qualidade: FHD
+fonte: http://45.185.11.126:8000/play/a0af/index.m3u8
 
 canal: AMC Séries
 categoria: Filmes e Séries
@@ -4168,6 +4214,7 @@ qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30156.ts
 qualidade: HD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryturbo/discoveryturbo.m3u8
+fonte: http://45.185.11.126:8000/play/a07z/index.m3u8
 
 canal: USA Network
 categoria: Filmes e Séries
@@ -4178,8 +4225,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0MS5tM3U4.m3u8
 qualidade: SD
-fonte: http://64.31.23.207:80/59471019/60849037/324507.m3u8
-qualidade: SD · 768x432
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72338.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72339.ts
@@ -4234,6 +4279,8 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324326.m3u8
 qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/324328.m3u8
+qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324330.m3u8
 qualidade: SD · 960x540
 fonte: http://64.31.23.207:80/59471019/60849037/324395.m3u8
@@ -4292,6 +4339,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/24535.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9130.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a059/index.m3u8
 
 canal: Telecine Cult
 categoria: Filmes e Séries
@@ -4324,7 +4372,7 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324320.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324324.m3u8
+fonte: http://64.31.23.207:80/59471019/60849037/324322.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324394.m3u8
 qualidade: FHD · 1920x1080
@@ -4380,6 +4428,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/24534.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30136.ts
 qualidade: HD
+fonte: http://45.185.11.126:8000/play/a05a/index.m3u8
 
 canal: Telecine Touch
 categoria: Filmes e Séries
@@ -4410,6 +4459,8 @@ fonte: https://nexustvplay.bbroot.com/nxs/stream/telecinetouch/telecinetouch.m3u
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324344.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324346.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324348.m3u8
@@ -4468,6 +4519,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/24538.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9136.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72366.ts
 
 canal: SONY Movies
 categoria: Filmes e Séries
@@ -4563,6 +4615,7 @@ qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8753.ts
 qualidade: FHD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/tlc/tlc.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72371.ts
 
 canal: Arte 1
 categoria: Variedades
@@ -4615,6 +4668,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71780.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/67512.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71777.ts
 
 canal: TNT Novelas
 categoria: Filmes e Séries
@@ -4634,10 +4688,6 @@ qualidade: HD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/tntnovelas/tntnovelas.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntnovelas.txt
-qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324485.m3u8
-qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324487.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0NS5tM3U4.m3u8
 qualidade: HD · 1280x720
@@ -4673,6 +4723,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72345.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/275101.ts
 qualidade: Qualidade não informada
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72342.ts
 
 canal: Discovery Science
 categoria: Documentários
@@ -4735,6 +4786,7 @@ qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30151.ts
 qualidade: HD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryscience/discoveryscience.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71877.ts
 
 canal: AXN
 categoria: Filmes e Séries
@@ -4769,9 +4821,9 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: FHD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/axn.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324375.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324433.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/324435.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDcxNS5tM3U4.m3u8
 qualidade: HD
@@ -4825,6 +4877,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71784.ts
 qualidade: SD
 fonte: http://vivlar.me:80/497238/KK8Kdy/90714.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71783.ts
 
 canal: TCM
 categoria: Filmes e Séries
@@ -4833,8 +4886,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9124.ts
 qualidade: HD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tcm.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324475.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324477.m3u8
 qualidade: Qualidade não informada
 fonte: https://nexustvplay.bbroot.com/nxs/stream/tcm/tcm.m3u8
@@ -4868,7 +4919,11 @@ fonte: http://45.162.64.114/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459551.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459552.m3u8
+qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/3459553.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103526.ts
 qualidade: 4K
@@ -4900,6 +4955,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71791.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71792.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71789.ts
 
 canal: BAND SPORTS HD
 categoria: Esportes
@@ -4962,6 +5018,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71803.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71804.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71801.ts
 
 canal: RedeTV!
 categoria: TV Aberta
@@ -4984,6 +5041,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/3459575.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459576.m3u8
 qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459577.m3u8
+qualidade: SD · 960x540
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72297.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72298.ts
@@ -4994,6 +5053,7 @@ fonte: http://tvonhdbr.com:80/493754/NqCxf1/72300.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178532.ts
 qualidade: 4K
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
 
 canal: TV Cultura
 categoria: TV Aberta
@@ -5009,8 +5069,6 @@ qualidade: FHD · 1920x1080
 fonte: https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 qualidade: SD · 1216x684
 fonte: http://64.31.23.207:80/59471019/60849037/3459569.m3u8
-qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/3459570.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459571.m3u8
 qualidade: SD · 960x540
@@ -5044,6 +5102,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71853.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71854.ts
 qualidade: SD
+fonte: https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
 canal: Terra Viva
 categoria: Variedades
@@ -5054,8 +5113,6 @@ fonte: http://45.162.64.114/TERRAVIVA/index.m3u8
 qualidade: HD · 1080x720
 fonte: http://45.177.114.115/TERRAVIVA/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459589.m3u8
-qualidade: Qualidade não informada
 
 canal: Woohoo
 categoria: Esportes
@@ -5108,6 +5165,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72438.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/125448.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72437.ts
 
 canal: ESPN 3
 categoria: Esportes
@@ -5174,6 +5232,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8788.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8787.ts
 qualidade: HD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71907.ts
 
 canal: TV Gazeta
 categoria: TV Aberta
@@ -5188,8 +5247,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/67852.ts
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MTkubTN1OA.m3u8
 qualidade: FHD
-fonte: http://64.31.23.207:80/59471019/60849037/3459587.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/104919.ts
 qualidade: FHD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/104919.ts
@@ -5216,7 +5273,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: SD · 852x480
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9058.ts
 qualidade: FHD
-fonte: http://64.31.23.207:80/59471019/60849037/3459564.m3u8
+fonte: http://64.31.23.207:80/59471019/60849037/3459563.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459565.m3u8
 qualidade: SD · 768x432
@@ -5254,6 +5311,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9057.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30170.ts
 qualidade: HD
+fonte: https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 canal: Canção Nova
 categoria: TV Aberta
@@ -5335,6 +5393,7 @@ qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72397.ts
 qualidade: SD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/aparecida/aparecida.m3u8
+fonte: https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 canal: Rede Vida
 categoria: TV Aberta
@@ -5359,8 +5418,6 @@ fonte: https://nexustvplay.bbroot.com/nxs/stream/redevida/redevida.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/redevida.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3459546.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103475.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72293.ts
@@ -5393,6 +5450,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72296.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9076.ts
 qualidade: HD
+fonte: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 
 canal: Discovery ID
 categoria: Documentários
@@ -5496,6 +5554,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71930.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71931.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71928.ts
 
 canal: Box Kids TV
 categoria: Infantil
@@ -5518,6 +5577,8 @@ fonte: https://nexustvplay.bbroot.com/nxs/stream/xsports/xsports.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/3460175.m3u8
+qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460262.m3u8
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/3460263.m3u8
@@ -5544,6 +5605,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/631630.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/631631.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/340450.ts
 
 canal: N SPORTS
 categoria: Esportes
@@ -5600,6 +5662,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72186.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72187.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72184.ts
 
 canal: Band SP
 categoria: TV Aberta
@@ -5652,6 +5715,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/79312.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20525.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/79311.ts
 
 canal: Band RS
 categoria: TV Aberta
@@ -5702,6 +5766,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72598.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/77964.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/77963.ts
 
 canal: Record SP
 categoria: TV Aberta
@@ -5798,6 +5863,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71823.ts
 qualidade: SD
 fonte: http://vivlar.me:80/497238/KK8Kdy/178514.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/178512.ts
 
 canal: Agro Mais
 categoria: Variedades
@@ -5848,6 +5914,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71766.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71767.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71764.ts
 
 canal: CNT
 categoria: TV Aberta
@@ -5857,8 +5924,6 @@ qualidade: HD · 1280x720
 fonte: http://168.197.104.22/CNT/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://170.83.49.66:8083/REDECNTHD/index.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459547.m3u8
 qualidade: HD · 1280x720
 
 canal: TV Pai Eterno
@@ -5908,6 +5973,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72214.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72215.ts
 qualidade: SD
+fonte: https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
 
 canal: PlayTV
 categoria: TV Aberta
@@ -5944,6 +6010,8 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9069.ts
 qualidade: FHD
 fonte: https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459545.m3u8
+qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178531.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/104929.ts
@@ -5974,6 +6042,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/104930.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/104931.ts
 qualidade: SD
+fonte: https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 canal: Trace Brazuca
 categoria: Variedades
@@ -6018,6 +6087,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72388.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72389.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72386.ts
 
 canal: TV Câmara
 categoria: TV Aberta
@@ -6078,8 +6148,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjQxMS5tM3U4.m3u8
 qualidade: SD
-fonte: http://64.31.23.207:80/59471019/60849037/3459543.m3u8
-qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103459.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72408.ts
@@ -6110,6 +6178,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72410.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72411.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72408.ts
 
 canal: TV Senado
 categoria: TV Aberta
@@ -6203,8 +6272,6 @@ categoria: Variedades
 fonte: http://45.162.64.114/AGRO_CANAL/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/AGRO_CANAL/index.m3u8
-qualidade: HD · 1280x720
-fonte: https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 qualidade: HD · 1280x720
 
 canal: Blits TV
@@ -6389,6 +6456,7 @@ fonte: http://170.83.16.50/FUTURA/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://186.219.52.187/futura/index.m3u8
 qualidade: HD · 1280x720
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71962.ts
 
 canal: Canal Gov
 categoria: TV Aberta
@@ -6405,6 +6473,7 @@ categoria: Notícias
 logo: https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg
 fonte: https://video24.mais.uol.com.br/live/6146.m3u8
 qualidade: FHD · 1920x1080
+fonte: http://45.185.11.126:8000/play/a0a4/index.m3u8
 
 canal: Canal do Boi
 categoria: Variedades
@@ -6449,6 +6518,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71821.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71822.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71820.ts
 
 canal: Chef TV
 categoria: Variedades
@@ -6492,6 +6562,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/1882641.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/1882643.m3u8
 qualidade: SD · 960x540
+fonte: http://45.185.11.126:8000/play/a078/index.m3u8
 
 canal: Estado Paranormal
 categoria: 24 Horas
@@ -6575,6 +6646,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71964.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71965.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71962.ts
 
 canal: Homeful
 categoria: Variedades
@@ -7067,12 +7139,14 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: SD · 852x480
 fonte: http://170.83.16.50/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1074634538.m3u8
 
 canal: Runtime
 categoria: Filmes e Séries
 logo: https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 qualidade: SD · 1216x684
+fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
 canal: SFT Combat
 categoria: Esportes
@@ -7185,6 +7259,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72392.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72393.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72393.ts
 
 canal: UFC
 categoria: Esportes
@@ -7360,6 +7435,7 @@ qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71846.ts
 qualidade: SD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/combate/combate.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71846.ts
 
 canal: DAZN (Jogo 1)
 categoria: Esportes
@@ -7701,6 +7777,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71818.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71819.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71816.ts
 
 canal: Cine SKY 01
 categoria: Filmes e Séries
@@ -7795,6 +7872,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72156.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72157.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72154.ts
 
 canal: MAX 01
 categoria: Filmes e Séries
@@ -7921,6 +7999,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72336.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72337.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72334.ts
 
 canal: Gloob
 categoria: Infantil
@@ -7979,6 +8058,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72100.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/131117.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/131153.ts
 
 canal: Gloobinho
 categoria: Infantil
@@ -8031,6 +8111,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90629.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/131173.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/90631.ts
 
 canal: Kids Mais
 categoria: Infantil
@@ -8093,6 +8174,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72414.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72415.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72412.ts
 
 canal: TV Zyn
 categoria: Infantil
@@ -8196,6 +8278,7 @@ logo: http://www.fontedecanais.me/logos/canais/sbt.png
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/108770.ts
 fonte: http://64.31.23.207:80/59471019/60849037/324288.m3u8
 qualidade: FHD · 1920x1080
+fonte: https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
 canal: SBT GO
 categoria: TV Aberta
@@ -8290,6 +8373,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/108682.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/108683.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/108682.ts
 
 canal: SBT TV Jornal PE
 categoria: TV Aberta
@@ -8326,6 +8410,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/241552.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/241553.ts
 qualidade: SD
+fonte: http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 canal: Tv Goiania
 categoria: TV Aberta
@@ -8388,6 +8473,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71808.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71809.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a07w/index.m3u8
 
 canal: Comedy Central
 categoria: Variedades
@@ -8450,6 +8536,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71934.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71935.ts
 qualidade: SD
+fonte: http://45.185.11.126:8000/play/a06j/index.m3u8
 
 canal: Modo Viagem
 categoria: Variedades
@@ -8502,6 +8589,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72164.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72165.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72164.ts
 
 canal: SBT+ Raiz
 categoria: Variedades
@@ -8791,6 +8879,7 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/136821.ts
 qualidade: Qualidade não informada
 fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_picapau/24h_picapau.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/136821.ts
 
 canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
@@ -8949,6 +9038,7 @@ qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71890.ts
 qualidade: SD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryworld/discoveryworld.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71887.ts
 
 canal: CazeTV 1
 categoria: Esportes
@@ -9096,6 +9186,7 @@ fonte: http://tvonhdbr.com:80/493754/NqCxf1/184570.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/184571.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/184570.ts
 
 canal: SportyNet+ 2
 categoria: Esportes
@@ -9144,6 +9235,7 @@ fonte: http://tvonhdbr.com:80/493754/NqCxf1/184580.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/184581.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/184580.ts
 
 canal: Globo AM
 categoria: TV Aberta
@@ -9225,6 +9317,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/131163.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/131182.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72025.ts
 
 canal: Globo RS
 categoria: TV Aberta
@@ -9351,6 +9444,7 @@ qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72145.ts
 qualidade: SD
 fonte: https://nexustvplay.bbroot.com/nxs/stream/hgtv/hgtv.m3u8
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72142.ts
 
 canal: MTV
 categoria: Variedades
@@ -9729,6 +9823,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71858.ts
 qualidade: SD
 fonte: http://vivlar.me:80/497238/KK8Kdy/103512.ts
 qualidade: 4K
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71855.ts
 
 canal: DOG TV
 categoria: Variedades
@@ -9759,6 +9854,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/76923.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/104908.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/76922.ts
 
 canal: Eurochannel
 categoria: Notícias
@@ -9787,6 +9883,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/104911.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/104912.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/104910.ts
 
 canal: FashionTV
 categoria: Variedades
@@ -9821,6 +9918,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71926.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71927.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71924.ts
 
 canal: Film&Arts
 categoria: Filmes e Séries
@@ -9854,6 +9952,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/104915.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/104916.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/104914.ts
 
 canal: Formula 1 TV
 categoria: PPV
@@ -9909,6 +10008,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/104907.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/104941.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/104906.ts
 
 canal: Copa do Brasil 3
 categoria: Variedades
@@ -10123,6 +10223,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/164028.ts
 qualidade: SD
 fonte: http://vivlar.me:80/497238/KK8Kdy/164027.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/164030.ts
 
 canal: NBA League Pass 1
 categoria: Esportes
@@ -10145,6 +10246,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/140517.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/140518.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/140516.ts
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/598889.ts
 qualidade: Qualidade não informada
 
@@ -10217,6 +10319,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/140526.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/140527.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/140525.ts
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/598886.ts
 qualidade: Qualidade não informada
 
@@ -10241,6 +10344,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/141488.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/141489.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/141489.ts
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/598885.ts
 qualidade: Qualidade não informada
 
@@ -10355,6 +10459,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72991.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72992.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72992.ts
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/295699.ts
 qualidade: Qualidade não informada
 
@@ -10391,6 +10496,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72219.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72220.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72219.ts
 
 canal: Prime Box Brazil
 categoria: Variedades
@@ -10425,6 +10531,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72269.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72270.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/72269.ts
 
 canal: Sabor & Arte
 categoria: Variedades
@@ -10458,6 +10565,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/112016.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/112015.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/112016.ts
 
 canal: SYFY
 categoria: Filmes e Séries
@@ -10525,6 +10633,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/104935.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/104936.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/104934.ts
 
 canal: 101 Dalmatas
 categoria: 24 Horas
@@ -11088,6 +11197,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/247977.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/247978.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/247976.ts
 
 canal: FCF TV 2
 categoria: PPV
@@ -11219,6 +11329,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/295480.ts
 qualidade: 4K
 fonte: http://vivlar.me:80/497238/KK8Kdy/295481.ts
 qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/295477.ts
 
 canal: Brasileirao Serie A
 categoria: Variedades
@@ -11240,6 +11351,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/317064.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/317065.ts
 qualidade: SD
+fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/317063.ts
 
 canal: Andorra x Malta
 categoria: Esportes
