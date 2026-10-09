@@ -77,7 +77,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35224.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35225.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/ae/ae.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/ae/ae.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/ae.txt
 qualidade: Qualidade não informada
@@ -125,15 +125,13 @@ qualidade: HD
 canal: Adult Swim
 categoria: Variedades
 logo: https://img.faz-o-eli.online/adultswim.png
-fonte: https://nexustvplay.bbroot.com/api/stream/adultswim/adultswim.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/adultswim/adultswim.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTE5NTcubTN1OA.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/518592.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/518593.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/518594.m3u8
 qualidade: SD · 768x432
@@ -173,6 +171,8 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/251960.ts
 qualidade: 4K
 fonte: http://vivlar.me:80/497238/KK8Kdy/251961.ts
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/518593.m3u8
+qualidade: HD · 1280x720
 
 canal: AMC
 categoria: Filmes e Séries
@@ -191,7 +191,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35226.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35227.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/amc/amc.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/amc/amc.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTc2OC5tM3U4.m3u8
 qualidade: FHD · 1920x1080
@@ -255,7 +255,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/304491.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/304492.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/animalplanet/animalplanet.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/animalplanet/animalplanet.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt
 qualidade: Qualidade não informada
@@ -315,7 +315,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8660.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31029.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/bandsp/bandsp.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/bandsp/bandsp.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/bandsp.txt
 qualidade: Qualidade não informada
@@ -365,7 +365,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/38015.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/38016.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/cartoonnetwork/cartoonnetwork.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/cartoonnetwork/cartoonnetwork.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgyOS5tM3U4.m3u8
 qualidade: FHD · 1920x1080
@@ -433,7 +433,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30166.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30167.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/cnnbrasil/cnnbrasil.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/cnnbrasil/cnnbrasil.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cnnbrasil.txt
 qualidade: Qualidade não informada
@@ -441,6 +441,8 @@ fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/pl
 qualidade: Qualidade não informada
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 fonte: http://64.31.23.207:80/59471019/60849037/324379.m3u8
+qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/3459554.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459555.m3u8
 qualidade: HD · 1280x720
@@ -615,7 +617,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81598.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30168.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/globonews/globonews.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globonews/globonews.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globonews.txt
 qualidade: Qualidade não informada
@@ -627,6 +629,8 @@ chave: 57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
 fonte: http://64.31.23.207:80/59471019/60849037/324385.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459557.m3u8
+qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459558.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459559.m3u8
 qualidade: SD · 768x432
@@ -741,7 +745,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72430.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13496.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/globonovelas/globonovelas.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globonovelas/globonovelas.m3u8
 
 canal: GNT
 categoria: Variedades
@@ -768,7 +772,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/66901.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/66902.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/gnt/gnt.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/gnt/gnt.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.txt
 qualidade: Qualidade não informada
@@ -879,7 +883,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/304494.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/304496.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/history/history.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/history/history.m3u8
 
 canal: History 2
 categoria: Documentários
@@ -928,7 +932,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72108.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72109.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/history2/history2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/history2/history2.m3u8
 
 canal: Jovem Pan News
 categoria: Notícias
@@ -960,7 +964,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/324388.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459560.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459562.m3u8
+fonte: http://64.31.23.207:80/59471019/60849037/3459561.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/134021.ts
 qualidade: 4K
@@ -1016,7 +1020,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35238.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35239.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/megapix/megapix.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/megapix/megapix.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.txt
 qualidade: Qualidade não informada
@@ -1105,7 +1109,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8974.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8975.ts
 qualidade: FHD
-fonte: https://nexustvplay.bbroot.com/api/stream/multishow/multishow.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/multishow/multishow.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.txt
 qualidade: Qualidade não informada
@@ -1162,7 +1166,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13576.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69029.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere2/premiere2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere2/premiere2.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.txt
 qualidade: Qualidade não informada
@@ -1217,7 +1221,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69097.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69028.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere/premiere.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere/premiere.m3u8
 
 canal: Premiere 3
 categoria: Esportes
@@ -1232,7 +1236,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69030.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9026.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere3/premiere3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere3/premiere3.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.txt
 qualidade: Qualidade não informada
@@ -1299,7 +1303,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108297.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108298.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere4/premiere4.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere4/premiere4.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.txt
 qualidade: Qualidade não informada
@@ -1376,7 +1380,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108304.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108306.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere5/premiere5.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere5/premiere5.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.txt
 qualidade: Qualidade não informada
@@ -1443,7 +1447,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108309.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108310.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere6/premiere6.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere6/premiere6.m3u8
 qualidade: HD · 1280x720
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/0bmtb2fxcj/out/v1/b5f50c3632264d32bf857652f631b0fb/cenc.mpd
 qualidade: Qualidade não informada
@@ -1506,7 +1510,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108317.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108316.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere7/premiere7.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere7/premiere7.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.txt
 qualidade: Qualidade não informada
@@ -1571,7 +1575,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13582.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9036.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/premiere8/premiere8.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/premiere8/premiere8.m3u8
 qualidade: HD · 1280x720
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/2s8gkqz2id/out/v1/41da2546a9a34238b8615d3beb4ee600/cenc.mpd
 qualidade: Qualidade não informada
@@ -1719,8 +1723,6 @@ referer: https://mais.sbt.com.br/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 fonte: https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459566.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459567.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459568.m3u8
@@ -1737,10 +1739,12 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35242.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35243.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/sonychannel/sonychannel.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sonychannel/sonychannel.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sonychannel.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324457.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324459.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103517.ts
@@ -1813,7 +1817,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9107.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9111.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/sportv/sportv.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sportv/sportv.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.txt
 qualidade: Qualidade não informada
@@ -1861,8 +1865,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69096.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30126.ts
 qualidade: HD
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30127.ts
-qualidade: HD
 
 canal: SporTV 2
 categoria: Esportes
@@ -1879,7 +1881,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81592.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30123.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/sportv2/sportv2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sportv2/sportv2.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.txt
 qualidade: Qualidade não informada
@@ -1944,7 +1946,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81593.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30124.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/sportv3/sportv3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sportv3/sportv3.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.txt
 qualidade: Qualidade não informada
@@ -2003,7 +2005,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8997.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8998.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/off/off.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/off/off.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/off.txt
 qualidade: Qualidade não informada
@@ -2061,12 +2063,14 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30134.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30135.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/telecineaction/telecineaction.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/telecineaction/telecineaction.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324314.m3u8
 qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/324316.m3u8
+qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324318.m3u8
 qualidade: SD · 960x540
 fonte: http://64.31.23.207:80/59471019/60849037/324393.m3u8
@@ -2145,7 +2149,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30140.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30141.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/telecinepipoca/telecinepipoca.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/telecinepipoca/telecinepipoca.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.txt
 qualidade: Qualidade não informada
@@ -2231,12 +2235,12 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9133.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30142.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/telecinepremium/telecinepremium.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/telecinepremium/telecinepremium.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324340.m3u8
-qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/324338.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324342.m3u8
 qualidade: SD · 960x540
 fonte: http://64.31.23.207:80/59471019/60849037/324397.m3u8
@@ -2375,12 +2379,14 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9220.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35259.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/warnerchannel/warnerchannel.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/warnerchannel/warnerchannel.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/warnerchannel.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324511.m3u8
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324513.m3u8
+qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90236.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72431.ts
@@ -2453,7 +2459,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: SD · 852x480
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168916.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/globosp/globosp.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globosp/globosp.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.txt
 qualidade: Qualidade não informada
@@ -2503,7 +2509,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/38013.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/106287.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/cartoonito/cartoonito.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/cartoonito/cartoonito.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt
 qualidade: Qualidade não informada
@@ -2571,10 +2577,12 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35232.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35233.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/cinemax/cinemax.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/cinemax/cinemax.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324445.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324447.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90643.ts
@@ -2677,7 +2685,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71866.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8735.ts
 qualidade: FHD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoverychannel/discoverychannel.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoverychannel/discoverychannel.m3u8
 
 canal: Discovery Kids
 categoria: Infantil
@@ -2735,7 +2743,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71874.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8742.ts
 qualidade: FHD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoverykids/discoverykids.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoverykids/discoverykids.m3u8
 
 canal: Discovery Theater
 categoria: Documentários
@@ -2797,7 +2805,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71881.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71882.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoverytheather/discoverytheather.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoverytheather/discoverytheather.m3u8
 
 canal: ESPN
 categoria: Esportes
@@ -2820,7 +2828,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/598916.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/598917.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/espn/espn.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/espn/espn.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.txt
 qualidade: Qualidade não informada
@@ -2888,7 +2896,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30072.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30071.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/espn2/espn2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/espn2/espn2.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn2.txt
 qualidade: Qualidade não informada
@@ -2954,7 +2962,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20947.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30082.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/espn4/espn4.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/espn4/espn4.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn4.txt
 qualidade: Qualidade não informada
@@ -3014,7 +3022,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8826.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30084.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/espn5/espn5.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/espn5/espn5.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn5.txt
 qualidade: Qualidade não informada
@@ -3078,7 +3086,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8794.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30077.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/espn6/espn6.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/espn6/espn6.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn6.txt
 qualidade: Qualidade não informada
@@ -3144,7 +3152,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31862.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31863.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/hbo/hbo.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hbo/hbo.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.txt
 qualidade: Qualidade não informada
@@ -3226,7 +3234,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31859.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93899.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/hbo2/hbo2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hbo2/hbo2.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo2.txt
 qualidade: Qualidade não informada
@@ -3288,7 +3296,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31860.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31861.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/hbofamily/hbofamily.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hbofamily/hbofamily.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbofamily.txt
 qualidade: Qualidade não informada
@@ -3352,7 +3360,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8905.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93900.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/hbomundi/hbomundi.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hbomundi/hbomundi.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomundi.txt
 qualidade: Qualidade não informada
@@ -3430,7 +3438,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31865.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31866.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/hboplus/hboplus.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hboplus/hboplus.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjEyNS5tM3U4.m3u8
 qualidade: FHD
@@ -3524,7 +3532,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31867.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93901.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/hbopop/hbopop.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hbopop/hbopop.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbopop.txt
 qualidade: Qualidade não informada
@@ -3744,7 +3752,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/90681.ts
 qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13536.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/hboxtreme/hboxtreme.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hboxtreme/hboxtreme.m3u8
 
 canal: Record
 categoria: TV Aberta
@@ -3767,13 +3775,15 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9101.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35245.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/space/space.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/space/space.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjMxOC5tM3U4.m3u8
 qualidade: FHD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY3Ny5tM3U4.m3u8
 qualidade: FHD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/space.txt
+qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324463.m3u8
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324465.m3u8
 qualidade: HD · 1280x720
@@ -3853,12 +3863,14 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594024.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594025.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/tnt/tnt.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/tnt/tnt.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY3NC5tM3U4.m3u8
 qualidade: FHD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.txt
 qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324481.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324483.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM3Ny5tM3U4.m3u8
@@ -3945,12 +3957,10 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35254.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35255.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/tntseries/tntseries.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/tntseries/tntseries.m3u8
 qualidade: SD · 1024x576
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntseries.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324493.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324495.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM4NC5tM3U4.m3u8
@@ -4031,7 +4041,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35256.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35257.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/universaltv/universaltv.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/universaltv/universaltv.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.txt
 qualidade: Qualidade não informada
@@ -4157,7 +4167,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13512.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30156.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryturbo/discoveryturbo.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryturbo/discoveryturbo.m3u8
 
 canal: USA Network
 categoria: Filmes e Séries
@@ -4168,7 +4178,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0MS5tM3U4.m3u8
 qualidade: SD
-fonte: http://64.31.23.207:80/59471019/60849037/324505.m3u8
+fonte: http://64.31.23.207:80/59471019/60849037/324507.m3u8
 qualidade: SD · 768x432
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72338.ts
 qualidade: FHD
@@ -4218,14 +4228,14 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30138.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30139.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/telecinefun/telecinefun.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/telecinefun/telecinefun.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324326.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/324328.m3u8
-qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/324330.m3u8
+qualidade: SD · 960x540
 fonte: http://64.31.23.207:80/59471019/60849037/324395.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NTUubTN1OA.m3u8
@@ -4308,7 +4318,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9128.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30137.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/telecinecult/telecinecult.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/telecinecult/telecinecult.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.txt
 qualidade: Qualidade não informada
@@ -4396,12 +4406,10 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30144.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30145.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/telecinetouch/telecinetouch.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/telecinetouch/telecinetouch.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324344.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324346.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324348.m3u8
@@ -4469,6 +4477,8 @@ qualidade: HD · 1280x720
 fonte: http://45.177.114.115/SONY_MOVIES/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://168.197.104.22/SONY_MOVIES/index.m3u8
+qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/324518.m3u8
 qualidade: HD · 1280x720
 
 canal: Globo
@@ -4552,7 +4562,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13511.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8753.ts
 qualidade: FHD
-fonte: https://nexustvplay.bbroot.com/api/stream/tlc/tlc.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/tlc/tlc.m3u8
 
 canal: Arte 1
 categoria: Variedades
@@ -4621,11 +4631,13 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/275103.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/275104.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/tntnovelas/tntnovelas.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/tntnovelas/tntnovelas.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntnovelas.txt
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324485.m3u8
+qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/324487.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0NS5tM3U4.m3u8
 qualidade: HD · 1280x720
@@ -4722,7 +4734,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93903.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30151.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryscience/discoveryscience.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryscience/discoveryscience.m3u8
 
 canal: AXN
 categoria: Filmes e Séries
@@ -4751,14 +4763,14 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35228.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35229.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/axn/axn.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/axn/axn.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDcxNi5tM3U4.m3u8
 qualidade: FHD
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/axn.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/324375.m3u8
-qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/324433.m3u8
+qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324435.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDcxNS5tM3U4.m3u8
@@ -4823,7 +4835,9 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324475.m3u8
 qualidade: HD · 1280x720
-fonte: https://nexustvplay.bbroot.com/api/stream/tcm/tcm.m3u8
+fonte: http://64.31.23.207:80/59471019/60849037/324477.m3u8
+qualidade: Qualidade não informada
+fonte: https://nexustvplay.bbroot.com/nxs/stream/tcm/tcm.m3u8
 
 canal: Band News
 categoria: Notícias
@@ -4846,7 +4860,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/11769.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30171.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/bandnews/bandnews.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/bandnews/bandnews.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/bandnews.txt
 qualidade: Qualidade não informada
@@ -4854,11 +4868,7 @@ fonte: http://45.162.64.114/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459551.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459552.m3u8
-qualidade: FHD · 1920x1080
-fonte: http://64.31.23.207:80/59471019/60849037/3459553.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103526.ts
 qualidade: 4K
@@ -4910,7 +4920,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30064.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/26724.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/bandsports/bandsports.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/bandsports/bandsports.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/bandsports.txt
 qualidade: Qualidade não informada
@@ -4972,8 +4982,8 @@ fonte: http://170.83.16.50/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3459575.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459577.m3u8
-qualidade: SD · 960x540
+fonte: http://64.31.23.207:80/59471019/60849037/3459576.m3u8
+qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72297.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72298.ts
@@ -4990,7 +5000,7 @@ categoria: TV Aberta
 logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 fonte: https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 qualidade: SD · 960x540
-fonte: https://nexustvplay.bbroot.com/api/stream/cultura/cultura.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/cultura/cultura.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cultura.txt
 qualidade: Qualidade não informada
@@ -4998,6 +5008,8 @@ fonte: https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.
 qualidade: FHD · 1920x1080
 fonte: https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 qualidade: SD · 1216x684
+fonte: http://64.31.23.207:80/59471019/60849037/3459569.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459570.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/3459571.m3u8
@@ -5120,12 +5132,10 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30073.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30074.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/espn3/espn3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/espn3/espn3.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn3.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3460188.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460189.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460190.m3u8
@@ -5208,6 +5218,8 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9058.ts
 qualidade: FHD
 fonte: http://64.31.23.207:80/59471019/60849037/3459564.m3u8
 qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459565.m3u8
+qualidade: SD · 768x432
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178523.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72271.ts
@@ -5258,7 +5270,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/117823.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/117824.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/cancaonova/cancaonova.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/cancaonova/cancaonova.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cancaonova.txt
 qualidade: Qualidade não informada
@@ -5292,8 +5304,6 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30147.ts
 qualidade: HD
 fonte: http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459548.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/103464.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72394.ts
@@ -5324,7 +5334,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72396.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72397.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/aparecida/aparecida.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/aparecida/aparecida.m3u8
 
 canal: Rede Vida
 categoria: TV Aberta
@@ -5345,7 +5355,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: SD · 852x480
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69259.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/redevida/redevida.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/redevida/redevida.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/redevida.txt
 qualidade: Qualidade não informada
@@ -5433,7 +5443,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72152.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72153.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryid/discoveryid.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryid/discoveryid.m3u8
 
 canal: Fish TV
 categoria: Esportes
@@ -5504,12 +5514,10 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNDA0NTEubTN1OA.m3u8
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/xsports/xsports.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/xsports/xsports.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
 qualidade: Qualidade não informada
-fonte: http://64.31.23.207:80/59471019/60849037/3460175.m3u8
-qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/3460262.m3u8
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/3460263.m3u8
@@ -5610,7 +5618,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8660.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/31029.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/bandsp/bandsp.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/bandsp/bandsp.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/bandsp.txt
 qualidade: Qualidade não informada
@@ -5662,7 +5670,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83Nzk2NC5tM3U4.m3u8
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/sbtsp/sbtsp.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sbtsp/sbtsp.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sbtsp.txt
 qualidade: Qualidade não informada
@@ -5706,7 +5714,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/12888.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/38065.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/recordsp/recordsp.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/recordsp/recordsp.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/recordsp.txt
 qualidade: Qualidade não informada
@@ -5752,6 +5760,8 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgyMy5tM3U4.m3u8
 qualidade: SD
+fonte: http://64.31.23.207:80/59471019/60849037/3459582.m3u8
+qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178516.ts
 qualidade: 4K
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178512.ts
@@ -5862,7 +5872,7 @@ fonte: http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1165872.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/tvpaieterno/tvpaieterno.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/tvpaieterno/tvpaieterno.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tvpaieterno.txt
 qualidade: Qualidade não informada
@@ -5933,8 +5943,6 @@ qualidade: SD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9069.ts
 qualidade: FHD
 fonte: https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-qualidade: HD · 1280x720
-fonte: http://64.31.23.207:80/59471019/60849037/3459545.m3u8
 qualidade: HD · 1280x720
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/178531.ts
 qualidade: 4K
@@ -6036,6 +6044,8 @@ fonte: http://45.162.64.114/EVANGELIZAR/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/EVANGELIZAR/index.m3u8
 qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/3459550.m3u8
+qualidade: FHD · 1920x1080
 
 canal: TV Justiça
 categoria: TV Aberta
@@ -6186,7 +6196,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71869.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71870.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryhh/discoveryhh.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryhh/discoveryhh.m3u8
 
 canal: Canal Agro
 categoria: Variedades
@@ -6478,8 +6488,8 @@ fonte: http://168.197.104.22/ZOOMOO/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://186.219.52.187/zoomoo/index.m3u8
 qualidade: SD · 720x576
-fonte: http://64.31.23.207:80/59471019/60849037/1882642.m3u8
-qualidade: SD · 960x540
+fonte: http://64.31.23.207:80/59471019/60849037/1882641.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/1882643.m3u8
 qualidade: SD · 960x540
 
@@ -6618,7 +6628,7 @@ categoria: 24 Horas
 logo: https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG_1785430539950.png
 fonte: https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 qualidade: SD · 1216x684
-fonte: https://nexustvplay.bbroot.com/api/stream/masterchef/masterchef.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/masterchef/masterchef.m3u8
 
 canal: Mistérios sem Solução
 categoria: 24 Horas
@@ -7235,7 +7245,7 @@ qualidade: HD · 1280x720
 canal: Amazon Prime Video 01
 categoria: Esportes
 logo: https://img.faz-o-eli.online/primevideo.png
-fonte: https://nexustvplay.bbroot.com/api/stream/primevideo/primevideo.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/primevideo/primevideo.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo.txt
 qualidade: Qualidade não informada
@@ -7247,7 +7257,7 @@ qualidade: Qualidade não informada
 canal: Amazon Prime Video 02
 categoria: Esportes
 logo: https://img.faz-o-eli.online/primevideo.png
-fonte: https://nexustvplay.bbroot.com/api/stream/primevideo2/primevideo2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/primevideo2/primevideo2.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo2.txt
 qualidade: Qualidade não informada
@@ -7349,7 +7359,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71845.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71846.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/combate/combate.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/combate/combate.m3u8
 
 canal: DAZN (Jogo 1)
 categoria: Esportes
@@ -7811,7 +7821,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71904.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/140510.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/max1/max1.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/max1/max1.m3u8
 
 canal: MAX 02
 categoria: Filmes e Séries
@@ -7838,7 +7848,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71905.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/140511.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/max2/max2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/max2/max2.m3u8
 
 canal: SBT+ Novelas
 categoria: Filmes e Séries
@@ -7873,7 +7883,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35246.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35247.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/studiouniversal/studiouniversal.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/studiouniversal/studiouniversal.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt
 qualidade: Qualidade não informada
@@ -7927,7 +7937,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8888.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8887.ts
 qualidade: FHD
-fonte: https://nexustvplay.bbroot.com/api/stream/gloob/gloob.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/gloob/gloob.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/gloob.txt
 qualidade: Qualidade não informada
@@ -8140,7 +8150,7 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/324366.m3u8
 qualidade: HD · 1280x720
-fonte: https://nexustvplay.bbroot.com/api/stream/bandrj/bandrj.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/bandrj/bandrj.m3u8
 
 canal: Band RN
 categoria: TV Aberta
@@ -8254,7 +8264,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/131563.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35844.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/sbtrj/sbtrj.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sbtrj/sbtrj.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sbtrj.txt
 qualidade: Qualidade não informada
@@ -8402,7 +8412,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8811.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8810.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/foodnetwork/foodnetwork.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/foodnetwork/foodnetwork.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/foodnetwork.txt
 qualidade: Qualidade não informada
@@ -8550,7 +8560,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/137144.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137145.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/24h_chaves/24h_chaves.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_chaves/24h_chaves.m3u8
 
 canal: 24H Dragon Ball Z
 categoria: 24 Horas
@@ -8559,14 +8569,14 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169226.ts
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_dragonball.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/24h_dragonball/24h_dragonball.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_dragonball/24h_dragonball.m3u8
 
 canal: 24H Naruto Clássico
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/24h_naruto/24h_naruto.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_naruto/24h_naruto.m3u8
 
 canal: 24H Os Simpsons
 categoria: 24 Horas
@@ -8767,7 +8777,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/135571.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135570.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/24h_simpsons/24h_simpsons.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_simpsons/24h_simpsons.m3u8
 
 canal: 24H Pica Pau
 categoria: 24 Horas
@@ -8780,7 +8790,7 @@ fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/136821.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/136821.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/24h_picapau/24h_picapau.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_picapau/24h_picapau.m3u8
 
 canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
@@ -8813,7 +8823,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/135471.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135472.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/24h_odeiachris/24h_odeiachris.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_odeiachris/24h_odeiachris.m3u8
 
 canal: 24H Friends
 categoria: 24 Horas
@@ -8880,7 +8890,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/138822.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/138823.ts
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/24h_friends/24h_friends.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/24h_friends/24h_friends.m3u8
 
 canal: Discovery World
 categoria: Documentários
@@ -8938,14 +8948,14 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/71889.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/71890.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryworld/discoveryworld.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/discoveryworld/discoveryworld.m3u8
 
 canal: CazeTV 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/cazetv.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/245798.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/caze1/caze1.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/caze1/caze1.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/caze1.txt
 qualidade: Qualidade não informada
@@ -8959,7 +8969,7 @@ qualidade: FHD
 canal: CazeTV 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/cazetv.png
-fonte: https://nexustvplay.bbroot.com/api/stream/caze2/caze2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/caze2/caze2.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zODQ0NjMubTN1OA.m3u8
 qualidade: FHD
@@ -8977,91 +8987,91 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_abola.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_abola.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_abola/pt_abola.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_abola/pt_abola.m3u8
 
 canal: PT - Benfica TV
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_benficatv.prev.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_benficatv.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_benficatv/pt_benficatv.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_benficatv/pt_benficatv.m3u8
 
 canal: PT - Canal 11
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_canal11.prev.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_canal11.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_canal11/pt_canal11.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_canal11/pt_canal11.m3u8
 
 canal: PT - Eleven 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_eleven1.prev.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven1.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_eleven1/pt_eleven1.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_eleven1/pt_eleven1.m3u8
 
 canal: PT - Eleven 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_eleven2.prev.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven2.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_eleven2/pt_eleven2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_eleven2/pt_eleven2.m3u8
 
 canal: PT - Eleven 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_eleven3.prev.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven3.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_eleven3/pt_eleven3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_eleven3/pt_eleven3.m3u8
 
 canal: PT - Sporttv 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv1.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv1/pt_sportv1.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_sportv1/pt_sportv1.m3u8
 
 canal: PT - Sporttv 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv2.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv2/pt_sportv2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_sportv2/pt_sportv2.m3u8
 
 canal: PT - Sporttv 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv3.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv3/pt_sportv3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_sportv3/pt_sportv3.m3u8
 
 canal: PT - Sporttv 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv4.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv4/pt_sportv4.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_sportv4/pt_sportv4.m3u8
 
 canal: PT - Sporttv 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv5.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv5/pt_sportv5.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_sportv5/pt_sportv5.m3u8
 
 canal: PT - Sporttv 6
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv6.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv6/pt_sportv6.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_sportv6/pt_sportv6.m3u8
 
 canal: PT - Sporttv 7
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv7.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv7/pt_sportv7.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/pt_sportv7/pt_sportv7.m3u8
 
 canal: SportyNet+ 1
 categoria: Esportes
@@ -9140,19 +9150,19 @@ categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoam.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/globoam/globoam.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globoam/globoam.m3u8
 
 canal: Globo CE
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoce.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/globoce/globoce.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globoce/globoce.m3u8
 
 canal: Globo ES
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-fonte: https://nexustvplay.bbroot.com/api/stream/globoes/globoes.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globoes/globoes.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.txt
 qualidade: Qualidade não informada
@@ -9162,21 +9172,21 @@ categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globogo.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/globogo/globogo.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globogo/globogo.m3u8
 
 canal: Globo PB
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globopb.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/globopb/globopb.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globopb/globopb.m3u8
 
 canal: Globo PE
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globope.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/globope/globope.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globope/globope.m3u8
 
 canal: Globo RJ
 categoria: TV Aberta
@@ -9193,7 +9203,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168920.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168921.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/globorj/globorj.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globorj/globorj.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globorj.txt
 qualidade: Qualidade não informada
@@ -9219,7 +9229,7 @@ qualidade: SD
 canal: Globo RS
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-fonte: https://nexustvplay.bbroot.com/api/stream/globors/globors.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globors/globors.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globors.txt
 qualidade: Qualidade não informada
@@ -9245,14 +9255,14 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/218823.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/106097.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/recordgo/recordgo.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/recordgo/recordgo.m3u8
 
 canal: Record MG
 categoria: TV Aberta
 logo: https://i.imgur.com/sz9gTTr.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9054.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/recordmg/recordmg.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/recordmg/recordmg.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/recordmg.txt
 qualidade: Qualidade não informada
@@ -9268,7 +9278,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/71697.ts
 qualidade: FHD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9063.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/recordrj/recordrj.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/recordrj/recordrj.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.txt
 qualidade: Qualidade não informada
@@ -9340,12 +9350,12 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/72144.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/72145.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/hgtv/hgtv.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/hgtv/hgtv.m3u8
 
 canal: MTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/mtv.png
-fonte: https://nexustvplay.bbroot.com/api/stream/mtv/mtv.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/mtv/mtv.m3u8
 qualidade: FHD · 1536x1024
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/mtv.txt
 qualidade: Qualidade não informada
@@ -9357,7 +9367,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470061.ts
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/afazenda/afazenda.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/afazenda/afazenda.m3u8
 
 canal: A Fazenda 18 2
 categoria: PPV
@@ -9366,7 +9376,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470062.ts
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda2.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/afazenda2/afazenda2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/afazenda2/afazenda2.m3u8
 
 canal: A Fazenda 18 3
 categoria: PPV
@@ -9375,7 +9385,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470063.ts
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda3.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/afazenda3/afazenda3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/afazenda3/afazenda3.m3u8
 
 canal: A Fazenda 18 4
 categoria: PPV
@@ -9384,7 +9394,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470064.ts
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda4.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/afazenda4/afazenda4.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/afazenda4/afazenda4.m3u8
 
 canal: A Fazenda 18 5
 categoria: PPV
@@ -9393,12 +9403,12 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470065.ts
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda5.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/afazenda5/afazenda5.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/afazenda5/afazenda5.m3u8
 
 canal: CazeTV 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/cazetv.png
-fonte: https://nexustvplay.bbroot.com/api/stream/caze3/caze3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/caze3/caze3.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/caze3.txt
 qualidade: Qualidade não informada
@@ -9406,7 +9416,7 @@ qualidade: Qualidade não informada
 canal: Globo DF
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
-fonte: https://nexustvplay.bbroot.com/api/stream/globodf/globodf.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globodf/globodf.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globodf.txt
 qualidade: Qualidade não informada
@@ -9438,7 +9448,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168939.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168940.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/globomg/globomg.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/globomg/globomg.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globomg.txt
 qualidade: Qualidade não informada
@@ -9466,7 +9476,7 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/max.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594011.ts
 qualidade: FHD
-fonte: https://nexustvplay.bbroot.com/api/stream/max3/max3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/max3/max3.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/max3.txt
 qualidade: Qualidade não informada
@@ -9492,7 +9502,7 @@ qualidade: SD
 canal: Amazon Prime Video 04
 categoria: Esportes
 logo: https://img.faz-o-eli.online/primevideo.png
-fonte: https://nexustvplay.bbroot.com/api/stream/primevideo4/primevideo4.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/primevideo4/primevideo4.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo4.txt
 qualidade: Qualidade não informada
@@ -9544,14 +9554,14 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/276092.ts
 qualidade: FHD
 fonte: http://vivlar.me:80/497238/KK8Kdy/276093.ts
 qualidade: 4K
-fonte: https://nexustvplay.bbroot.com/api/stream/sportv4/sportv4.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sportv4/sportv4.m3u8
 
 canal: Star Channel
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/starchannel.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/starchannel.txt
 qualidade: Qualidade não informada
-fonte: https://nexustvplay.bbroot.com/api/stream/starchannel/starchannel.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/starchannel/starchannel.m3u8
 
 canal: BJJ STARS
 categoria: PPV
@@ -10289,7 +10299,7 @@ fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184587.ts
 qualidade: FHD
 fonte: http://vivlar.me:80/497238/KK8Kdy/184587.ts
 qualidade: FHD
-fonte: https://nexustvplay.bbroot.com/api/stream/sportynetplus3/sportynetplus3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/sportynetplus3/sportynetplus3.m3u8
 
 canal: OneFootball 1
 categoria: PPV
@@ -10479,7 +10489,7 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/184047.ts
 qualidade: HD
 fonte: http://vivlar.me:80/497238/KK8Kdy/184048.ts
 qualidade: SD
-fonte: https://nexustvplay.bbroot.com/api/stream/ufcfightpass/ufcfightpass.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/ufcfightpass/ufcfightpass.m3u8
 
 canal: Zoomoo
 categoria: Infantil
@@ -11612,29 +11622,29 @@ qualidade: Qualidade não informada
 canal: Disney Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/disneyplus.png
-fonte: https://nexustvplay.bbroot.com/api/stream/disneyplus1/disneyplus1.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/disneyplus1/disneyplus1.m3u8
 
 canal: Disney Plus 2
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/disneyplus.png
-fonte: https://nexustvplay.bbroot.com/api/stream/disneyplus2/disneyplus2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/disneyplus2/disneyplus2.m3u8
 
 canal: Disney Plus 3
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/disneyplus.png
-fonte: https://nexustvplay.bbroot.com/api/stream/disneyplus3/disneyplus3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/disneyplus3/disneyplus3.m3u8
 
 canal: Paramount Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
-fonte: https://nexustvplay.bbroot.com/api/stream/paramountplus/paramountplus.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/paramountplus/paramountplus.m3u8
 
 canal: Paramount Plus 2
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
-fonte: https://nexustvplay.bbroot.com/api/stream/paramountplus2/paramountplus2.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/paramountplus2/paramountplus2.m3u8
 
 canal: Prime Video 3
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/amazonprimevideo.png
-fonte: https://nexustvplay.bbroot.com/api/stream/primevideo3/primevideo3.m3u8
+fonte: https://nexustvplay.bbroot.com/nxs/stream/primevideo3/primevideo3.m3u8
