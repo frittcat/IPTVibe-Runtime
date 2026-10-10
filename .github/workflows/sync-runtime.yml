@@ -2,8 +2,13 @@ name: Sync IPTVibe runtime
 
 on:
   workflow_dispatch:
+    inputs:
+      media_checks:
+        description: Recheck provider media headers (disable for structural sync verification)
+        type: boolean
+        default: true
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "17,47 * * * *"
 
 permissions:
   contents: write
@@ -11,6 +16,9 @@ permissions:
 concurrency:
   group: runtime-sync
   cancel-in-progress: true
+
+env:
+  MEDIA_CHECKS: ${{ github.event_name != 'workflow_dispatch' || inputs.media_checks }}
 
 jobs:
   sync:
@@ -47,13 +55,19 @@ jobs:
         run: python3 upstream_status.py --upstream "${RUNNER_TEMP}/iptvibe-upstream" --output runtime/upstream-status.json
 
       - name: Validate labels and highlighted explicit media sources
-        run: python3 runtime_quality.py runtime --probe
+        run: |
+          probe_args=()
+          if [ "$MEDIA_CHECKS" = "true" ]; then probe_args+=(--probe); fi
+          python3 runtime_quality.py runtime "${probe_args[@]}"
 
       - name: Test persistent source limits
         run: python3 -m unittest test_sync_shortlist -v
 
       - name: Preserve reviewed live channel identities, source order and logos
-        run: python3 live_overrides.py runtime --policy live-health.json --probe
+        run: |
+          probe_args=()
+          if [ "$MEDIA_CHECKS" = "true" ]; then probe_args+=(--probe); fi
+          python3 live_overrides.py runtime --policy live-health.json "${probe_args[@]}"
 
       - name: Commit runtime changes
         shell: bash
