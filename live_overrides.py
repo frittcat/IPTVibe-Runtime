@@ -91,5 +91,7 @@ def main():
     for name in ('catalogo.txt','canais.txt','restritos.txt'):
         file=Path(a.runtime)/name
         if file.exists():apply(file,health,replacements)
+    # Clients refresh the reviewed policy separately from the changing catalog.
+    (Path(a.runtime)/'source-health.json').write_text(json.dumps(health,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print('Reviewed live overrides applied')
 if __name__=='__main__':main()
