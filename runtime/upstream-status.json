@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-10T16:50:28.936988+00:00",
-  "catalogCommit": null,
+  "checkedAt": "2026-10-10T17:18:58.046855+00:00",
+  "catalogCommit": "3d04b5140cbdb4bfa34130875d7126519115a225",
   "application": {
     "latestRelease": "v2.1.1",
     "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.1.1",
@@ -71,6 +71,5 @@
       "scripts/gen_catalog.py"
     ]
   },
-  "policy": "Catalog data synchronizes automatically. Application code changes require adaptation, playback tests, signing and an IPTVibe release.",
-  "catalogProvenance": "Awaiting first run of the updated authorized upstream sync"
+  "policy": "Catalog data synchronizes automatically. Application code changes require adaptation, playback tests, signing and an IPTVibe release."
 }
