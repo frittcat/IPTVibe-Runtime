@@ -60,8 +60,11 @@ jobs:
           if [ "$MEDIA_CHECKS" = "true" ]; then probe_args+=(--probe); fi
           python3 runtime_quality.py runtime "${probe_args[@]}"
 
-      - name: Test persistent source limits
-        run: python3 -m unittest test_sync_shortlist -v
+      - name: Test persistent source limits and retained categories
+        run: python3 -m unittest test_sync_shortlist test_preserve_categories -v
+
+      - name: Preserve IPTVibe 24-hour and Pluto channel inventory
+        run: python3 preserve_categories.py runtime
 
       - name: Preserve reviewed live channel identities, source order and logos
         run: |
