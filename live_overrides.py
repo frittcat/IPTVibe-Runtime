@@ -20,6 +20,8 @@ def apply(path,health,replacements=None):
     accounts={}
     from audit_live import account
     import urllib.parse
+    monitor=path.parent/'monitor/fontes.json'
+    disabled=set(json.loads(monitor.read_text(encoding='utf-8')).get('desativados',[])) if monitor.exists() else set()
     for _,block in rows:
         for url,_ in source_blocks(block):
             credentials=account(url)
@@ -45,7 +47,7 @@ def apply(path,health,replacements=None):
         sources=sorted(sources,key=rank)
         compatibility_source=sources[:1]
         # Shortlists survive every upstream sync; never fill missing slots with known failures.
-        sources=[s for s in sources if identity(s[0]) not in failed]
+        sources=[s for s in sources if identity(s[0]) not in failed and (urllib.parse.urlsplit(s[0]).hostname or '').lower() not in disabled]
         approved=health.get('curated_sources',{}).get(name)
         trusted=[s for s in sources if identity(s[0]) in (set(approved) if approved is not None else verified)]
         candidates=trusted if trusted else sources[:1]

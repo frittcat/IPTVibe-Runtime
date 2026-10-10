@@ -2,6 +2,13 @@ import tempfile,unittest
 from pathlib import Path
 from live_overrides import apply,identity,blocks,source_blocks
 class SyncShortlistTest(unittest.TestCase):
+ def test_disabled_host_does_not_hide_channel_with_available_candidate(self):
+  import json
+  health={'verified':[],'confirmed_unavailable':[],'logos':{}}
+  with tempfile.TemporaryDirectory() as directory:
+   p=Path(directory)/'catalogo.txt';(p.parent/'monitor').mkdir();(p.parent/'monitor/fontes.json').write_text(json.dumps({'desativados':['bad.example']}))
+   p.write_text('canal: Serie\ncategoria: 24 Horas\nfonte: https://bad.example/live\nfonte: https://candidate.example/live\n')
+   apply(p,health);self.assertEqual([url for url,_ in source_blocks(blocks(p.read_text())[0][1])],['https://candidate.example/live'])
  def test_sync_preserves_max_and_fewer_qualified_sources(self):
   urls=['https://a.example/1','https://a.example/2','https://b.example/1','https://c.example/1','https://d.example/1']
   health={'verified':[identity(u) for u in urls],'confirmed_unavailable':[],'logos':{},'curated_sources':{'Premiere 5':[identity(urls[0]),identity(urls[2])]}}

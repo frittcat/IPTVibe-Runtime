@@ -9,6 +9,10 @@ class PreservationTest(unittest.TestCase):
         library=capture(row('Nova série','24 Horas','https://new.example/video'),row('Serie','24 Horas'))
         merged,count=preserve(row('Atual','Esportes'),library)
         self.assertEqual(count,2);self.assertIn('Nova série',merged)
+    def test_shortlisted_runtime_does_not_destroy_retained_alternative_candidates(self):
+        old=row('Serie','24 Horas')+'fonte: https://backup.example/video\n'
+        saved=capture(row('Serie','24 Horas'),old)
+        self.assertIn('backup.example',saved)
     def test_missing_differentials_survive_repeated_sync(self):
         current=row('Atual','Esportes'); old=row('Serie','24 Horas')+row('Pluto','Pluto TV')+row('Antigo','Esportes')
         merged,count=preserve(current,old); self.assertEqual(count,2)

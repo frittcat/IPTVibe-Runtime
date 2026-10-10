@@ -15,7 +15,11 @@ def category(block):
 def capture(current, retained):
     saved = {key(name): block for name, block in blocks(retained)}
     for name, block in blocks(current):
-        if category(block) in CATEGORIES or key(name) in saved: saved[key(name)] = block
+        if category(block) in CATEGORIES or key(name) in saved:
+            previous=saved.get(key(name),''); current_sources=source_blocks(block)
+            known={url for url,_ in current_sources}
+            extras=[chunk for url,chunk in source_blocks(previous) if url not in known]
+            saved[key(name)]=block.rstrip()+'\n'+''.join(chunk.rstrip()+'\n' for chunk in extras)
     return '\n\n'.join(block.rstrip() for block in saved.values()) + '\n'
 
 def preserve(current, retained):
