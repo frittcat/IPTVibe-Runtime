@@ -43,8 +43,23 @@ def apply(path,health,replacements=None):
         if not sources:
             repaired.append(block); continue
         sources=sorted(sources,key=rank)
-        # Confirmed errors are removed only where a sampled alternative exists.
-        if any(identity(s[0]) in verified for s in sources): sources=[s for s in sources if identity(s[0]) not in failed]
+        compatibility_source=sources[:1]
+        # Shortlists survive every upstream sync; never fill missing slots with known failures.
+        sources=[s for s in sources if identity(s[0]) not in failed]
+        approved=health.get('curated_sources',{}).get(name)
+        trusted=[s for s in sources if identity(s[0]) in (set(approved) if approved is not None else verified)]
+        candidates=trusted if trusted else sources[:1]
+        chosen=[];families=set()
+        for item in candidates:
+            host=(urllib.parse.urlsplit(item[0]).hostname or '').lower()
+            family='family-vvt' if host in ('vivlar.me','vaiagora.vip','tvonhdbr.com') else host
+            if family and family in families:continue
+            if family:families.add(family)
+            chosen.append(item)
+            if len(chosen)==3:break
+        # Keep an unavailable channel parseable for older installed clients.
+        # New clients exclude these hashes and show an unavailable state.
+        sources=chosen or compatibility_source
         match=re.search(r'(?m)^fonte\s*:',block)
         header=block[:match.start()] if match else block.rstrip()+'\n'
         if name in health['logos']: header=re.sub(r'(?m)^logo\s*:.*$',lambda m:'logo: '+health['logos'][name],header)
@@ -73,7 +88,7 @@ def main():
         with concurrent.futures.ThreadPoolExecutor(max_workers=32) as pool:
             health['confirmed_unavailable']=[key for key,failed in pool.map(recheck,requests.items()) if failed]
         print('Confirmed unavailable observations refreshed:',len(health['confirmed_unavailable']))
-    for name in ('catalogo.txt','canais.txt'):
+    for name in ('catalogo.txt','canais.txt','restritos.txt'):
         file=Path(a.runtime)/name
         if file.exists():apply(file,health,replacements)
     print('Reviewed live overrides applied')

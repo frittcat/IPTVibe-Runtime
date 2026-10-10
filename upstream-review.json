@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "androidReviewedCommit": "2aaafe3",
+  "androidRepository": "gabrielsaimo/SaimoTV-Android",
+  "releaseRepository": "gabrielsaimo/SaimoPlayer",
+  "policy": "Catalog data synchronizes automatically. Application code changes require adaptation, playback tests, signing and an IPTVibe release."
+}

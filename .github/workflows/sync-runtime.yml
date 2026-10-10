@@ -41,8 +41,16 @@ jobs:
 
           curl --fail --silent --show-error             "$IPTVIBE_UPSTREAM_MONITOR"             -o runtime/monitor/fontes.json
 
+      - name: Record upstream catalog revision and application changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 upstream_status.py --upstream "${RUNNER_TEMP}/iptvibe-upstream" --output runtime/upstream-status.json
+
       - name: Validate labels and highlighted explicit media sources
         run: python3 runtime_quality.py runtime --probe
+
+      - name: Test persistent source limits
+        run: python3 -m unittest test_sync_shortlist -v
 
       - name: Preserve reviewed live channel identities, source order and logos
         run: python3 live_overrides.py runtime --policy live-health.json --probe
