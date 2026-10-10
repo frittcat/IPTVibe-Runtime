@@ -2448,8 +2448,8 @@ canal: Band Curitiba
 categoria: TV Aberta
 logo: https://i.imgur.com/SOfcdFf.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/324354.m3u8
-qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/324355.m3u8
+qualidade: SD · 854x480
 
 canal: Band MG
 categoria: TV Aberta
