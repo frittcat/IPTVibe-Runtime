@@ -1,10 +1,14 @@
 import unittest
-from preserve_categories import preserve
+from preserve_categories import preserve,capture
 from live_overrides import blocks
 
 def row(name, cat, url='https://example.org/video'):
     return f'canal: {name}\ncategoria: {cat}\nfonte: {url}\n\n'
 class PreservationTest(unittest.TestCase):
+    def test_new_protected_channel_is_retained_after_later_upstream_removal(self):
+        library=capture(row('Nova série','24 Horas','https://new.example/video'),row('Serie','24 Horas'))
+        merged,count=preserve(row('Atual','Esportes'),library)
+        self.assertEqual(count,2);self.assertIn('Nova série',merged)
     def test_missing_differentials_survive_repeated_sync(self):
         current=row('Atual','Esportes'); old=row('Serie','24 Horas')+row('Pluto','Pluto TV')+row('Antigo','Esportes')
         merged,count=preserve(current,old); self.assertEqual(count,2)

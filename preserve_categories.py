@@ -12,6 +12,12 @@ def category(block):
     match = re.search(r'(?m)^categoria:\s*(.+)$', block)
     return repair(match.group(1).strip()) if match else ''
 
+def capture(current, retained):
+    saved = {key(name): block for name, block in blocks(retained)}
+    for name, block in blocks(current):
+        if category(block) in CATEGORIES or key(name) in saved: saved[key(name)] = block
+    return '\n\n'.join(block.rstrip() for block in saved.values()) + '\n'
+
 def preserve(current, retained):
     rows = blocks(current); present = {key(name) for name, _ in rows}
     accounts = {}
@@ -36,7 +42,10 @@ def preserve(current, retained):
     return current.rstrip() + ('\n\n' + '\n\n'.join(appended) if appended else '') + '\n', len(appended)
 
 if __name__ == '__main__':
-    p = argparse.ArgumentParser(); p.add_argument('runtime', type=Path); p.add_argument('--retained', type=Path, default=Path('retained-categories.txt')); a = p.parse_args()
+    p = argparse.ArgumentParser(); p.add_argument('runtime', type=Path); p.add_argument('--retained', type=Path, default=Path('retained-categories.txt')); p.add_argument('--capture-current', action='store_true'); a = p.parse_args()
+    if a.capture_current:
+        a.retained.write_text(capture((a.runtime / 'catalogo.txt').read_text(encoding='utf-8'), a.retained.read_text(encoding='utf-8')), encoding='utf-8')
+        print('Protected inventory captured before upstream replacement'); raise SystemExit(0)
     target = a.runtime / 'catalogo.txt'; merged, count = preserve(target.read_text(encoding='utf-8'), a.retained.read_text(encoding='utf-8'))
     target.write_text(merged, encoding='utf-8')
     print(json.dumps({'restored_missing_channels': count}))

@@ -34,6 +34,7 @@ jobs:
           IPTVIBE_UPSTREAM_MONITOR: ${{ secrets.IPTVIBE_UPSTREAM_MONITOR }}
         run: |
           set -euo pipefail
+          python3 preserve_categories.py runtime --capture-current
           tmp="${RUNNER_TEMP}/iptvibe-upstream"
           git clone --depth 1 "$IPTVIBE_UPSTREAM_REPO" "$tmp"
 
@@ -76,12 +77,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet -- runtime; then
+          if git diff --quiet -- runtime retained-categories.txt; then
             echo "Runtime already current"
             exit 0
           fi
           git config user.name "iptvibe-runtime-bot"
           git config user.email "137531366+frittcat@users.noreply.github.com"
-          git add runtime
+          git add runtime retained-categories.txt
           git commit -m "runtime: sync IPTVibe catalog and sources"
           git push
