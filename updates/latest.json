@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "tv.iptvibe.app",
-  "versionName": "1.6.15",
-  "versionCode": 50037,
+  "versionName": "1.6.16",
+  "versionCode": 50038,
   "minimumSupportedVersionCode": 0,
   "minSdk": 23,
-  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.15/IPTVibe.apk",
-  "sha256": "01cb88b614602e2c2d4a9b322e444f9c27bc42909acf2f6c24dc107fbe8627b7",
-  "sizeBytes": 7883252,
-  "releaseNotes": "IPTVibe 1.6.15\n\n- Ate tres fontes por canal, com prioridade para alternativas qualificadas e independentes.\n- Recuperacao automatica de imagem congelada e reconexao de canal com fonte unica.\n- VOD com vigilancia continua e troca automatica preservando a posicao.\n- Falha na legenda externa nao troca nem penaliza a fonte do video.\n- Limite de fontes preservado nas sincronizacoes do catalogo."
+  "apkUrl": "https://github.com/frittcat/IPTVibe-Runtime/releases/download/v1.6.16/IPTVibe.apk",
+  "sha256": "7f732c7f96480c09e059e90d9455bc864703d6d09e9c463176f0aff674b7bd5c",
+  "sizeBytes": 7920181,
+  "releaseNotes": "IPTVibe 1.6.16\n\n- Restauracao de 524 canais de 24 horas removidos da grade.\n- Preservacao de canais Pluto TV e 24 horas nas sincronizacoes.\n- Canais sem fonte disponivel continuam visiveis com aviso de indisponibilidade.\n- Fontes desativadas pelo monitor continuam bloqueadas; presenca na grade nao comprova estabilidade."
 }
