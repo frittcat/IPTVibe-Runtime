@@ -59,6 +59,11 @@ def apply(path,health,replacements=None):
             if family:families.add(family)
             chosen.append(item)
             if len(chosen)==3:break
+        # Prefer provider diversity, then retain other distinct approved streams.
+        # Sharing a provider alone is not a reason to discard a tested backup.
+        for item in candidates:
+            if len(chosen)==3:break
+            if item not in chosen:chosen.append(item)
         # Keep an unavailable channel parseable for older installed clients.
         # New clients exclude these hashes and show an unavailable state.
         sources=chosen or compatibility_source

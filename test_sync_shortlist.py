@@ -21,6 +21,12 @@ class SyncShortlistTest(unittest.TestCase):
   health={'verified':[identity(u) for u in urls],'confirmed_unavailable':[],'logos':{}}
   with tempfile.TemporaryDirectory() as directory:
    p=Path(directory)/'restritos.txt';p.write_text('canal: test\n'+''.join('fonte: '+u+'\n' for u in urls));apply(p,health);self.assertEqual(len(source_blocks(blocks(p.read_text())[0][1])),3)
+ def test_three_approved_streams_from_one_provider_are_retained(self):
+  urls=['https://one.example/'+str(value) for value in range(4)]
+  health={'verified':[identity(u) for u in urls],'confirmed_unavailable':[],'logos':{}}
+  with tempfile.TemporaryDirectory() as directory:
+   p=Path(directory)/'catalogo.txt';p.write_text('canal: test\n'+''.join('fonte: '+u+'\n' for u in urls));apply(p,health)
+   self.assertEqual([u for u,_ in source_blocks(blocks(p.read_text())[0][1])],urls[:3])
  def test_known_failure_removed(self):
   good='https://a.example/1';bad='https://b.example/1'
   health={'verified':[identity(good)],'confirmed_unavailable':[identity(bad)],'logos':{}}
