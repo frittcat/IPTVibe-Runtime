@@ -419,7 +419,7 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 4b62d6103d99d62f8daca463d1c15430:2fd0079af0bf85289859fff7b8a4e30f
 
-fonte: http://64.31.23.207:80/59471019/60849037/518601.m3u8
+fonte: http://45.185.11.126:8000/play/a08c/index.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Warner
@@ -1077,8 +1077,6 @@ fonte: http://45.162.64.114/AGRO_CANAL/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/AGRO_CANAL/index.m3u8
 qualidade: HD · 1280x720
-fonte: https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
-qualidade: HD · 1280x720
 
 canal: Blits TV
 categoria: Variedades
@@ -1323,7 +1321,7 @@ canal: AEROPORTO AREA RESTRITA
 categoria: 24 Horas
 logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/2945300.m3u8
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/150488.ts
 qualidade: HD · 1280x720
 
 canal: FILHINHO DA MAMAE
@@ -1607,15 +1605,15 @@ canal: Band Curitiba
 categoria: TV Aberta
 logo: https://i.imgur.com/SOfcdFf.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/324354.m3u8
-qualidade: HD · 1280x720
+fonte: http://64.31.23.207:80/59471019/60849037/324355.m3u8
+qualidade: SD · 854x480
 
 canal: Band MG
 categoria: TV Aberta
 logo: https://i.imgur.com/1r5T6Pw.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/324359.m3u8
-qualidade: FHD · 1920x1080
+fonte: http://64.31.23.207:80/59471019/60849037/324361.m3u8
+qualidade: HD · 1280x720
 
 canal: Band Pará
 categoria: TV Aberta
