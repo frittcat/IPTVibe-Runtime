@@ -1282,9 +1282,9 @@ canal: 24H Naruto Clássico
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
-qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_naruto/24h_naruto.m3u8
+qualidade: Qualidade não informada
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
 qualidade: Qualidade não informada
 
 canal: 24H Os Simpsons
@@ -1494,9 +1494,9 @@ canal: 24H Pica Pau
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_picapau.txt
-qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_picapau/24h_picapau.m3u8
+qualidade: Qualidade não informada
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_picapau.txt
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/136821.ts
 qualidade: Qualidade não informada
@@ -1544,9 +1544,9 @@ canal: 24H Friends
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_friends.txt
-qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_friends/24h_friends.m3u8
+qualidade: Qualidade não informada
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_friends.txt
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138814.ts
 qualidade: Qualidade não informada
