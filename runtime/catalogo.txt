@@ -102,6 +102,10 @@ logo: https://img.faz-o-eli.online/cartoonnetwork.png
 
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/125439.ts
 qualidade: FHD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8698.ts
+qualidade: FHD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8699.ts
+qualidade: HD
 
 canal: CNN Brasil
 categoria: Notícias
@@ -234,6 +238,8 @@ chave: 9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81582.ts
 qualidade: FHD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13576.ts
+qualidade: FHD
 
 canal: Premiere 3
 categoria: Esportes
@@ -323,6 +329,8 @@ referer: https://mais.sbt.com.br/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1129618.ts
+qualidade: FHD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1129619.ts
 qualidade: FHD
 
 canal: Sony Channel
@@ -628,6 +636,8 @@ qualidade: HD · 1280x720
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90641.ts
 qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/90641.ts
+qualidade: 4K
 
 canal: USA Network
 categoria: Filmes e Séries
@@ -683,6 +693,10 @@ logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
 
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/125444.ts
 qualidade: FHD · 1920x1080
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/125443.ts
+qualidade: FHD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9150.ts
+qualidade: HD
 
 canal: TLC
 categoria: Variedades
@@ -1662,6 +1676,8 @@ logo: http://www.fontedecanais.me/logos/canais/sbt.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/218366.ts
 qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/218366.ts
+qualidade: FHD
 
 canal: SBT BA
 categoria: TV Aberta
@@ -1760,6 +1776,8 @@ categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169218.ts
+qualidade: SD · 640x480
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169219.ts
 qualidade: SD · 640x480
 
 canal: 24H Dragon Ball Z
@@ -2076,6 +2094,8 @@ logo: https://img.faz-o-eli.online/globosp.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/131151.ts
 qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/131151.ts
+qualidade: FHD
 
 canal: Globo MG
 categoria: TV Aberta
@@ -2127,12 +2147,16 @@ logo: http://tvonhdbr.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178517.ts
 qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/76922.ts
+qualidade: FHD
 
 canal: Eurochannel
 categoria: Notícias
 logo: http://tvonhdbr.com/images/e319732e23a51cafb209d07c7a26c615.jpg
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/104910.ts
+qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/104910.ts
 qualidade: FHD
 
 canal: FashionTV
@@ -2141,11 +2165,15 @@ logo: https://i.imgur.com/cZWKyuM.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103503.ts
 qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/103503.ts
+qualidade: 4K
 
 canal: Film&Arts
 categoria: Filmes e Séries
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178518.ts
+qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/178518.ts
 qualidade: 4K
 
 canal: Formula 1 TV
@@ -2160,11 +2188,15 @@ categoria: Notícias
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103500.ts
 qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/103500.ts
+qualidade: 4K
 
 canal: Markket
 categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/164026.ts
+qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/164026.ts
 qualidade: 4K
 
 canal: NBA League Pass 1
@@ -2172,6 +2204,8 @@ categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140516.ts
+qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/140516.ts
 qualidade: FHD
 
 canal: NBA League Pass 2
@@ -2193,6 +2227,8 @@ categoria: Esportes
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184584.ts
 qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/184584.ts
+qualidade: FHD
 
 canal: SportyNet
 categoria: Esportes
@@ -2205,6 +2241,8 @@ categoria: Variedades
 logo: http://tvonhdbr.com/images/a2297e25c35601bed705a676d70e41df.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103521.ts
+qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/103521.ts
 qualidade: 4K
 
 canal: Paramount Channel
@@ -2220,11 +2258,15 @@ logo: https://i.imgur.com/BMqSDNn.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103476.ts
 qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/103476.ts
+qualidade: 4K
 
 canal: Sabor & Arte
 categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/112017.ts
+qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/112017.ts
 qualidade: FHD
 
 canal: SYFY
@@ -2233,11 +2275,15 @@ logo: http://tvonhdbr.com/static/logos/canais/syfy.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103474.ts
 qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/103474.ts
+qualidade: 4K
 
 canal: UFC Fight Pass
 categoria: PPV
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184046.ts
+qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/184046.ts
 qualidade: FHD
 
 canal: Zoomoo
@@ -2399,6 +2445,8 @@ categoria: Notícias
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/295480.ts
 qualidade: 4K
+fonte: http://vivlar.me:80/497238/KK8Kdy/295480.ts
+qualidade: 4K
 
 canal: Brasileirao Serie A
 categoria: Variedades
@@ -2411,6 +2459,8 @@ categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317686.ts
+qualidade: FHD · 1920x1080
+fonte: http://vivlar.me:80/497238/KK8Kdy/317686.ts
 qualidade: FHD · 1920x1080
 
 canal: Portugal x País de Gales
@@ -2426,12 +2476,16 @@ logo: http://tvonhdbr.com/static/logos/canais/jogos.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317691.ts
 qualidade: FHD · 1920x1080
+fonte: http://vivlar.me:80/497238/KK8Kdy/317691.ts
+qualidade: FHD · 1920x1080
 
 canal: Kosovo x Irlanda
 categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317692.ts
+qualidade: FHD · 1920x1080
+fonte: http://vivlar.me:80/497238/KK8Kdy/317692.ts
 qualidade: FHD · 1920x1080
 
 canal: Liechtenstein x Lituânia
@@ -2440,12 +2494,16 @@ logo: http://tvonhdbr.com/static/logos/canais/jogos.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317693.ts
 qualidade: FHD · 1920x1080
+fonte: http://vivlar.me:80/497238/KK8Kdy/317693.ts
+qualidade: FHD · 1920x1080
 
 canal: Informações em Breve
 categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317694.ts
+qualidade: FHD · 1920x1080
+fonte: http://vivlar.me:80/497238/KK8Kdy/317694.ts
 qualidade: FHD · 1920x1080
 
 canal: Gladiadores da Natureza
@@ -2459,11 +2517,15 @@ categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397317.ts
 qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/397317.ts
+qualidade: FHD
 
 canal: A Fazenda Cam 2
 categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397320.ts
+qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/397320.ts
 qualidade: FHD
 
 canal: A Fazenda Cam 3
@@ -2471,11 +2533,15 @@ categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397321.ts
 qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/397321.ts
+qualidade: FHD
 
 canal: A Fazenda Cam 4
 categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397322.ts
+qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/397322.ts
 qualidade: FHD
 
 canal: A Fazenda Cam 5
@@ -2483,11 +2549,15 @@ categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397323.ts
 qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/397323.ts
+qualidade: FHD
 
 canal: A Fazenda Cam 6
 categoria: Variedades
 
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397324.ts
+qualidade: FHD
+fonte: http://vivlar.me:80/497238/KK8Kdy/397324.ts
 qualidade: FHD
 
 canal: MAX 07
