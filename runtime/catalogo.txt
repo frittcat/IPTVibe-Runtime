@@ -93,8 +93,8 @@ canal: Band
 categoria: TV Aberta
 logo: https://i.imgur.com/1r5T6Pw.png
 
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/107926.ts
-qualidade: FHD
+fonte: http://138.204.86.4:8080/BAND_HD/index.m3u8
+qualidade: HD · 1280x720
 
 canal: Cartoon Network
 categoria: Infantil
@@ -317,8 +317,6 @@ logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
 
 fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 qualidade: FHD · 1920x1080
-fonte: https://media.cdntvms.com.br/sbt_sat/index.m3u8
-qualidade: SD · 1024x576
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9082.ts
 qualidade: FHD
 
@@ -366,8 +364,6 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 
-fonte: http://170.83.49.66:8083/SPORTV3HD/index.m3u8
-qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81593.ts
 qualidade: FHD
 
@@ -419,8 +415,8 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 3531c1c49b8e63c0b94a8061154e0c58:90e91e6549d2061b793177c70d35e177
 
-fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/khnyllds8v/out/v1/1cf61b7a057e4ffdb31f6d82fb24c679/cenc.mpd
-qualidade: Qualidade não informada
+fonte: http://45.185.11.126:8000/play/a08m/index.m3u8
+qualidade: FHD · 1920x1080
 
 canal: Universal Reality
 categoria: Filmes e Séries
@@ -429,8 +425,8 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 4b62d6103d99d62f8daca463d1c15430:2fd0079af0bf85289859fff7b8a4e30f
 
-fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/5ppjwg1ekb/out/v1/393342b545834c218745c3dd33661013/cenc.mpd
-qualidade: Qualidade não informada
+fonte: http://64.31.23.207:80/59471019/60849037/518601.m3u8
+qualidade: FHD · 1920x1080
 
 canal: Warner
 categoria: Filmes e Séries
@@ -527,8 +523,8 @@ canal: ESPN 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn5.png
 
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8826.ts
-qualidade: FHD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20946.ts
+qualidade: SD · 768x432
 
 canal: ESPN 6
 categoria: Esportes
@@ -603,8 +599,6 @@ fonte: http://79.127.238.228:14057
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35842.ts
 qualidade: HD
-fonte: https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
-qualidade: SD · 1024x576
 
 canal: Space
 categoria: Filmes e Séries
@@ -636,13 +630,6 @@ chave: 0110de67e8a43229a9afee5fbb1bf34c:14d17ea503859feb50f395a19491a2ea
 
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108185.ts
 qualidade: FHD
-
-canal: AMC Séries
-categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/amc.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324531.m3u8
-qualidade: HD · 1280x720
 
 canal: Discovery Turbo
 categoria: Documentários
@@ -899,7 +886,7 @@ canal: X Sports
 categoria: Esportes
 logo: https://img.faz-o-eli.online/xsports.png
 
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/340449.ts
+fonte: http://vivlar.me:80/497238/KK8Kdy/340449.ts
 qualidade: FHD
 
 canal: N SPORTS
@@ -1136,13 +1123,6 @@ qualidade: FHD · 1920x1080
 fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 qualidade: FHD · 1920x1080
 
-canal: Euronews
-categoria: Notícias
-logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg
-
-fonte: https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
-qualidade: HD · 1280x720
-
 canal: SESC TV
 categoria: TV Aberta
 logo: https://i.imgur.com/Mu8O6CV.png
@@ -1161,46 +1141,11 @@ logo: https://i.imgur.com/vstHOYx.png
 fonte: https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 qualidade: FHD · 1920x1080
 
-canal: A Feiticeira
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
-qualidade: SD · 1216x684
-
-canal: Acumuladores Obsessivos
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
-qualidade: HD · 1280x720
-
-canal: Adrenalina Pura TV
-categoria: Esportes
-logo: https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-qualidade: SD · 1216x684
-
 canal: Assombrações
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png
 
 fonte: https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
-qualidade: HD · 1280x720
-
-canal: BET Pluto TV
-categoria: Pluto TV
-logo: https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1784064875197.png
-
-fonte: https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
-qualidade: HD · 1280x720
-
-canal: Babyfirst
-categoria: Infantil
-logo: https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 qualidade: HD · 1280x720
 
 canal: Bob Esponja Calça Quadrada
@@ -1216,12 +1161,6 @@ logo: https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png
 
 fonte: https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8
 qualidade: SD · 1216x684
-
-canal: CBS News
-categoria: Notícias
-
-fonte: https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
-qualidade: HD · 1280x720
 
 canal: Canal Educacao
 categoria: TV Aberta
@@ -1277,31 +1216,10 @@ logo: https://i.imgur.com/UYksTee.png
 fonte: http://168.197.104.22/CHEF_TV/index.m3u8
 qualidade: FHD · 1920x1080
 
-canal: Comedy Central Pluto TV
-categoria: Pluto TV
-logo: https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
-qualidade: HD · 1280x720
-
-canal: Comedy Central South Park
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png
-
-fonte: https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
-qualidade: HD · 1280x720
-
 canal: Cultura Fast
 categoria: TV Aberta
 
 fonte: https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
-qualidade: HD · 1280x720
-
-canal: Detetives Médicos
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 qualidade: HD · 1280x720
 
 canal: DumDum
@@ -1315,53 +1233,12 @@ qualidade: HD · 1280x720
 fonte: http://186.219.52.187/zoomoo/index.m3u8
 qualidade: SD · 720x576
 
-canal: Estado Paranormal
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_1732041604478.png
-
-fonte: https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
-qualidade: SD · 1024x576
-
-canal: FIFA+
-categoria: Esportes
-logo: https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png
-
-fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-
-canal: FailArmy
-categoria: Variedades
-logo: https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
-qualidade: SD · 1216x684
-
-canal: Filmelier TV
-categoria: Filmes e Séries
-logo: https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
-qualidade: SD · 1216x684
-
-canal: Filmes Suspense
-categoria: Filmes e Séries
-logo: https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-qualidade: SD · 1216x684
-
 canal: Futura
 categoria: TV Aberta
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png
 
 fonte: http://168.197.104.22/FUTURA/index.m3u8
 qualidade: HD · 1280x720
-
-canal: Homeful
-categoria: Variedades
-logo: https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-67603668f433320008760af1.m3u8
-qualidade: SD · 1216x684
 
 canal: KpopTV Play
 categoria: Variedades
@@ -1377,38 +1254,11 @@ logo: https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 qualidade: HD · 1280x720
 
-canal: MTV Dating
-categoria: Variedades
-
-fonte: https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
-qualidade: SD · 1216x684
-
-canal: MTV Pluto TV
-categoria: Pluto TV
-logo: https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png
-
-fonte: https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
-qualidade: SD · 1216x684
-
-canal: MTV Reality
-categoria: Variedades
-logo: https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1783347653051.png
-
-fonte: https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
-qualidade: SD · 1216x684
-
 canal: MTV Rocks
 categoria: Variedades
 logo: https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png
 
 fonte: https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
-qualidade: SD · 1216x684
-
-canal: Mais MasterChef Brasil
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png
-
-fonte: https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 qualidade: SD · 1216x684
 
 canal: MasterChef
@@ -1418,33 +1268,12 @@ logo: https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG_178
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/masterchef/masterchef.m3u8
 qualidade: Qualidade não informada
 
-canal: Mistérios sem Solução
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-62b5c5a064163d0007b2efe6.m3u8
-qualidade: HD · 1280x720
-
 canal: MyTime Movie Network
 categoria: Filmes e Séries
 logo: https://i.imgur.com/aiGQtzI.png
 
 fonte: https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 qualidade: HD · 1280x720
-
-canal: NatureTime
-categoria: Documentários
-logo: https://images.pluto.tv/channels/681ba2ad93d3d19bcab47433/colorLogoPNG_1785430696843.png
-
-fonte: https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
-qualidade: SD · 1216x684
-
-canal: Nick Jr. Club
-categoria: Infantil
-logo: https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG_1747935179470.png
-
-fonte: https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
-qualidade: SD · 1216x684
 
 canal: NickOnline
 categoria: Infantil
@@ -1466,33 +1295,1581 @@ categoria: Infantil
 fonte: https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 qualidade: SD · 854x480
 
-canal: Nickelodeon Clássico
-categoria: Infantil
-logo: https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1788384899252.png
-
-fonte: https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
-qualidade: SD · 1216x684
-
-canal: Nickelodeon Teen
-categoria: Infantil
-logo: https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png
-
-fonte: https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
-qualidade: HD · 1280x720
-
-canal: Nickelodeon Toons
-categoria: Infantil
-logo: https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png
-
-fonte: https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-qualidade: HD · 1280x720
-
 canal: Nickelodeon iCarly
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png
 
 fonte: https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 qualidade: SD · 1216x684
+
+canal: Pluto TV Anime
+categoria: Pluto TV
+logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
+
+fonte: https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+qualidade: SD · 1216x684
+
+canal: Rede TV!
+categoria: TV Aberta
+logo: https://i.imgur.com/ZJgD38F.png
+
+fonte: http://170.83.16.50/REDE_TV/index.m3u8
+qualidade: HD · 1280x720
+
+canal: Runtime
+categoria: Filmes e Séries
+logo: https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png
+
+fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+qualidade: HD · 1280x720
+
+canal: Smithsonian Channel Pluto TV
+categoria: Pluto TV
+logo: https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png
+
+fonte: https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+qualidade: HD · 1280x720
+
+canal: Travel Box Brazil
+categoria: Variedades
+logo: https://i.imgur.com/3tBJERH.png
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM5MC5tM3U4.m3u8
+qualidade: FHD
+fonte: http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+qualidade: HD · 1280x720
+fonte: http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
+qualidade: HD · 1280x720
+
+canal: AEROPORTO AREA RESTRITA
+categoria: 24 Horas
+logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTA0ODgubTN1OA.m3u8
+qualidade: Qualidade não informada
+
+canal: FILHINHO DA MAMAE
+categoria: 24 Horas
+logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/2945301.m3u8
+qualidade: HD · 1280x720
+
+canal: Amazon Prime Video 01
+categoria: Esportes
+logo: https://img.faz-o-eli.online/primevideo.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo/primevideo.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Amazon Prime Video 02
+categoria: Esportes
+logo: https://img.faz-o-eli.online/primevideo.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo2/primevideo2.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Amazon Prime Video 03
+categoria: Esportes
+logo: http://www.fontedecanais.gs/logos/canais/primevideo.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460181.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal GOAT (Jogo 1)
+categoria: Esportes
+logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460243.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal GOAT (Jogo 2)
+categoria: Esportes
+logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460244.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal GOAT (Jogo 3)
+categoria: Esportes
+logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460245.m3u8
+qualidade: HD · 1280x720
+
+canal: Combate
+categoria: Esportes
+logo: https://i.imgur.com/ZPYK5jr.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81586.ts
+qualidade: FHD
+
+canal: DAZN (Jogo 1)
+categoria: Esportes
+logo: http://logos.appscms.xyz/logos/2025/dazn.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460239.m3u8
+qualidade: FHD · 1920x1080
+
+canal: DAZN (Jogo 4)
+categoria: Esportes
+logo: http://logos.appscms.xyz/logos/2025/dazn.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460242.m3u8
+qualidade: SD · 640x360
+
+canal: Disney+ 01
+categoria: Esportes
+logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169095.ts
+qualidade: HD
+
+canal: Disney+ 02
+categoria: Esportes
+logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169096.ts
+qualidade: HD
+
+canal: Disney+ 03
+categoria: Esportes
+logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169097.ts
+qualidade: HD
+
+canal: Disney+ 04
+categoria: Esportes
+logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/296918.m3u8
+qualidade: HD · 1280x720
+
+canal: Disney+ 05
+categoria: Esportes
+logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169099.ts
+qualidade: HD
+
+canal: Mr Olympia 01
+categoria: Esportes
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460265.m3u8
+qualidade: HD · 1280x720
+
+canal: Mr Olympia 02
+categoria: Esportes
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460266.m3u8
+qualidade: HD · 1280x720
+
+canal: NBA 01
+categoria: Esportes
+logo: http://www.fontedecanais.me/logos/canais/nba.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/514097.m3u8
+qualidade: FHD · 1920x1080
+
+canal: N Sports (Jogo 1)
+categoria: Esportes
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460254.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Paramount+ (Jogo 1)
+categoria: Esportes
+logo: https://img.faz-o-eli.online/paramountplus.png
+
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.txt
+qualidade: Qualidade não informada
+
+canal: Paramount+ (Jogo 2)
+categoria: Esportes
+logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460172.m3u8
+qualidade: HD · 1280x720
+
+canal: Paramount+ (Jogo 3)
+categoria: Esportes
+logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460173.m3u8
+qualidade: HD · 1280x720
+
+canal: Paramount+ (Jogo 6)
+categoria: Esportes
+logo: https://logos.appscms.xyz/logos/2025/Paramount.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/3460278.m3u8
+qualidade: HD · 1280x720
+
+canal: SportyNet 01
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184569.ts
+qualidade: FHD
+
+canal: UFC Fight Pass 01
+categoria: Esportes
+logo: https://img.faz-o-eli.online/ufcfightpass.png
+
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/ufcfightpass.txt
+qualidade: Qualidade não informada
+
+canal: UFC Fight Pass 03
+categoria: Esportes
+logo: http://logos.imperioapps.top/UFC_FIGHT_PASS.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/297547.m3u8
+qualidade: HD · 1280x720
+
+canal: Canal Brasil
+categoria: Filmes e Séries
+logo: https://i.imgur.com/1MusQ5K.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/107979.ts
+qualidade: FHD
+
+canal: Cine SKY 01
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.dev/logos/canais/cinesky.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13071.ts
+qualidade: Qualidade não informada
+
+canal: Cine SKY 02
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.org/logos/canais/cinesky.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13072.ts
+qualidade: HD · 1920x804
+
+canal: Cine SKY 03
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.org/logos/canais/cinesky.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13073.ts
+qualidade: HD · 1920x800
+
+canal: Cine SKY 04
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.org/logos/canais/cinesky.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/1882620.m3u8
+qualidade: HD · 1280x720
+
+canal: Cine SKY 05
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.org/logos/canais/cinesky.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13075.ts
+qualidade: FHD · 1920x1080
+
+canal: Lifetime
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.me/logos/canais/lifetime.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8943.ts
+qualidade: FHD
+
+canal: MAX 01
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.gs/logos/canais/max.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594007.ts
+qualidade: FHD
+
+canal: MAX 02
+categoria: Filmes e Séries
+logo: http://www.fontedecanais.gs/logos/canais/max.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594010.ts
+qualidade: HD
+
+canal: Studio Universal
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/studiouniversal.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108183.ts
+qualidade: FHD
+
+canal: Gloob
+categoria: Infantil
+logo: https://i.imgur.com/N1BUULh.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8887.ts
+qualidade: FHD
+
+canal: Gloobinho
+categoria: Infantil
+logo: https://i.imgur.com/UWkHErt.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69037.ts
+qualidade: HD
+
+canal: TV Rá Tim Bum
+categoria: Infantil
+logo: https://logos.imperioapps.top/TV_RA_TIM_BUM.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9193.ts
+qualidade: FHD · 1920x1080
+
+canal: Band Campinas
+categoria: TV Aberta
+logo: https://i.imgur.com/1r5T6Pw.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20522.ts
+qualidade: HD
+
+canal: Band Curitiba
+categoria: TV Aberta
+logo: https://i.imgur.com/SOfcdFf.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324354.m3u8
+qualidade: HD · 1280x720
+
+canal: Band MG
+categoria: TV Aberta
+logo: https://i.imgur.com/1r5T6Pw.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324359.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Band Pará
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/band.png
+
+fonte: https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+canal: Band Recife TV Tribuna
+categoria: TV Aberta
+logo: https://i.imgur.com/1r5T6Pw.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324364.m3u8
+qualidade: HD · 1280x720
+
+canal: Band RJ
+categoria: TV Aberta
+logo: https://i.imgur.com/1r5T6Pw.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20524.ts
+qualidade: HD · 1280x720
+
+canal: Band RN
+categoria: TV Aberta
+logo: https://i.imgur.com/1r5T6Pw.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324367.m3u8
+qualidade: HD · 1280x720
+
+canal: Band Sergipe
+categoria: TV Aberta
+logo: https://i.imgur.com/1r5T6Pw.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324370.m3u8
+qualidade: HD · 1280x720
+
+canal: Rede Família
+categoria: TV Aberta
+logo: http://www.fontedecanais.gs/logos/canais/redefamilia.png
+
+fonte: http://186.219.52.187/rede_familia/index.m3u8
+fonte: http://168.197.104.22/REDE_FAMILIA/index.m3u8
+
+canal: SBT Alterosa
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/218366.ts
+qualidade: FHD
+
+canal: SBT BA
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/108770.ts
+
+canal: SBT GO
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324291.m3u8
+qualidade: HD · 1280x720
+
+canal: SBT Londrina
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324312.m3u8
+qualidade: FHD · 1920x1080
+
+canal: SBT Maringá
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324311.m3u8
+qualidade: FHD · 1920x1080
+
+canal: SBT MG
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324296.m3u8
+qualidade: HD · 1280x720
+
+canal: SBT PI
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/131432.ts
+qualidade: HD
+
+canal: SBT PR
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/sbt.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/88432.ts
+qualidade: HD
+
+canal: SBT RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/sbt.png
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDg2ODEubTN1OA.m3u8
+qualidade: FHD
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/131563.ts
+qualidade: FHD
+
+canal: TVE Bahia
+categoria: TV Aberta
+logo: http://i.imgur.com/IWGyp65.jpeg
+
+fonte: http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Tv Goiania
+categoria: TV Aberta
+logo: http://www.fontedecanais.me/logos/canais/band.png
+
+fonte: http://64.31.23.207:80/59471019/60849037/324373.m3u8
+qualidade: HD · 1280x720
+
+canal: BIS
+categoria: Variedades
+logo: https://i.imgur.com/VUt1lmH.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/107985.ts
+qualidade: FHD
+
+canal: Food Network
+categoria: Variedades
+logo: https://img.faz-o-eli.online/foodnetwork.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8811.ts
+qualidade: FHD
+
+canal: Modo Viagem
+categoria: Variedades
+logo: http://www.fontedecanais.me/logos/canais/modoviagem.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8883.ts
+qualidade: FHD
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103488.ts
+qualidade: 4K
+
+canal: 24H Chaves
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169218.ts
+qualidade: SD · 640x480
+
+canal: 24H Dragon Ball Z
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169226.ts
+qualidade: HD · 1280x720
+
+canal: 24H Naruto Clássico
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_naruto/24h_naruto.m3u8
+qualidade: Qualidade não informada
+
+canal: 24H Os Simpsons
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169244.ts
+qualidade: HD · 1280x720
+
+canal: 24H Pica Pau
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_picapau/24h_picapau.m3u8
+qualidade: Qualidade não informada
+
+canal: 24H Todo Mundo Odeia o Cris
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169249.ts
+qualidade: SD · 624x352
+
+canal: 24H Friends
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_friends/24h_friends.m3u8
+qualidade: Qualidade não informada
+
+canal: Discovery World
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoveryworld.png
+qualidade: SD · 768x432
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/91398.ts
+qualidade: FHD
+
+canal: CazeTV 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/245798.ts
+qualidade: HD
+
+canal: CazeTV 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/caze2/caze2.m3u8
+qualidade: FHD · 1920x1080
+
+canal: PT - A Bola
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_abola.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_abola/pt_abola.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Benfica TV
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_benficatv.prev.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_benficatv/pt_benficatv.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Canal 11
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_canal11.prev.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_canal11/pt_canal11.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Eleven 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_eleven1.prev.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_eleven1/pt_eleven1.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Eleven 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_eleven2.prev.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_eleven2/pt_eleven2.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Eleven 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_eleven3.prev.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_eleven3/pt_eleven3.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Sporttv 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv1/pt_sportv1.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Sporttv 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv2/pt_sportv2.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Sporttv 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv3/pt_sportv3.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Sporttv 4
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv4/pt_sportv4.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Sporttv 5
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv5/pt_sportv5.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Sporttv 6
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv6/pt_sportv6.m3u8
+qualidade: Qualidade não informada
+
+canal: PT - Sporttv 7
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv7/pt_sportv7.m3u8
+qualidade: Qualidade não informada
+
+canal: SportyNet+ 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus1.txt
+qualidade: Qualidade não informada
+
+canal: SportyNet+ 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus2.txt
+qualidade: Qualidade não informada
+
+canal: SportyNet+ 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus3.txt
+qualidade: Qualidade não informada
+
+canal: Globo AM
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globoam/globoam.m3u8
+qualidade: Qualidade não informada
+
+canal: Globo CE
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globoce/globoce.m3u8
+qualidade: Qualidade não informada
+
+canal: Globo ES
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globoes/globoes.m3u8
+qualidade: HD · 1280x720
+
+canal: Globo GO
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globogo/globogo.m3u8
+qualidade: Qualidade não informada
+
+canal: Globo PB
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globopb/globopb.m3u8
+qualidade: Qualidade não informada
+
+canal: Globo PE
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globope/globope.m3u8
+qualidade: Qualidade não informada
+
+canal: Globo RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globorj.png
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjAyNS5tM3U4.m3u8
+qualidade: FHD
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72025.ts
+qualidade: FHD
+
+canal: Globo RS
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globors/globors.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Record GO
+categoria: TV Aberta
+logo: https://i.imgur.com/sz9gTTr.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/106096.ts
+qualidade: HD · 1280x720
+
+canal: Record MG
+categoria: TV Aberta
+logo: https://i.imgur.com/sz9gTTr.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9054.ts
+qualidade: HD
+
+canal: Record RJ
+categoria: TV Aberta
+logo: https://i.imgur.com/sz9gTTr.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/106095.ts
+qualidade: FHD · 1920x1080
+
+canal: HGTV
+categoria: Variedades
+logo: https://img.faz-o-eli.online/hgtv.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/304506.ts
+qualidade: FHD
+
+canal: MTV
+categoria: Variedades
+logo: https://img.faz-o-eli.online/mtv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/mtv/mtv.m3u8
+qualidade: FHD · 1536x1024
+
+canal: A Fazenda 18 1
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470061.ts
+qualidade: HD · 1280x720
+
+canal: A Fazenda 18 2
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470062.ts
+qualidade: HD · 1280x720
+
+canal: A Fazenda 18 3
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470063.ts
+qualidade: HD · 1280x720
+
+canal: A Fazenda 18 4
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470064.ts
+qualidade: HD · 1280x720
+
+canal: A Fazenda 18 5
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470065.ts
+qualidade: HD · 1280x720
+
+canal: CazeTV 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/caze3/caze3.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Globo DF
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/131151.ts
+qualidade: FHD
+
+canal: Globo MG
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/131200.ts
+qualidade: FHD
+
+canal: MAX 03
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/max.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594011.ts
+qualidade: FHD
+
+canal: Amazon Prime Video 04
+categoria: Esportes
+logo: https://img.faz-o-eli.online/primevideo.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo4/primevideo4.m3u8
+qualidade: FHD · 1920x1080
+
+canal: SporTV 4
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv4.png
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNzYwOTMubTN1OA.m3u8
+qualidade: 4K
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/570369.ts
+qualidade: FHD
+
+canal: Star Channel
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/starchannel.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/starchannel/starchannel.m3u8
+qualidade: Qualidade não informada
+
+canal: Curta
+categoria: Documentários
+logo: https://i.imgur.com/Rwrh0zU.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/12948.ts
+qualidade: FHD · 1920x1080
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103512.ts
+qualidade: 4K
+
+canal: DOG TV
+categoria: Variedades
+logo: http://tvonhdbr.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178517.ts
+qualidade: 4K
+
+canal: Eurochannel
+categoria: Notícias
+logo: http://tvonhdbr.com/images/e319732e23a51cafb209d07c7a26c615.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/104910.ts
+qualidade: FHD
+
+canal: FashionTV
+categoria: Variedades
+logo: https://i.imgur.com/cZWKyuM.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103503.ts
+qualidade: 4K
+
+canal: Film&Arts
+categoria: Filmes e Séries
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178518.ts
+qualidade: 4K
+
+canal: Formula 1 TV
+categoria: PPV
+logo: https://imgur.com/a/jyyyawL
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvOTc3MDQwLm0zdTg.m3u8
+qualidade: HD
+
+canal: France 24
+categoria: Notícias
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103500.ts
+qualidade: 4K
+
+canal: Markket
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/164026.ts
+qualidade: 4K
+
+canal: NBA League Pass 1
+categoria: Esportes
+logo: https://i.imgur.com/ynW8fZF.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140516.ts
+qualidade: FHD
+
+canal: NBA League Pass 2
+categoria: Esportes
+logo: https://i.imgur.com/ynW8fZF.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140519.ts
+qualidade: FHD
+
+canal: NBA League Pass 3
+categoria: Esportes
+logo: https://i.imgur.com/ynW8fZF.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140522.ts
+qualidade: FHD
+
+canal: SportyNet 4
+categoria: Esportes
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184584.ts
+qualidade: FHD
+
+canal: SportyNet
+categoria: Esportes
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1165167.ts
+qualidade: HD · 1280x720
+
+canal: Paramount + 4
+categoria: Variedades
+logo: http://tvonhdbr.com/images/a2297e25c35601bed705a676d70e41df.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103521.ts
+qualidade: 4K
+
+canal: Paramount Channel
+categoria: Filmes e Séries
+logo: http://tvonhdbr.com/static/logos/canais/paramount.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72217.ts
+qualidade: FHD
+
+canal: Prime Box Brazil
+categoria: Variedades
+logo: https://i.imgur.com/BMqSDNn.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103476.ts
+qualidade: 4K
+
+canal: Sabor & Arte
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/112017.ts
+qualidade: FHD
+
+canal: SYFY
+categoria: Filmes e Séries
+logo: http://tvonhdbr.com/static/logos/canais/syfy.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103474.ts
+qualidade: 4K
+
+canal: UFC Fight Pass
+categoria: PPV
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184046.ts
+qualidade: FHD
+
+canal: Zoomoo
+categoria: Infantil
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9230.ts
+qualidade: HD
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178533.ts
+qualidade: 4K
+
+canal: 101 Dalmatas
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169265.ts
+qualidade: HD · 1280x720
+
+canal: A Beleza Secreta dos Animais
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138011.ts
+qualidade: HD · 1280x720
+
+canal: Aladdin
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138730.ts
+qualidade: SD · 630x480
+
+canal: As Aventuras do Gato de Botas
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/10eb05c9613316dfb3cb1a39efdf13e0.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140528.ts
+qualidade: HD · 1280x720
+
+canal: Cameras Escondidas Silvio Santos
+categoria: 24 Horas
+logo: http://tvonhdbr.com/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/152014.ts
+qualidade: HD · 1280x720
+
+canal: Caverna do Dragao
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169296.ts
+qualidade: HD · 1280x960
+
+canal: Chapolin Colorado
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169217.ts
+qualidade: HD · 1280x720
+
+canal: Dois Homens e Meio
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169221.ts
+qualidade: HD · 1280x720
+
+canal: Dora Aventureira
+categoria: 24 Horas
+logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j30WV7vDXXorlbdKEHgl74stDml.jpg
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169304.ts
+qualidade: SD · 720x480
+
+canal: Dragon Ball Super - Saga Deus da Destruicao Bills
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135484.ts
+qualidade: HD · 1280x720
+
+canal: Dragon Ball Super - Trunks do Futuro
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135487.ts
+qualidade: HD · 1280x720
+
+canal: Escolinha do Professor Raimundo
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/151df67d8d15f1c0c39c7779f27935b6.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137611.ts
+qualidade: SD · 594x456
+
+canal: Eu a Patroa e as Criancas
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138020.ts
+qualidade: HD · 1280x720
+
+canal: Game Shakers
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138007.ts
+qualidade: HD · 1280x720
+
+canal: He Man e Os Defensores do Universo
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135514.ts
+qualidade: SD · 704x574
+
+canal: Largados e Pelados
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145928.ts
+qualidade: HD · 1280x720
+
+canal: Mestres da Sobrevivencia
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/401f441af8a5f5b0211c085d1d755d95.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137129.ts
+qualidade: HD · 1280x720
+
+canal: Nicky Ricky Dicky e Dawn
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145939.ts
+qualidade: HD · 1280x720
+
+canal: Um Maluco no Pedaco
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169252.ts
+qualidade: HD · 1280x960
+
+canal: FCF TV 1
+categoria: PPV
+
+fonte: http://vivlar.me:80/497238/KK8Kdy/247976.ts
+qualidade: FHD
+
+canal: Carros Irado
+categoria: 24 Horas
+logo: http://24horas.cc:80/images/2dd914ca34a6a1ad2bdbb727f3e51140.jpg
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/255224.ts
+qualidade: HD · 1280x720
+
+canal: CNBC Brasil
+categoria: Notícias
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/295480.ts
+qualidade: 4K
+
+canal: Brasileirao Serie A
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317063.ts
+qualidade: FHD
+
+canal: Andorra x Malta
+categoria: Esportes
+logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317686.ts
+qualidade: FHD · 1920x1080
+
+canal: Portugal x País de Gales
+categoria: Esportes
+logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317690.ts
+qualidade: FHD · 1920x1080
+
+canal: Áustria x Israel
+categoria: Esportes
+logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317691.ts
+qualidade: FHD · 1920x1080
+
+canal: Kosovo x Irlanda
+categoria: Esportes
+logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317692.ts
+qualidade: FHD · 1920x1080
+
+canal: Liechtenstein x Lituânia
+categoria: Esportes
+logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317693.ts
+qualidade: FHD · 1920x1080
+
+canal: Informações em Breve
+categoria: Esportes
+logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317694.ts
+qualidade: FHD · 1920x1080
+
+canal: Gladiadores da Natureza
+categoria: 24 Horas
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/371456.ts
+qualidade: FHD · 1920x1080
+
+canal: A Fazenda Cam 1
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397317.ts
+qualidade: FHD
+
+canal: A Fazenda Cam 2
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397320.ts
+qualidade: FHD
+
+canal: A Fazenda Cam 3
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397321.ts
+qualidade: FHD
+
+canal: A Fazenda Cam 4
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397322.ts
+qualidade: FHD
+
+canal: A Fazenda Cam 5
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397323.ts
+qualidade: FHD
+
+canal: A Fazenda Cam 6
+categoria: Variedades
+
+fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397324.ts
+qualidade: FHD
+
+canal: MAX 07
+categoria: Filmes e Séries
+logo: http://i.postimg.cc/L52gtQpb/BeDFSlD.png
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvOTg2MDQ5Lm0zdTg.m3u8
+qualidade: HD
+
+canal: MAX 08
+categoria: Filmes e Séries
+logo: http://i.postimg.cc/L52gtQpb/BeDFSlD.png
+
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTQ0ODQzMC5tM3U4.m3u8
+qualidade: HD
+
+canal: PREMIERE 8 MOSAICO
+categoria: Esportes
+logo: http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30063.ts
+qualidade: FHD
+
+canal: JOGOS DE HOJE
+categoria: Esportes
+logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/339310.ts
+qualidade: HD · 1280x720
+
+canal: A FAZENDA 18 MOSAICO
+categoria: Variedades
+logo: https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470067.ts
+qualidade: HD · 1280x720
+
+canal: CHAPOLIN
+categoria: 24 Horas
+logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
+
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169216.ts
+qualidade: HD · 1280x720
+
+canal: Disney Plus 1
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/disneyplus.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus1/disneyplus1.m3u8
+qualidade: Qualidade não informada
+
+canal: Disney Plus 2
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/disneyplus.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus2/disneyplus2.m3u8
+qualidade: Qualidade não informada
+
+canal: Disney Plus 3
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/disneyplus.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus3/disneyplus3.m3u8
+qualidade: Qualidade não informada
+
+canal: Paramount Plus 1
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/paramountplus.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/paramountplus/paramountplus.m3u8
+qualidade: Qualidade não informada
+
+canal: Paramount Plus 2
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/paramountplus.png
+
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/paramountplus2/paramountplus2.m3u8
+qualidade: Qualidade não informada
+
+canal: Prime Video 3
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/amazonprimevideo.png
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo3/primevideo3.m3u8
+qualidade: Qualidade não informada
+
+canal: A Caçadora de Relíquias
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG_1745618050777.png
+fonte: https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
+qualidade: HD · 1280x720
+
+canal: A Feiticeira
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png
+
+fonte: https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
+qualidade: SD · 1216x684
+
+canal: Acumuladores Obsessivos
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png
+
+fonte: https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
+qualidade: HD · 1280x720
+
+canal: Avatar: A lenda de Aang
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+qualidade: SD · 1216x684
+
+canal: BET Pluto TV
+categoria: Pluto TV
+logo: https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1784064875197.png
+
+fonte: https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+qualidade: HD · 1280x720
+
+canal: Baby Shark TV
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
+qualidade: HD · 1280x720
+
+canal: Beyblade
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA1NDMubTN1OA.m3u8
+qualidade: Qualidade não informada
+
+canal: CSI: Miami
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+qualidade: HD · 1280x720
+
+canal: Caçadores de Óvnis
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG_1732041732595.png
+fonte: https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
+qualidade: HD · 1280x720
+
+canal: Charmed: Jovens Bruxas
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png
+fonte: https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+qualidade: SD · 1216x684
+
+canal: Cocoricó
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTMubTN1OA.m3u8
+qualidade: Qualidade não informada
+
+canal: Comedy Central Pluto TV
+categoria: Pluto TV
+logo: https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png
+
+fonte: https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+qualidade: HD · 1280x720
+
+canal: Comedy Central South Park
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png
+
+fonte: https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+qualidade: HD · 1280x720
+
+canal: Death Note
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-625464a945b6a200079257d1.m3u8
+qualidade: HD · 1280x720
+
+canal: Detetives Médicos
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png
+
+fonte: https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+qualidade: HD · 1280x720
+
+canal: Diff’rent Strokes Arnold
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+qualidade: HD · 1280x720
+
+canal: Estado Paranormal
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_1732041604478.png
+
+fonte: https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
+qualidade: SD · 1024x576
+
+canal: Hunter x Hunter
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-65d9167818036500080e8780.m3u8
+qualidade: SD · 1216x684
+
+canal: Inspetor Bugiganga
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/69162648d03565d6c8c8df97/colorLogoPNG_1769479138027.png
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTUubTN1OA.m3u8
+qualidade: Qualidade não informada
+
+canal: Inuyasha
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-66b26681d2d50d00083abe8b.m3u8
+qualidade: SD · 1216x684
+
+canal: JoJo’s Bizarre Adventure
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-66c7982f6838ee00085f0d24.m3u8
+qualidade: SD · 1216x684
+
+canal: Jornada nas Estrelas A Nova Geração
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png
+fonte: https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+qualidade: SD · 1216x684
+
+canal: Jornada nas Estrelas Deep Space Nine
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png
+fonte: https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
+qualidade: SD · 1216x684
+
+canal: Jornada nas Estrelas Voyager
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png
+fonte: https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+qualidade: SD · 1216x684
+
+canal: Kenan & Kel
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+qualidade: HD · 1280x720
+
+canal: MTV Are you the One?
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+qualidade: HD · 1280x720
+
+canal: MTV Catfish
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+qualidade: HD · 1280x720
+
+canal: MTV Com o Ex
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+qualidade: HD · 1280x720
+
+canal: MTV Jovens e Mães
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
+qualidade: HD · 1280x720
+
+canal: MTV Pluto TV
+categoria: Pluto TV
+logo: https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png
+
+fonte: https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+qualidade: SD · 1216x684
+
+canal: MTV Rupaul's Drag Race
+categoria: 24 Horas
+fonte: https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+qualidade: HD · 1280x720
+
+canal: MTV Shore
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+qualidade: SD · 1216x684
+
+canal: MacGyver
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+qualidade: HD · 1280x720
+
+canal: Mais MasterChef Brasil
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png
+
+fonte: https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
+qualidade: SD · 1216x684
+
+canal: MasterChef Brasil Profissionais
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/681110afc188aa63faa147e0/colorLogoPNG_1749226372857.png
+fonte: https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
+qualidade: SD · 1216x684
+
+canal: Mistérios sem Solução
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png
+
+fonte: https://jmp2.uk/plu-62b5c5a064163d0007b2efe6.m3u8
+qualidade: HD · 1280x720
+
+canal: Moranguinho
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8
+qualidade: HD · 1280x720
+
+canal: NCIS
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+qualidade: HD · 1280x720
+
+canal: Naruto
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+qualidade: HD · 1280x720
+
+canal: Naruto Shippuden
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG_1785430970647.png
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169241.ts
+qualidade: Qualidade não informada
+
+canal: NickOnline Bob Esponja
+categoria: 24 Horas
+logo: https://x1colegal.com/nickonlinebobesponja.png
+fonte: https://bob.x1colegal.com/hls/stream.m3u8
+qualidade: HD · 1280x720
+
+canal: Numbers
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png
+fonte: https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+qualidade: SD · 1216x684
+
+canal: O Encantador de Cães
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+qualidade: HD · 1280x720
 
 canal: O Homem que veio do Céu
 categoria: 24 Horas
@@ -1501,18 +2878,40 @@ logo: https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG_173
 fonte: https://jmp2.uk/plu-62052d3b4eeb740007fbe125.m3u8
 qualidade: HD · 1280x720
 
-canal: O Reino Infantil
-categoria: Infantil
-logo: https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+canal: Oggy e as Baratas Tontas
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 qualidade: HD · 1280x720
 
-canal: PFL MMA
-categoria: Esportes
-logo: https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png
+canal: One Piece
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0NjMubTN1OA.m3u8
+qualidade: Qualidade não informada
 
-fonte: https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
+canal: Os Arquivos do FBI
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-620d12a82e8ac50007c269c3.m3u8
+qualidade: HD · 1280x720
+
+canal: Os Padrinhos Mágicos
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1NDYubTN1OA.m3u8
+qualidade: Qualidade não informada
+
+canal: Os Smurfs
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG_1762273919644.png
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzY4MTcubTN1OA.m3u8
+qualidade: Qualidade não informada
+
+canal: Pegadinhas Just for Laughs
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
 qualidade: HD · 1280x720
 
 canal: Pluto TV Aliens
@@ -1528,13 +2927,6 @@ logo: https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png
 
 fonte: https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 qualidade: HD · 1280x720
-
-canal: Pluto TV Anime
-categoria: Pluto TV
-logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
-
-fonte: https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
-qualidade: SD · 1216x684
 
 canal: Pluto TV Anime Ação
 categoria: Pluto TV
@@ -1879,6 +3271,18 @@ logo: https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_173
 fonte: https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 qualidade: HD · 1280x720
 
+canal: Pokémon
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/687007a8ee4155e89a8f6d67/colorLogoPNG_1752174174089.png
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3OTYubTN1OA.m3u8
+qualidade: Qualidade não informada
+
+canal: Popeye
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
+qualidade: HD · 1280x720
+
 canal: Pronto-socorro: Histórias De Emergência
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png
@@ -1886,53 +3290,17 @@ logo: https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 qualidade: HD · 1280x720
 
-canal: RACER Brasil
-categoria: Esportes
-logo: https://i.imgur.com/4eaKYJu.png
-
-fonte: https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
+canal: Rookie Blue
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png
+fonte: https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
 qualidade: SD · 1216x684
 
-canal: Realmadrid TV
-categoria: Esportes
-logo: https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+canal: Sony One Shark Tank Brasil
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png
+fonte: https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
 qualidade: SD · 1216x684
-
-canal: Red Bull TV BR
-categoria: Esportes
-
-fonte: https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
-qualidade: SD · 1216x684
-
-canal: Rede TV!
-categoria: TV Aberta
-logo: https://i.imgur.com/ZJgD38F.png
-
-fonte: http://170.83.16.50/REDE_TV/index.m3u8
-qualidade: HD · 1280x720
-
-canal: Runtime
-categoria: Filmes e Séries
-logo: https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png
-
-fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-qualidade: HD · 1280x720
-
-canal: SFT Combat
-categoria: Esportes
-logo: https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8
-qualidade: SD · 1216x684
-
-canal: Smithsonian Channel Pluto TV
-categoria: Pluto TV
-logo: https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-qualidade: HD · 1280x720
 
 canal: South Park: Coleção Cartman
 categoria: 24 Horas
@@ -1954,1899 +3322,6 @@ logo: https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png
 
 fonte: https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 qualidade: HD · 1280x720
-
-canal: Tastemade
-categoria: Variedades
-logo: https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
-qualidade: SD · 1216x684
-
-canal: Tastemade Casa
-categoria: Variedades
-logo: https://images.pluto.tv/channels/68b88821e542386ab0bf5bef/colorLogoPNG_1759795743690.png
-
-fonte: https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
-qualidade: SD · 1216x684
-
-canal: Tastemade Viagem
-categoria: Variedades
-logo: https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/colorLogoPNG_1759784936254.png
-
-fonte: https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
-qualidade: SD · 1216x684
-
-canal: The Pet Collective
-categoria: Variedades
-logo: https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
-qualidade: SD · 1216x684
-
-canal: Tokusato
-categoria: Infantil
-logo: https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
-qualidade: HD · 1280x720
-
-canal: Top Barça
-categoria: Esportes
-logo: https://images.pluto.tv/channels/6888ee858f4a4aa11feb9430/colorLogoPNG_1753987309681.png
-
-fonte: https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
-qualidade: SD · 1216x684
-
-canal: Travel Box Brazil
-categoria: Variedades
-logo: https://i.imgur.com/3tBJERH.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM5MC5tM3U4.m3u8
-qualidade: FHD
-fonte: http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
-qualidade: HD · 1280x720
-fonte: http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
-qualidade: HD · 1280x720
-
-canal: UFC
-categoria: Esportes
-logo: https://images.pluto.tv/channels/69a20556814d27f4ae630a92/colorLogoPNG_1772226745279.png
-
-fonte: https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
-qualidade: SD · 1216x684
-
-canal: World Poker Tour
-categoria: Esportes
-logo: https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
-qualidade: SD · 1216x684
-
-canal: Yu-Gi-Oh
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png
-
-fonte: https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
-qualidade: HD · 1280x720
-
-canal: Z Nation
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG_1785430432127.png
-
-fonte: https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
-qualidade: SD · 1216x684
-
-canal: AEROPORTO AREA RESTRITA
-categoria: 24 Horas
-logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTA0ODgubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: FILHINHO DA MAMAE
-categoria: 24 Horas
-logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/2945301.m3u8
-qualidade: HD · 1280x720
-
-canal: Amazon Prime Video 01
-categoria: Esportes
-logo: https://img.faz-o-eli.online/primevideo.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo.txt
-qualidade: Qualidade não informada
-
-canal: Amazon Prime Video 02
-categoria: Esportes
-logo: https://img.faz-o-eli.online/primevideo.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo2.txt
-qualidade: Qualidade não informada
-
-canal: Amazon Prime Video 03
-categoria: Esportes
-logo: http://www.fontedecanais.gs/logos/canais/primevideo.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460181.m3u8
-qualidade: HD · 1280x720
-
-canal: Canal GOAT (Jogo 1)
-categoria: Esportes
-logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460243.m3u8
-qualidade: HD · 1280x720
-
-canal: Canal GOAT (Jogo 2)
-categoria: Esportes
-logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460244.m3u8
-qualidade: HD · 1280x720
-
-canal: Canal GOAT (Jogo 3)
-categoria: Esportes
-logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460245.m3u8
-qualidade: HD · 1280x720
-
-canal: Combate
-categoria: Esportes
-logo: https://i.imgur.com/ZPYK5jr.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81586.ts
-qualidade: FHD
-
-canal: DAZN (Jogo 1)
-categoria: Esportes
-logo: http://logos.appscms.xyz/logos/2025/dazn.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460239.m3u8
-qualidade: FHD · 1920x1080
-
-canal: DAZN (Jogo 2)
-categoria: Esportes
-logo: http://logos.appscms.xyz/logos/2025/dazn.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460240.m3u8
-qualidade: SD · 640x360
-
-canal: DAZN (Jogo 3)
-categoria: Esportes
-logo: http://logos.appscms.xyz/logos/2025/dazn.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460241.m3u8
-qualidade: SD · 640x360
-
-canal: DAZN (Jogo 4)
-categoria: Esportes
-logo: http://logos.appscms.xyz/logos/2025/dazn.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460242.m3u8
-qualidade: SD · 640x360
-
-canal: Disney+ 01
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169095.ts
-qualidade: HD
-
-canal: Disney+ 02
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/142034.ts
-qualidade: FHD
-
-canal: Disney+ 03
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169097.ts
-qualidade: HD
-
-canal: Disney+ 04
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/296918.m3u8
-qualidade: HD · 1280x720
-
-canal: Disney+ 05
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169099.ts
-qualidade: HD
-
-canal: Mr Olympia 01
-categoria: Esportes
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460265.m3u8
-qualidade: HD · 1280x720
-
-canal: Mr Olympia 02
-categoria: Esportes
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460266.m3u8
-qualidade: HD · 1280x720
-
-canal: NBA 01
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/nba.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/514097.m3u8
-qualidade: FHD · 1920x1080
-
-canal: N Sports (Jogo 1)
-categoria: Esportes
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460254.m3u8
-qualidade: FHD · 1920x1080
-
-canal: Paramount+ (Jogo 1)
-categoria: Esportes
-logo: https://img.faz-o-eli.online/paramountplus.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.txt
-qualidade: Qualidade não informada
-
-canal: Paramount+ (Jogo 2)
-categoria: Esportes
-logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460172.m3u8
-qualidade: HD · 1280x720
-
-canal: Paramount+ (Jogo 3)
-categoria: Esportes
-logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460173.m3u8
-qualidade: HD · 1280x720
-
-canal: Paramount+ (Jogo 6)
-categoria: Esportes
-logo: https://logos.appscms.xyz/logos/2025/Paramount.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460278.m3u8
-qualidade: HD · 1280x720
-
-canal: SportyNet 01
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportynet.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184569.ts
-qualidade: FHD
-
-canal: UFC Fight Pass 01
-categoria: Esportes
-logo: https://img.faz-o-eli.online/ufcfightpass.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/ufcfightpass.txt
-qualidade: Qualidade não informada
-
-canal: UFC Fight Pass 03
-categoria: Esportes
-logo: http://logos.imperioapps.top/UFC_FIGHT_PASS.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/297547.m3u8
-qualidade: HD · 1280x720
-
-canal: Canal Brasil
-categoria: Filmes e Séries
-logo: https://i.imgur.com/1MusQ5K.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/107979.ts
-qualidade: FHD
-
-canal: Cine SKY 01
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.dev/logos/canais/cinesky.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13071.ts
-qualidade: Qualidade não informada
-
-canal: Cine SKY 02
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.org/logos/canais/cinesky.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13072.ts
-qualidade: HD · 1920x804
-
-canal: Cine SKY 03
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.org/logos/canais/cinesky.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13073.ts
-qualidade: HD · 1920x800
-
-canal: Cine SKY 04
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.org/logos/canais/cinesky.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/1882620.m3u8
-qualidade: HD · 1280x720
-
-canal: Cine SKY 05
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.org/logos/canais/cinesky.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/13075.ts
-qualidade: FHD · 1920x1080
-
-canal: Lifetime
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.me/logos/canais/lifetime.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8943.ts
-qualidade: FHD
-
-canal: MAX 01
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.gs/logos/canais/max.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594007.ts
-qualidade: FHD
-
-canal: MAX 02
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.gs/logos/canais/max.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594010.ts
-qualidade: HD
-
-canal: SBT+ Novelas
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324283.m3u8
-qualidade: HD · 1280x720
-
-canal: Sony One Emoções
-categoria: Filmes e Séries
-logo: http://logos.appscms.xyz/logos/2025/Sonyone.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324517.m3u8
-qualidade: HD · 1280x720
-
-canal: Studio Universal
-categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/studiouniversal.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108183.ts
-qualidade: FHD
-
-canal: Gloob
-categoria: Infantil
-logo: https://i.imgur.com/N1BUULh.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8887.ts
-qualidade: FHD
-
-canal: Gloobinho
-categoria: Infantil
-logo: https://i.imgur.com/UWkHErt.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/69037.ts
-qualidade: HD
-
-canal: Kids Mais
-categoria: Infantil
-logo: https://i.imgur.com/86cfDFx.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/1882637.m3u8
-qualidade: SD · 640x360
-
-canal: SBT+ Kids
-categoria: Infantil
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324284.m3u8
-qualidade: HD · 1280x720
-
-canal: TV Rá Tim Bum
-categoria: Infantil
-logo: https://logos.imperioapps.top/TV_RA_TIM_BUM.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9193.ts
-qualidade: FHD · 1920x1080
-
-canal: TV Zyn
-categoria: Infantil
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324286.m3u8
-qualidade: FHD · 1920x1080
-
-canal: Band Campinas
-categoria: TV Aberta
-logo: https://i.imgur.com/1r5T6Pw.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20522.ts
-qualidade: HD
-
-canal: Band Curitiba
-categoria: TV Aberta
-logo: https://i.imgur.com/SOfcdFf.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324354.m3u8
-qualidade: HD · 1280x720
-
-canal: Band MG
-categoria: TV Aberta
-logo: https://i.imgur.com/1r5T6Pw.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324359.m3u8
-qualidade: FHD · 1920x1080
-
-canal: Band Pará
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/band.png
-
-fonte: https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-
-canal: Band Recife TV Tribuna
-categoria: TV Aberta
-logo: https://i.imgur.com/1r5T6Pw.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324364.m3u8
-qualidade: HD · 1280x720
-
-canal: Band RJ
-categoria: TV Aberta
-logo: https://i.imgur.com/1r5T6Pw.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/20524.ts
-qualidade: HD · 1280x720
-
-canal: Band RN
-categoria: TV Aberta
-logo: https://i.imgur.com/1r5T6Pw.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324367.m3u8
-qualidade: HD · 1280x720
-
-canal: Band Sergipe
-categoria: TV Aberta
-logo: https://i.imgur.com/1r5T6Pw.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324370.m3u8
-qualidade: HD · 1280x720
-
-canal: Rede Família
-categoria: TV Aberta
-logo: http://www.fontedecanais.gs/logos/canais/redefamilia.png
-
-fonte: http://186.219.52.187/rede_familia/index.m3u8
-fonte: http://168.197.104.22/REDE_FAMILIA/index.m3u8
-
-canal: SBT Alterosa
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/218366.ts
-qualidade: FHD
-
-canal: SBT BA
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/108770.ts
-
-canal: SBT GO
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324291.m3u8
-qualidade: HD · 1280x720
-
-canal: SBT Londrina
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324312.m3u8
-qualidade: FHD · 1920x1080
-
-canal: SBT MA
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324295.m3u8
-qualidade: HD · 1280x720
-
-canal: SBT Maringá
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324311.m3u8
-qualidade: FHD · 1920x1080
-
-canal: SBT MG
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324296.m3u8
-qualidade: HD · 1280x720
-
-canal: SBT MT
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324297.m3u8
-qualidade: FHD · 1920x1080
-
-canal: SBT PI
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/131432.ts
-qualidade: HD
-
-canal: SBT PR
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/88432.ts
-qualidade: HD
-
-canal: SBT RJ
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/sbt.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDg2ODEubTN1OA.m3u8
-qualidade: FHD
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/131563.ts
-qualidade: FHD
-
-canal: SBT TV Jornal PE
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324313.m3u8
-qualidade: HD · 1280x720
-
-canal: TVE Bahia
-categoria: TV Aberta
-logo: http://i.imgur.com/IWGyp65.jpeg
-
-fonte: http://64.31.23.207:80/59471019/60849037/3459590.m3u8
-qualidade: HD · 1280x720
-
-canal: Tv Goiania
-categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/band.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324373.m3u8
-qualidade: HD · 1280x720
-
-canal: BIS
-categoria: Variedades
-logo: https://i.imgur.com/VUt1lmH.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/107985.ts
-qualidade: FHD
-
-canal: Comedy Central
-categoria: Variedades
-logo: http://logos.appscms.xyz/logos/2025/comedycentral.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324380.m3u8
-qualidade: FHD · 1920x1080
-
-canal: Food Network
-categoria: Variedades
-logo: https://img.faz-o-eli.online/foodnetwork.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8811.ts
-qualidade: FHD
-
-canal: Modo Viagem
-categoria: Variedades
-logo: http://www.fontedecanais.me/logos/canais/modoviagem.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8883.ts
-qualidade: FHD
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103488.ts
-qualidade: 4K
-
-canal: SBT+ Raiz
-categoria: Variedades
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/324285.m3u8
-qualidade: HD · 1280x720
-
-canal: 24H Chaves
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169218.ts
-qualidade: SD · 640x480
-
-canal: 24H Dragon Ball Z
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169226.ts
-qualidade: HD · 1280x720
-
-canal: 24H Naruto Clássico
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
-qualidade: Qualidade não informada
-
-canal: 24H Os Simpsons
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169244.ts
-qualidade: HD · 1280x720
-
-canal: 24H Pica Pau
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_picapau.txt
-qualidade: Qualidade não informada
-
-canal: 24H Todo Mundo Odeia o Cris
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169249.ts
-qualidade: SD · 624x352
-
-canal: 24H Friends
-categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_friends.txt
-qualidade: Qualidade não informada
-
-canal: Discovery World
-categoria: Documentários
-logo: https://img.faz-o-eli.online/discoveryworld.png
-qualidade: SD · 768x432
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/91398.ts
-qualidade: FHD
-
-canal: CazeTV 1
-categoria: Esportes
-logo: https://img.faz-o-eli.online/cazetv.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/245798.ts
-qualidade: HD
-
-canal: CazeTV 2
-categoria: Esportes
-logo: https://img.faz-o-eli.online/cazetv.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zODQ0NjMubTN1OA.m3u8
-qualidade: FHD
-
-canal: PT - A Bola
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_abola.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_abola.txt
-qualidade: Qualidade não informada
-
-canal: PT - Benfica TV
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_benficatv.prev.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_benficatv.txt
-qualidade: Qualidade não informada
-
-canal: PT - Canal 11
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_canal11.prev.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_canal11.txt
-qualidade: Qualidade não informada
-
-canal: PT - Eleven 1
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_eleven1.prev.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven1.txt
-qualidade: Qualidade não informada
-
-canal: PT - Eleven 2
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_eleven2.prev.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven2.txt
-qualidade: Qualidade não informada
-
-canal: PT - Eleven 3
-categoria: Esportes
-logo: https://img.faz-o-eli.online/pt_eleven3.prev.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_eleven3.txt
-qualidade: Qualidade não informada
-
-canal: PT - Sporttv 1
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv1.txt
-qualidade: Qualidade não informada
-
-canal: PT - Sporttv 2
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv2.txt
-qualidade: Qualidade não informada
-
-canal: PT - Sporttv 3
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv3.txt
-qualidade: Qualidade não informada
-
-canal: PT - Sporttv 4
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv4.txt
-qualidade: Qualidade não informada
-
-canal: PT - Sporttv 5
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv5.txt
-qualidade: Qualidade não informada
-
-canal: PT - Sporttv 6
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv6.txt
-qualidade: Qualidade não informada
-
-canal: PT - Sporttv 7
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/pt_sportv7.txt
-qualidade: Qualidade não informada
-
-canal: SportyNet+ 1
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportynet.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus1.txt
-qualidade: Qualidade não informada
-
-canal: SportyNet+ 2
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportynet.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus2.txt
-qualidade: Qualidade não informada
-
-canal: SportyNet+ 3
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportynet.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportynetplus3.txt
-qualidade: Qualidade não informada
-
-canal: Globo AM
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoam.txt
-qualidade: Qualidade não informada
-
-canal: Globo CE
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoce.txt
-qualidade: Qualidade não informada
-
-canal: Globo ES
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.txt
-qualidade: Qualidade não informada
-
-canal: Globo GO
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globogo.txt
-qualidade: Qualidade não informada
-
-canal: Globo PB
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globopb.txt
-qualidade: Qualidade não informada
-
-canal: Globo PE
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globope.txt
-qualidade: Qualidade não informada
-
-canal: Globo RJ
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globorj.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjAyNS5tM3U4.m3u8
-qualidade: FHD
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72025.ts
-qualidade: FHD
-
-canal: Globo RS
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globors.txt
-qualidade: Qualidade não informada
-
-canal: Record GO
-categoria: TV Aberta
-logo: https://i.imgur.com/sz9gTTr.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/106096.ts
-qualidade: HD · 1280x720
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/218822.ts
-qualidade: FHD
-
-canal: Record MG
-categoria: TV Aberta
-logo: https://i.imgur.com/sz9gTTr.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9054.ts
-qualidade: HD
-
-canal: Record RJ
-categoria: TV Aberta
-logo: https://i.imgur.com/sz9gTTr.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/106638.ts
-qualidade: FHD
-
-canal: HGTV
-categoria: Variedades
-logo: https://img.faz-o-eli.online/hgtv.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/304506.ts
-qualidade: FHD
-
-canal: MTV
-categoria: Variedades
-logo: https://img.faz-o-eli.online/mtv.png
-
-fonte: https://16-5-0-235.sslip.io/mtv/index.m3u8
-
-canal: A Fazenda 18 1
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470061.ts
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 2
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470062.ts
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 3
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470063.ts
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 4
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470064.ts
-qualidade: HD · 1280x720
-
-canal: A Fazenda 18 5
-categoria: PPV
-logo: https://img.faz-o-eli.online/afazenda2.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470065.ts
-qualidade: HD · 1280x720
-
-canal: CazeTV 3
-categoria: Esportes
-logo: https://img.faz-o-eli.online/cazetv.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/caze3.txt
-qualidade: Qualidade não informada
-
-canal: Globo DF
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/131151.ts
-qualidade: FHD
-
-canal: Globo MG
-categoria: TV Aberta
-logo: https://img.faz-o-eli.online/globosp.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/131200.ts
-qualidade: FHD
-
-canal: MAX 03
-categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/max.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/594011.ts
-qualidade: FHD
-
-canal: Amazon Prime Video 04
-categoria: Esportes
-logo: https://img.faz-o-eli.online/primevideo.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo4.txt
-qualidade: Qualidade não informada
-
-canal: SporTV 4
-categoria: Esportes
-logo: https://img.faz-o-eli.online/sportv4.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNzYwOTMubTN1OA.m3u8
-qualidade: 4K
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/570369.ts
-qualidade: FHD
-
-canal: Star Channel
-categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/starchannel.png
-
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/starchannel.txt
-qualidade: Qualidade não informada
-
-canal: BJJ STARS
-categoria: PPV
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/159276.ts
-qualidade: FHD
-
-canal: Brasileirao Serie C 1
-categoria: Esportes
-logo: http://tvonhdbr.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/157407.ts
-qualidade: FHD
-
-canal: Brasileirao Serie C 2
-categoria: Esportes
-logo: http://tvonhdbr.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/157410.ts
-qualidade: FHD
-
-canal: Brasileirao Serie C 3
-categoria: Esportes
-logo: http://tvonhdbr.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/157413.ts
-qualidade: FHD
-
-canal: Copa do Brasil 1
-categoria: Variedades
-logo: http://tvonhdbr.com/images/9a2901b02f405b562056854b5ab87abb.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/150498.ts
-qualidade: FHD
-
-canal: Copa do Brasil 2
-categoria: Variedades
-logo: http://tvonhdbr.com/images/9a2901b02f405b562056854b5ab87abb.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/150501.ts
-qualidade: FHD
-
-canal: Curta
-categoria: Documentários
-logo: https://i.imgur.com/Rwrh0zU.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/12948.ts
-qualidade: FHD · 1920x1080
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103512.ts
-qualidade: 4K
-
-canal: DOG TV
-categoria: Variedades
-logo: http://tvonhdbr.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178517.ts
-qualidade: 4K
-
-canal: Eurochannel
-categoria: Notícias
-logo: http://tvonhdbr.com/images/e319732e23a51cafb209d07c7a26c615.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/104910.ts
-qualidade: FHD
-
-canal: FashionTV
-categoria: Variedades
-logo: https://i.imgur.com/cZWKyuM.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103503.ts
-qualidade: 4K
-
-canal: Film&Arts
-categoria: Filmes e Séries
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178518.ts
-qualidade: 4K
-
-canal: Formula 1 TV
-categoria: PPV
-logo: https://imgur.com/a/jyyyawL
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/71947.ts
-qualidade: FHD
-
-canal: France 24
-categoria: Notícias
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103500.ts
-qualidade: 4K
-
-canal: Copa do Brasil 3
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/142040.ts
-qualidade: FHD
-
-canal: Max 4
-categoria: Filmes e Séries
-logo: http://tvonhdbr.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140507.ts
-qualidade: FHD
-
-canal: Max 5
-categoria: Filmes e Séries
-logo: http://tvonhdbr.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140508.ts
-qualidade: FHD
-
-canal: Max 6
-categoria: Filmes e Séries
-logo: http://tvonhdbr.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140509.ts
-qualidade: FHD
-
-canal: Liga Futsal 1
-categoria: Esportes
-logo: http://tvonhdbr.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/73006.ts
-qualidade: FHD
-
-canal: Liga Futsal 2
-categoria: Esportes
-logo: http://tvonhdbr.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/155742.ts
-qualidade: FHD
-
-canal: Liga Futsal 3
-categoria: Esportes
-logo: http://tvonhdbr.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/156663.ts
-qualidade: FHD
-
-canal: Liga Futsal 4
-categoria: Esportes
-logo: http://tvonhdbr.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/156666.ts
-qualidade: FHD
-
-canal: Markket
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/164026.ts
-qualidade: 4K
-
-canal: NBA League Pass 1
-categoria: Esportes
-logo: https://i.imgur.com/ynW8fZF.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140516.ts
-qualidade: FHD
-
-canal: NBA League Pass 2
-categoria: Esportes
-logo: https://i.imgur.com/ynW8fZF.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140519.ts
-qualidade: FHD
-
-canal: NBA League Pass 3
-categoria: Esportes
-logo: https://i.imgur.com/ynW8fZF.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140522.ts
-qualidade: FHD
-
-canal: NBA League Pass 4
-categoria: Esportes
-logo: https://i.imgur.com/ynW8fZF.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140525.ts
-qualidade: FHD
-
-canal: NBA League Pass 5
-categoria: Esportes
-logo: https://i.imgur.com/ynW8fZF.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/141487.ts
-qualidade: FHD
-
-canal: NBA League Pass 6
-categoria: Esportes
-logo: https://i.imgur.com/ynW8fZF.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/141490.ts
-qualidade: FHD
-
-canal: SportyNet 4
-categoria: Esportes
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184584.ts
-qualidade: FHD
-
-canal: SportyNet
-categoria: Esportes
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1165167.ts
-qualidade: HD · 1280x720
-
-canal: OneFootball 1
-categoria: PPV
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/185800.ts
-qualidade: FHD
-
-canal: Paramount + 4
-categoria: Variedades
-logo: http://tvonhdbr.com/images/a2297e25c35601bed705a676d70e41df.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103521.ts
-qualidade: 4K
-
-canal: Paramount Channel
-categoria: Filmes e Séries
-logo: http://tvonhdbr.com/static/logos/canais/paramount.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72217.ts
-qualidade: FHD
-
-canal: Prime Box Brazil
-categoria: Variedades
-logo: https://i.imgur.com/BMqSDNn.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103476.ts
-qualidade: 4K
-
-canal: Sabor & Arte
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/112017.ts
-qualidade: FHD
-
-canal: SYFY
-categoria: Filmes e Séries
-logo: http://tvonhdbr.com/static/logos/canais/syfy.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103474.ts
-qualidade: 4K
-
-canal: UFC Fight Pass
-categoria: PPV
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/184046.ts
-qualidade: FHD
-
-canal: Zoomoo
-categoria: Infantil
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9230.ts
-qualidade: HD
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/178533.ts
-qualidade: 4K
-
-canal: 101 Dalmatas
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169265.ts
-qualidade: HD · 1280x720
-
-canal: A Beleza Secreta dos Animais
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138011.ts
-qualidade: HD · 1280x720
-
-canal: Aladdin
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138730.ts
-qualidade: SD · 630x480
-
-canal: As Aventuras do Gato de Botas
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/10eb05c9613316dfb3cb1a39efdf13e0.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140528.ts
-qualidade: HD · 1280x720
-
-canal: Cameras Escondidas Silvio Santos
-categoria: 24 Horas
-logo: http://tvonhdbr.com/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/152014.ts
-qualidade: HD · 1280x720
-
-canal: Caverna do Dragao
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169296.ts
-qualidade: HD · 1280x960
-
-canal: Chapolin Colorado
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169217.ts
-qualidade: HD · 1280x720
-
-canal: Dois Homens e Meio
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169221.ts
-qualidade: HD · 1280x720
-
-canal: Dora Aventureira
-categoria: 24 Horas
-logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j30WV7vDXXorlbdKEHgl74stDml.jpg
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169304.ts
-qualidade: SD · 720x480
-
-canal: Dragon Ball Super - Saga Deus da Destruicao Bills
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135484.ts
-qualidade: HD · 1280x720
-
-canal: Dragon Ball Super - Trunks do Futuro
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135487.ts
-qualidade: HD · 1280x720
-
-canal: Escolinha do Professor Raimundo
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/151df67d8d15f1c0c39c7779f27935b6.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137611.ts
-qualidade: SD · 594x456
-
-canal: Eu a Patroa e as Criancas
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138020.ts
-qualidade: HD · 1280x720
-
-canal: Game Shakers
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138007.ts
-qualidade: HD · 1280x720
-
-canal: He Man e Os Defensores do Universo
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135514.ts
-qualidade: SD · 704x574
-
-canal: Largados e Pelados
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145928.ts
-qualidade: HD · 1280x720
-
-canal: Mestres da Sobrevivencia
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/401f441af8a5f5b0211c085d1d755d95.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137129.ts
-qualidade: HD · 1280x720
-
-canal: Nicky Ricky Dicky e Dawn
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145939.ts
-qualidade: HD · 1280x720
-
-canal: Um Maluco no Pedaco
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169252.ts
-qualidade: HD · 1280x960
-
-canal: Furacao Live
-categoria: PPV
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/192079.ts
-qualidade: FHD
-
-canal: Live TV
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/192625.ts
-qualidade: FHD
-
-canal: Copa do Brasil 4
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/193253.ts
-qualidade: FHD
-
-canal: League Cup
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/203509.ts
-qualidade: FHD
-
-canal: FCF TV 1
-categoria: PPV
-
-fonte: http://vivlar.me:80/497238/KK8Kdy/247976.ts
-qualidade: FHD
-
-canal: FCF TV 2
-categoria: PPV
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/247979.ts
-qualidade: FHD
-
-canal: Carros Irado
-categoria: 24 Horas
-logo: http://24horas.cc:80/images/2dd914ca34a6a1ad2bdbb727f3e51140.jpg
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/255224.ts
-qualidade: HD · 1280x720
-
-canal: Mr. Olympia TV
-categoria: PPV
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/289535.ts
-qualidade: FHD
-
-canal: CNBC Brasil
-categoria: Notícias
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/295480.ts
-qualidade: 4K
-
-canal: Brasileirao Serie A
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317063.ts
-qualidade: FHD
-
-canal: Andorra x Malta
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317686.ts
-qualidade: FHD · 1920x1080
-
-canal: Holanda x Alemanha
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317687.ts
-qualidade: Qualidade não informada
-
-canal: Sérvia x Grécia
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317688.ts
-qualidade: Qualidade não informada
-
-canal: Noruega x Dinamarca
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317689.ts
-qualidade: Qualidade não informada
-
-canal: Portugal x País de Gales
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317690.ts
-qualidade: FHD · 1920x1080
-
-canal: Áustria x Israel
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317691.ts
-qualidade: FHD · 1920x1080
-
-canal: Kosovo x Irlanda
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317692.ts
-qualidade: FHD · 1920x1080
-
-canal: Liechtenstein x Lituânia
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317693.ts
-qualidade: FHD · 1920x1080
-
-canal: Informações em Breve
-categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/317694.ts
-qualidade: FHD · 1920x1080
-
-canal: Gladiadores da Natureza
-categoria: 24 Horas
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/371456.ts
-qualidade: FHD · 1920x1080
-
-canal: Barretos 2026
-categoria: PPV
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/393722.ts
-qualidade: FHD
-
-canal: A Fazenda Cam 1
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397317.ts
-qualidade: FHD
-
-canal: A Fazenda Cam 2
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397320.ts
-qualidade: FHD
-
-canal: A Fazenda Cam 3
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397321.ts
-qualidade: FHD
-
-canal: A Fazenda Cam 4
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397322.ts
-qualidade: FHD
-
-canal: A Fazenda Cam 5
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397323.ts
-qualidade: FHD
-
-canal: A Fazenda Cam 6
-categoria: Variedades
-
-fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/397324.ts
-qualidade: FHD
-
-canal: NOSSO FUTEBOL 01
-categoria: PPV
-logo: http://www.imgu.top/logos/nosso-futebol250.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/227505.ts
-qualidade: Qualidade não informada
-
-canal: MAX 07
-categoria: Filmes e Séries
-logo: http://i.postimg.cc/L52gtQpb/BeDFSlD.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvOTg2MDQ5Lm0zdTg.m3u8
-qualidade: HD
-
-canal: MAX 08
-categoria: Filmes e Séries
-logo: http://i.postimg.cc/L52gtQpb/BeDFSlD.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTQ0ODQzMC5tM3U4.m3u8
-qualidade: HD
-
-canal: PREMIERE 8 MOSAICO
-categoria: Esportes
-logo: http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30063.ts
-qualidade: FHD
-
-canal: JOGOS DE HOJE
-categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/339310.ts
-qualidade: HD · 1280x720
-
-canal: NBA TV
-categoria: PPV
-logo: http://i.postimg.cc/hjf15W4k/nbatv.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/598890.ts
-qualidade: Qualidade não informada
-
-canal: NETFLIX LUTAS
-categoria: PPV
-logo: http://s2-techtudo.glbimg.com/1PV-HCyKJ4cjdq9c_1Wp7QwU5cE=/0x0:1142x567/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2024/B/G/QOppYiRA21yAyyaFws0w/jake-paul-mike-tyson-3-.jpg
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/591951.ts
-qualidade: Qualidade não informada
-
-canal: A FAZENDA 18 MOSAICO
-categoria: Variedades
-logo: https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/2470067.ts
-qualidade: HD · 1280x720
-
-canal: CHAPOLIN
-categoria: 24 Horas
-logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169216.ts
-qualidade: HD · 1280x720
-
-canal: Disney Plus 1
-categoria: Filmes e Séries
-logo: https://vipcanais.net/images/disneyplus.png
-
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus1/disneyplus1.m3u8
-qualidade: Qualidade não informada
-
-canal: Disney Plus 2
-categoria: Filmes e Séries
-logo: https://vipcanais.net/images/disneyplus.png
-
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus2/disneyplus2.m3u8
-qualidade: Qualidade não informada
-
-canal: Disney Plus 3
-categoria: Filmes e Séries
-logo: https://vipcanais.net/images/disneyplus.png
-
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus3/disneyplus3.m3u8
-qualidade: Qualidade não informada
-
-canal: Paramount Plus 1
-categoria: Filmes e Séries
-logo: https://vipcanais.net/images/paramountplus.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTkwLm0zdTg.m3u8
-qualidade: HD
-
-canal: Paramount Plus 2
-categoria: Filmes e Séries
-logo: https://vipcanais.net/images/paramountplus.png
-
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTkxLm0zdTg.m3u8
-qualidade: HD
-
-canal: Prime Video 3
-categoria: Filmes e Séries
-logo: https://vipcanais.net/images/amazonprimevideo.png
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo3/primevideo3.m3u8
-qualidade: Qualidade não informada
-
-canal: A Caçadora de Relíquias
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG_1745618050777.png
-fonte: https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
-qualidade: HD · 1280x720
-
-canal: Avatar: A lenda de Aang
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
-qualidade: SD · 1216x684
-
-canal: Baby Shark TV
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
-qualidade: HD · 1280x720
-
-canal: Beyblade
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA1NDMubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: CSI: Miami
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-qualidade: HD · 1280x720
-
-canal: Caçadores de Óvnis
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG_1732041732595.png
-fonte: https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
-qualidade: HD · 1280x720
-
-canal: Charmed: Jovens Bruxas
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png
-fonte: https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-qualidade: SD · 1216x684
-
-canal: Cocoricó
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTMubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: Death Note
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-625464a945b6a200079257d1.m3u8
-qualidade: HD · 1280x720
-
-canal: Diff’rent Strokes Arnold
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-qualidade: HD · 1280x720
-
-canal: Hunter x Hunter
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-65d9167818036500080e8780.m3u8
-qualidade: SD · 1216x684
-
-canal: Inspetor Bugiganga
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/69162648d03565d6c8c8df97/colorLogoPNG_1769479138027.png
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTUubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: Inuyasha
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-66b26681d2d50d00083abe8b.m3u8
-qualidade: SD · 1216x684
-
-canal: JoJo’s Bizarre Adventure
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-66c7982f6838ee00085f0d24.m3u8
-qualidade: SD · 1216x684
-
-canal: Jornada nas Estrelas A Nova Geração
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png
-fonte: https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
-qualidade: SD · 1216x684
-
-canal: Jornada nas Estrelas Deep Space Nine
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png
-fonte: https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
-qualidade: SD · 1216x684
-
-canal: Jornada nas Estrelas Voyager
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png
-fonte: https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
-qualidade: SD · 1216x684
-
-canal: Kenan & Kel
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
-qualidade: HD · 1280x720
-
-canal: MTV Are you the One?
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
-qualidade: HD · 1280x720
-
-canal: MTV Catfish
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
-qualidade: HD · 1280x720
-
-canal: MTV Com o Ex
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-qualidade: HD · 1280x720
-
-canal: MTV Jovens e Mães
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
-qualidade: HD · 1280x720
-
-canal: MTV Rupaul's Drag Race
-categoria: 24 Horas
-fonte: https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
-qualidade: HD · 1280x720
-
-canal: MTV Shore
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
-qualidade: SD · 1216x684
-
-canal: MacGyver
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-qualidade: HD · 1280x720
-
-canal: MasterChef Brasil Profissionais
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/681110afc188aa63faa147e0/colorLogoPNG_1749226372857.png
-fonte: https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
-qualidade: SD · 1216x684
-
-canal: Moranguinho
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8
-qualidade: HD · 1280x720
-
-canal: NCIS
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-qualidade: HD · 1280x720
-
-canal: Naruto
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
-qualidade: HD · 1280x720
-
-canal: Naruto Shippuden
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG_1785430970647.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169241.ts
-qualidade: Qualidade não informada
-
-canal: NickOnline Bob Esponja
-categoria: 24 Horas
-logo: https://x1colegal.com/nickonlinebobesponja.png
-fonte: https://bob.x1colegal.com/hls/stream.m3u8
-qualidade: HD · 1280x720
-
-canal: Numbers
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png
-fonte: https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
-qualidade: SD · 1216x684
-
-canal: O Encantador de Cães
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
-qualidade: HD · 1280x720
-
-canal: Oggy e as Baratas Tontas
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
-qualidade: HD · 1280x720
-
-canal: One Piece
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0NjMubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: Os Arquivos do FBI
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-620d12a82e8ac50007c269c3.m3u8
-qualidade: HD · 1280x720
-
-canal: Os Padrinhos Mágicos
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1NDYubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: Os Smurfs
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG_1762273919644.png
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzY4MTcubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: Pegadinhas Just for Laughs
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
-qualidade: HD · 1280x720
-
-canal: Pokémon
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/687007a8ee4155e89a8f6d67/colorLogoPNG_1752174174089.png
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3OTYubTN1OA.m3u8
-qualidade: Qualidade não informada
-
-canal: Popeye
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
-qualidade: HD · 1280x720
-
-canal: Rookie Blue
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png
-fonte: https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
-qualidade: SD · 1216x684
-
-canal: Sony One Shark Tank Brasil
-categoria: 24 Horas
-logo: https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png
-fonte: https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-qualidade: SD · 1216x684
 
 canal: South Park: Coleção Stan
 categoria: 24 Horas
@@ -3877,6 +3352,20 @@ categoria: 24 Horas
 logo: https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG_1786485992908.png
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc2MTIubTN1OA.m3u8
 qualidade: Qualidade não informada
+
+canal: Yu-Gi-Oh
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png
+
+fonte: https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
+qualidade: HD · 1280x720
+
+canal: Z Nation
+categoria: 24 Horas
+logo: https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG_1785430432127.png
+
+fonte: https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
+qualidade: SD · 1216x684
 
 canal: 3 Palavrinhas
 categoria: 24 Horas
