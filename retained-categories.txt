@@ -64,6 +64,8 @@ canal: Bob Esponja Calça Quadrada
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/138065.m3u8
+qualidade: HD · 1280x962
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138065.ts
 qualidade: HD · 1280x962
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwNjUubTN1OA.m3u8
@@ -163,6 +165,8 @@ qualidade: SD · 1216x684
 canal: Cocoricó
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169301.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/156653.ts
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTMubTN1OA.m3u8
@@ -174,8 +178,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/156653.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/156653.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169301.ts
 qualidade: Qualidade não informada
 
 canal: Comedy Central Pluto TV
@@ -1163,6 +1165,8 @@ qualidade: SD · 1216x684
 canal: Turma da Mônica
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG_1786485992908.png
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169251.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137612.ts
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc2MTIubTN1OA.m3u8
@@ -1174,8 +1178,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137612.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137612.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169251.ts
 qualidade: Qualidade não informada
 
 canal: Yu-Gi-Oh
@@ -1196,6 +1198,8 @@ canal: AEROPORTO AREA RESTRITA
 categoria: 24 Horas
 logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/150488.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/150488.ts
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/2945300.m3u8
@@ -1230,6 +1234,8 @@ canal: 24H Chaves
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/137139.m3u8
+qualidade: SD · 640x480
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169218.ts
 qualidade: SD · 640x480
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169219.ts
@@ -1285,6 +1291,8 @@ canal: 24H Dragon Ball Z
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_dragonball/24h_dragonball.m3u8
+qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169226.ts
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169226.ts
@@ -1296,15 +1304,17 @@ canal: 24H Naruto Clássico
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
-qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_naruto/24h_naruto.m3u8
+qualidade: Qualidade não informada
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
 qualidade: Qualidade não informada
 
 canal: 24H Os Simpsons
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/135601.m3u8
+qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169244.ts
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169244.ts
@@ -1508,6 +1518,8 @@ canal: 24H Pica Pau
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/136821.m3u8
+qualidade: SD · 640x480
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_picapau.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_picapau/24h_picapau.m3u8
@@ -1523,6 +1535,8 @@ canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/135469.m3u8
+qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169249.ts
 qualidade: SD · 624x352
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169249.ts
@@ -1558,6 +1572,8 @@ canal: 24H Friends
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/138814.m3u8
+qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_friends.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_friends/24h_friends.m3u8
@@ -1627,6 +1643,8 @@ canal: 101 Dalmatas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/137614.m3u8
+qualidade: HD · 1280x960
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169265.ts
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169265.ts
@@ -1641,6 +1659,10 @@ qualidade: Qualidade não informada
 canal: 3 Palavrinhas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/6ffade7e04c100216dd44af113cd1740.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169203.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169267.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138711.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/138711.ts
@@ -1650,10 +1672,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138711.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/138711.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169203.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169267.ts
 qualidade: Qualidade não informada
 
 canal: 44 Gatos
@@ -1674,6 +1692,8 @@ canal: A Beleza Secreta dos Animais
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/138011.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138011.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138011.ts
@@ -1720,6 +1740,8 @@ qualidade: Qualidade não informada
 canal: A Casa do Mickey Mouse
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/58ca41a6eb561bbe5d5f6c94150a736a.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169204.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137412.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/137412.ts
@@ -1729,8 +1751,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137412.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137412.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169204.ts
 qualidade: Qualidade não informada
 
 canal: A Casa Magica da Gabby
@@ -2036,6 +2056,8 @@ qualidade: Qualidade não informada
 canal: A Pantera Cor de Rosa
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/fc613fe48151546515c9747ae28fe4a4.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169205.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135537.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135537.ts
@@ -2046,12 +2068,12 @@ fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135537.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135537.ts
 qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169205.ts
-qualidade: Qualidade não informada
 
 canal: A Pequena Sereia
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/3b8e2365585f8301904e092b8f649c8d.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169271.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135538.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135538.ts
@@ -2061,8 +2083,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135538.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135538.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169271.ts
 qualidade: Qualidade não informada
 
 canal: A Turma do Charlie Brown e Snoopy
@@ -2110,6 +2130,8 @@ qualidade: Qualidade não informada
 canal: A Vaca e o Frango
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2b9373d665b9bd5e57558e234587f581.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169272.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135553.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135553.ts
@@ -2119,8 +2141,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135553.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135553.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169272.ts
 qualidade: Qualidade não informada
 
 canal: A Vila
@@ -2215,6 +2235,8 @@ canal: Aladdin
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/138730.m3u8
+qualidade: SD · 630x480
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138730.ts
 qualidade: SD · 630x480
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138730.ts
@@ -2477,6 +2499,8 @@ qualidade: Qualidade não informada
 canal: As Aventuras de Jackie Chan
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2ed6da1882d60bc49eab78574b84acd6.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169208.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135542.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135542.ts
@@ -2486,8 +2510,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135542.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135542.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169208.ts
 qualidade: Qualidade não informada
 
 canal: As Aventuras do Batman
@@ -2508,6 +2530,8 @@ canal: As Aventuras do Gato de Botas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/10eb05c9613316dfb3cb1a39efdf13e0.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/140528.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140528.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140528.ts
@@ -2520,6 +2544,8 @@ qualidade: Qualidade não informada
 canal: As Meninas Superpoderosas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/de04b0a79d5ccf0794e513cc8ec345f3.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169280.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137138.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/137138.ts
@@ -2529,8 +2555,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137138.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137138.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169280.ts
 qualidade: Qualidade não informada
 
 canal: As Novas Aventuras de Christine
@@ -2592,6 +2616,8 @@ qualidade: Qualidade não informada
 canal: As Tartarugas Ninja
 categoria: 24 Horas
 logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/avc9BrdkhlIEDg4pccwaM0Z1IxV.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169263.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/151613.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/151613.ts
@@ -2626,8 +2652,6 @@ fonte: http://vivlar.me:80/497238/KK8Kdy/151616.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/151617.ts
 qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169263.ts
-qualidade: Qualidade não informada
 
 canal: As Terriveis Aventuras de Billy e Mandy
 categoria: 24 Horas
@@ -2646,6 +2670,8 @@ qualidade: Qualidade não informada
 canal: As Visoes da Raven
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/27b7cc0e3877f799e884a73051abc2b3.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169209.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135558.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135558.ts
@@ -2655,8 +2681,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135558.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135558.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169209.ts
 qualidade: Qualidade não informada
 
 canal: Austin e Ally
@@ -2760,6 +2784,8 @@ qualidade: Qualidade não informada
 canal: Ben 10
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/af8a118a629056bc6c13d5e4ee5f0102.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169288.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138715.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/138715.ts
@@ -2789,8 +2815,6 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/138718.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169262.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169288.ts
 qualidade: Qualidade não informada
 
 canal: Betty a Feia
@@ -3160,6 +3184,8 @@ qualidade: Qualidade não informada
 canal: Boku No Hero Academia
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/58047377efae39d54436775f79194817.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169212.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138769.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/138769.ts
@@ -3187,8 +3213,6 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/138771.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/138772.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169212.ts
 qualidade: Qualidade não informada
 
 canal: Brilhante Victoria
@@ -3237,6 +3261,8 @@ canal: Cameras Escondidas Silvio Santos
 categoria: 24 Horas
 logo: http://tvonhdbr.com/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/152014.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/152014.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/152014.ts
@@ -3312,6 +3338,8 @@ canal: Caverna do Dragao
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/135454.m3u8
+qualidade: HD · 1280x962
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169296.ts
 qualidade: HD · 1280x960
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169296.ts
@@ -3329,6 +3357,8 @@ canal: Chapolin Colorado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/138000.m3u8
+qualidade: HD · 960x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169217.ts
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169217.ts
@@ -3379,6 +3409,10 @@ qualidade: Qualidade não informada
 canal: Chaves Em Desenho Animado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/ddef6c327b41ab41bbdf7c316916f0d1.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169297.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169220.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140735.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/140735.ts
@@ -3388,10 +3422,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140735.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/140735.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169297.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169220.ts
 qualidade: Qualidade não informada
 
 canal: Chesapeake Shores
@@ -3633,6 +3663,8 @@ qualidade: Qualidade não informada
 canal: Corrida Maluca
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/0db043eab05443c04f574f99cd2417a2.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169303.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145378.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/145378.ts
@@ -3642,8 +3674,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145378.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/145378.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169303.ts
 qualidade: Qualidade não informada
 
 canal: Cosmos Mundos Possiveis
@@ -3800,6 +3830,8 @@ canal: Dois Homens e Meio
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/137623.m3u8
+qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169221.ts
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169221.ts
@@ -3895,6 +3927,8 @@ canal: Dora Aventureira
 categoria: 24 Horas
 logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j30WV7vDXXorlbdKEHgl74stDml.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/151949.m3u8
+qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169304.ts
 qualidade: SD · 720x480
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169304.ts
@@ -3909,6 +3943,8 @@ qualidade: Qualidade não informada
 canal: Doug
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/979b036ffcad37c3f06e64e36d31daa4.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169305.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135552.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135552.ts
@@ -3918,8 +3954,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135552.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135552.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169305.ts
 qualidade: Qualidade não informada
 
 canal: Dragon Ball Classico
@@ -3939,6 +3973,8 @@ qualidade: Qualidade não informada
 canal: Dragon Ball GT
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/3e4e0cb675028ef55ca2dfd740c829e3.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169223.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135483.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135483.ts
@@ -3948,8 +3984,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135483.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135483.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169223.ts
 qualidade: Qualidade não informada
 
 canal: Dragon Ball Super - Golden Freeza
@@ -3970,6 +4004,8 @@ canal: Dragon Ball Super - Saga Deus da Destruicao Bills
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/135484.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135484.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135484.ts
@@ -3998,6 +4034,8 @@ canal: Dragon Ball Super - Trunks do Futuro
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/135487.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135487.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135487.ts
@@ -4254,6 +4292,8 @@ canal: Escolinha do Professor Raimundo
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/151df67d8d15f1c0c39c7779f27935b6.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/137611.m3u8
+qualidade: SD · 594x456
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137611.ts
 qualidade: SD · 594x456
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137611.ts
@@ -4339,6 +4379,8 @@ canal: Eu a Patroa e as Criancas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/138020.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138020.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138020.ts
@@ -4390,6 +4432,10 @@ qualidade: Qualidade não informada
 canal: Formiga Atomica
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/585195c7010576f3063ce0452e4e86f7.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169309.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169231.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135545.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135545.ts
@@ -4399,10 +4445,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135545.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135545.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169309.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169231.ts
 qualidade: Qualidade não informada
 
 canal: Formula 1 Dirigir Para Viver
@@ -4493,6 +4535,8 @@ canal: Game Shakers
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/138007.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138007.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138007.ts
@@ -4575,6 +4619,8 @@ canal: He Man e Os Defensores do Universo
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/135514.m3u8
+qualidade: SD · 704x574
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135514.ts
 qualidade: SD · 704x574
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135514.ts
@@ -4675,6 +4721,8 @@ qualidade: Qualidade não informada
 canal: Hora de Aventura
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2d0041eac4bd28e01a90ecf5ec0dcad6.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169273.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135526.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135526.ts
@@ -4738,8 +4786,6 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135518.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135517.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169273.ts
 qualidade: Qualidade não informada
 
 canal: Hora do Recreio
@@ -5300,6 +5346,8 @@ canal: Largados e Pelados
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/145928.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145928.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145928.ts
@@ -5578,6 +5626,8 @@ canal: Mestres da Sobrevivencia
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/401f441af8a5f5b0211c085d1d755d95.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/137129.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137129.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137129.ts
@@ -5829,6 +5879,8 @@ canal: Nicky Ricky Dicky e Dawn
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/145939.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145939.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145939.ts
@@ -6548,6 +6600,8 @@ qualidade: Qualidade não informada
 canal: Patrulha Canina
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/51a9a083b2e5c7f4babdd23e639dddab.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169247.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135547.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135547.ts
@@ -6557,8 +6611,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135547.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135547.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169247.ts
 qualidade: Qualidade não informada
 
 canal: Pe na Cova
@@ -7866,6 +7918,8 @@ qualidade: Qualidade não informada
 canal: Sítio do Picapau Amarelo
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/15e33e0696bca298b9d73aa66f162fcf.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169256.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137024.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/137024.ts
@@ -7887,8 +7941,6 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137025.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137026.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169256.ts
 qualidade: Qualidade não informada
 
 canal: Ta Puxado
@@ -7974,6 +8026,8 @@ qualidade: Qualidade não informada
 canal: The Big Bang Theory
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169211.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135456.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135456.ts
@@ -8049,8 +8103,6 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135466.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135467.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169211.ts
 qualidade: Qualidade não informada
 
 canal: The O.C. Um Estranho no Paraiso
@@ -8372,6 +8424,8 @@ qualidade: Qualidade não informada
 canal: Tres Espias Demais
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/b38fe2f6c5884c6d2de18e4cb0cf86b4.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169266.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140758.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/140758.ts
@@ -8381,8 +8435,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/140758.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/140758.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169266.ts
 qualidade: Qualidade não informada
 
 canal: Tubacao
@@ -8443,6 +8495,8 @@ canal: Um Maluco no Pedaco
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/135445.m3u8
+qualidade: HD · 1280x960
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169252.ts
 qualidade: HD · 1280x960
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169252.ts
@@ -8637,6 +8691,8 @@ qualidade: Qualidade não informada
 canal: Vai Que Cola
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169253.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137440.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/137440.ts
@@ -8694,8 +8750,6 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137447.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/137448.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169253.ts
 qualidade: Qualidade não informada
 
 canal: Vampirina
@@ -8929,6 +8983,8 @@ qualidade: Qualidade não informada
 canal: Homem Aranha
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/a33d7452f089cca266c92ead65278631.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169254.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135556.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/135556.ts
@@ -8938,8 +8994,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135556.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/135556.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169254.ts
 qualidade: Qualidade não informada
 
 canal: Minha Mae E Uma Peca
@@ -9162,6 +9216,8 @@ qualidade: Qualidade não informada
 canal: As Aventuras de Sunny Bunnies
 categoria: 24 Horas
 logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPwQyT5XX8OcwDEC7ODEpMg6jkq.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169282.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/223838.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/223838.ts
@@ -9171,8 +9227,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/223838.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/223838.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169282.ts
 qualidade: Qualidade não informada
 
 canal: Capitao Tsubasa
@@ -9206,6 +9260,8 @@ qualidade: Qualidade não informada
 canal: Mr. Bean
 categoria: 24 Horas
 logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pUNQV35kDaKuejnXGNiUeEBurNE.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169240.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/223841.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/223841.ts
@@ -9215,8 +9271,6 @@ qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/223841.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/223841.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169240.ts
 qualidade: Qualidade não informada
 
 canal: Mr. Bean A Serie Animada
@@ -9801,6 +9855,8 @@ canal: Carros Irado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2dd914ca34a6a1ad2bdbb727f3e51140.jpg
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/255224.m3u8
+qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/255224.ts
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/255224.ts
@@ -9936,6 +9992,8 @@ qualidade: Qualidade não informada
 canal: A Guarda do Leao
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/079f94a60f19a6c81ff71f9c3bb65960.jpg
+fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169270.ts
+qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/306832.ts
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/live/493754/NqCxf1/306832.ts
@@ -9957,8 +10015,6 @@ qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/306833.ts
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/497238/KK8Kdy/306834.ts
-qualidade: Qualidade não informada
-fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169270.ts
 qualidade: Qualidade não informada
 
 canal: Go Go Loser Ranger
@@ -10810,6 +10866,8 @@ qualidade: Qualidade não informada
 canal: Gladiadores da Natureza
 categoria: 24 Horas
 
+fonte: http://vivlar.me:80/live/497238/KK8Kdy/371456.m3u8
+qualidade: FHD · 1920x1080
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/371456.ts
 qualidade: FHD · 1920x1080
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/371456.ts
@@ -10926,57 +10984,57 @@ qualidade: Qualidade não informada
 canal: 4 CONTRA APOCALIPSE
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169268.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169268.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169268.ts
 qualidade: Qualidade não informada
 
 canal: APENAS UM SHOW
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169277.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169277.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169277.ts
 qualidade: Qualidade não informada
 
 canal: AQUAMAN
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169207.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169207.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169207.ts
 qualidade: Qualidade não informada
 
 canal: B THE BEGINNING
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169283.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169283.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169283.ts
 qualidade: Qualidade não informada
 
 canal: BARBIE
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169285.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169285.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169285.ts
 qualidade: Qualidade não informada
 
 canal: BATMAN DO FUTURO
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169286.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169286.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169286.ts
 qualidade: Qualidade não informada
 
 canal: BEBÊ OGGY
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169287.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169287.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169287.ts
 qualidade: Qualidade não informada
 
 canal: BEN 10 OMINIVERSE
@@ -10990,17 +11048,17 @@ qualidade: Qualidade não informada
 canal: BUBBLE GUPPIES
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169294.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169294.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169294.ts
 qualidade: Qualidade não informada
 
 canal: CADILLACS E DINOSSAUROS
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169213.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169213.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169213.ts
 qualidade: Qualidade não informada
 
 canal: CARMEM SANDIEGO
@@ -11015,6 +11073,8 @@ canal: CHAPOLIN
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
 
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169216.m3u8
+qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169216.ts
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169216.ts
@@ -11031,143 +11091,143 @@ qualidade: Qualidade não informada
 canal: CLEO E CUQUIN
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169300.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169300.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169300.ts
 qualidade: Qualidade não informada
 
 canal: COELHO RICOCHETE
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169302.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169302.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169302.ts
 qualidade: Qualidade não informada
 
 canal: DESENCANTO
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169264.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169264.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169264.ts
 qualidade: Qualidade não informada
 
 canal: DESENHOS BIBLICOS
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169222.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169222.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169222.ts
 qualidade: Qualidade não informada
 
 canal: DRAGON BALL SUPER
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169225.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169225.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169225.ts
 qualidade: Qualidade não informada
 
 canal: DRAGÕES CORRIDA ATÉ O LIMITE
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169306.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169306.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169306.ts
 qualidade: Qualidade não informada
 
 canal: DUCK TALES OS CAÇADORES DE AVENTURAS
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169307.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169307.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169307.ts
 qualidade: Qualidade não informada
 
 canal: FAMILIA DINOUSSAUROS
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169230.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169230.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169230.ts
 qualidade: Qualidade não informada
 
 canal: FINAL SPACE
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169308.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169308.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169308.ts
 qualidade: Qualidade não informada
 
 canal: GALINHA PINTADINHA
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169232.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169232.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169232.ts
 qualidade: Qualidade não informada
 
 canal: GATO FELIX
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169233.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169233.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169233.ts
 qualidade: Qualidade não informada
 
 canal: HULK
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169259.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169259.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169259.ts
 qualidade: Qualidade não informada
 
 canal: ICARLY REVIVAL
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169235.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169235.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169235.ts
 qualidade: Qualidade não informada
 
 canal: JASPION
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169236.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169236.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169236.ts
 qualidade: Qualidade não informada
 
 canal: JIRAYA
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169258.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169258.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169258.ts
 qualidade: Qualidade não informada
 
 canal: O CÃO COVARDE
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169260.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169260.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169260.ts
 qualidade: Qualidade não informada
 
 canal: OS TRAPALHÕES
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169246.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169246.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169246.ts
 qualidade: Qualidade não informada
 
 canal: SMALLVILLE
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169255.ts
-qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169255.ts
+qualidade: Qualidade não informada
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169255.ts
 qualidade: Qualidade não informada
