@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T15:03:58.671168+00:00",
-  "catalogCommit": "57f2097029af0f045611a43e08417e1a5f590bcf",
+  "checkedAt": "2026-10-13T20:41:33.968517+00:00",
+  "catalogCommit": "6986635dcd24c4984fa0e1f9cefa76e957d824ba",
   "application": {
-    "latestRelease": "v2.1.5",
-    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.1.5",
-    "androidCommit": "fe984bed20dd9e556dbf50337972fefbf839e0f4",
+    "latestRelease": "v2.1.6",
+    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.1.6",
+    "androidCommit": "b6907a7e2860c2291a8d21a9739c153ca0907369",
     "reviewedCommit": "2aaafe3",
     "reviewRequired": true,
     "changedFiles": [
@@ -26,6 +26,7 @@
       "app/src/main/java/br/com/saimo/tv/Epg.kt",
       "app/src/main/java/br/com/saimo/tv/EscolhaActivity.kt",
       "app/src/main/java/br/com/saimo/tv/EventosActivity.kt",
+      "app/src/main/java/br/com/saimo/tv/Generos.kt",
       "app/src/main/java/br/com/saimo/tv/GradeActivity.kt",
       "app/src/main/java/br/com/saimo/tv/GuideActivity.kt",
       "app/src/main/java/br/com/saimo/tv/Inicio.kt",
