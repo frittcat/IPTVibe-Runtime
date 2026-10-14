@@ -1348,48 +1348,15 @@ canal: Disney+ 01
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169095.m3u8
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169096.m3u8
 qualidade: HD
 
 canal: Disney+ 02
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/296916.m3u8
-qualidade: HD · 1280x720
-
-canal: Disney+ 03
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169097.m3u8
-qualidade: HD
-
-canal: Disney+ 04
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169098.m3u8
 qualidade: HD
-
-canal: Disney+ 05
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/296919.m3u8
-qualidade: HD · 1280x720
-
-canal: Mr Olympia 01
-categoria: Esportes
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460265.m3u8
-qualidade: HD · 1280x720
-
-canal: Mr Olympia 02
-categoria: Esportes
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460266.m3u8
-qualidade: HD · 1280x720
 
 canal: NBA 01
 categoria: Esportes
@@ -1464,15 +1431,15 @@ canal: Cine SKY 01
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.dev/logos/canais/cinesky.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/1882617.m3u8
-qualidade: FHD · 1920x1080
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13071.m3u8
+qualidade: Qualidade não informada
 
 canal: Cine SKY 02
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/1882618.m3u8
-qualidade: HD · 1280x720
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13072.m3u8
+qualidade: HD · 1920x804
 
 canal: Cine SKY 03
 categoria: Filmes e Séries
@@ -1481,19 +1448,12 @@ logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13073.m3u8
 qualidade: HD · 1920x800
 
-canal: Cine SKY 04
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.org/logos/canais/cinesky.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/1882620.m3u8
-qualidade: HD · 1280x720
-
 canal: Cine SKY 05
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/1882621.m3u8
-qualidade: HD · 1280x934
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13075.m3u8
+qualidade: FHD · 1920x1080
 
 canal: Lifetime
 categoria: Filmes e Séries
@@ -2173,13 +2133,6 @@ categoria: Variedades
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/112017.m3u8
 qualidade: FHD
-
-canal: SYFY
-categoria: Filmes e Séries
-logo: http://tvonhdbr.com/static/logos/canais/syfy.png
-
-fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103474.m3u8
-qualidade: 4K
 
 canal: UFC Fight Pass
 categoria: PPV
