@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-15T11:30:00.128701+00:00",
-  "catalogCommit": "6b59756815f495d18db379bfae6a1ac1512aee4c",
+  "checkedAt": "2026-10-15T15:45:07.696804+00:00",
+  "catalogCommit": "82c375572edde1787dbaa354e470744865dd98f6",
   "application": {
-    "latestRelease": "v2.2.0",
-    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.0",
-    "androidCommit": "10f5f306bf45590ca3aaf66f2dddcf23a0b55d0e",
+    "latestRelease": "v2.2.1",
+    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.1",
+    "androidCommit": "334906024c652c75ef8af6ca01fdf0ef4edcb411",
     "reviewedCommit": "2aaafe3",
     "reviewRequired": true,
     "changedFiles": [
@@ -132,6 +132,7 @@
       "app/src/main/resources/reserva/restritos.txt",
       "app/src/test/java/br/com/saimo/tv/EpgDataTest.kt",
       "app/src/test/java/br/com/saimo/tv/FonteHerdadaTest.kt",
+      "app/src/test/java/br/com/saimo/tv/PlutoGuiaTest.kt",
       "app/src/test/java/br/com/saimo/tv/ReservaTest.kt",
       "patch_events_tv.py",
       "patch_fix.py",
