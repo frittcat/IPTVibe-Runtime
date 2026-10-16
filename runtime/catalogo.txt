@@ -72,35 +72,41 @@ canal: Adult Swim
 categoria: Variedades
 logo: https://img.faz-o-eli.online/adultswim.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/adultswim.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: AMC
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/amc.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/amc.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/amc.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Animal Planet
 categoria: Documentários
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/animalplanet.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Band
 categoria: TV Aberta
 logo: https://i.imgur.com/1r5T6Pw.png
 
-fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+fonte: https://dadinhodetapioca.fun/play/band.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Cartoon Network
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonnetwork.png
 
-fonte: http://45.162.64.114/CARTOON_NETWORK/index.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/cartoonnetwork.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: CNN Brasil
 categoria: Notícias
@@ -181,8 +187,9 @@ canal: History 2
 categoria: Documentários
 logo: https://img.faz-o-eli.online/history2.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/history2.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/history2.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Jovem Pan News
 categoria: Notícias
@@ -251,8 +258,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/premiere5.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Premiere 6
 categoria: Esportes
@@ -261,8 +269,8 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 8bf16a4ba05bcc97e6259297e50be63d:8dd97d486cbdd15cc47ea8c41b264ebb
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/premiere6/premiere6.m3u8
-qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103478.m3u8
+qualidade: 4K
 
 canal: Premiere 7
 categoria: Esportes
@@ -281,8 +289,8 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 19aec31e45751958c1d963435d725f33:fb24357e80520fd600dd43c1d8ce8a7a
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/premiere8/premiere8.m3u8
-qualidade: HD · 1280x720
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/180162.m3u8
+qualidade: 4K
 
 canal: Premiere Clubes
 categoria: Esportes
@@ -291,8 +299,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/premiereclubes.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: SBT
 categoria: TV Aberta
@@ -321,8 +330,9 @@ canal: SporTV
 categoria: Esportes
 logo: https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/sportv.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: SporTV 2
 categoria: Esportes
@@ -331,8 +341,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/sportv2.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: SporTV 3
 categoria: Esportes
@@ -341,8 +352,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/sportv3.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Canal OFF
 categoria: Esportes
@@ -355,22 +367,25 @@ canal: Telecine Action
 categoria: Filmes e Séries
 logo: https://i.imgur.com/BHYWG0h.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/telecineaction.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Telecine Pipoca
 categoria: Filmes e Séries
 logo: https://i.imgur.com/hW9JYXr.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/telecinepipoca.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Telecine Premium
 categoria: Filmes e Séries
 logo: https://i.imgur.com/uVFgIr8.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/telecinepremium.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: TV Brasil
 categoria: TV Aberta
@@ -405,8 +420,9 @@ canal: Warner
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/warnerchannel.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/warnerchannel.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/warnertv.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: IMPD
 categoria: Variedades
@@ -435,31 +451,34 @@ canal: Cinemax
 categoria: Filmes e Séries
 logo: https://i.imgur.com/cZWoJWD.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cinemax/cinemax.m3u8
-qualidade: HD · 1280x720
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.txt
+qualidade: Qualidade não informada
 
 canal: Discovery Channel
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverychannel/discoverychannel.m3u8
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/discoverychannel.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Discovery Kids
 categoria: Infantil
 logo: https://img.faz-o-eli.online/discoverykids.png
 qualidade: HD · 1280x720
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverykids/discoverykids.m3u8
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/discoverykids.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Discovery Theater
 categoria: Documentários
 logo: https://i.imgur.com/T07gvEb.png
 qualidade: HD · 1280x720
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverytheather/discoverytheather.m3u8
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/discoverytheater.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: ESPN
 categoria: Esportes
@@ -472,8 +491,8 @@ canal: ESPN 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn2.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn2/espn2.m3u8
-qualidade: HD · 1280x720
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn2.txt
+qualidade: Qualidade não informada
 
 canal: ESPN 4
 categoria: Esportes
@@ -500,57 +519,64 @@ canal: HBO
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbo/hbo.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/hbo.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: HBO2
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo2.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbo2/hbo2.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/hbo2.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: HBO Family
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbofamily.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbofamily/hbofamily.m3u8
-qualidade: FHD · 1920x1080
+fonte: https://dadinhodetapioca.fun/play/hbofamily.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: HBO Mundi
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbomundi.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbomundi/hbomundi.m3u8
-qualidade: HD · 1280x720
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomundi.txt
+qualidade: Qualidade não informada
 
 canal: HBO Plus
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hboplus.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hboplus/hboplus.m3u8
-qualidade: FHD · 1920x1080
+fonte: https://dadinhodetapioca.fun/play/hboplus.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: HBO Pop
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbopop.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbopop/hbopop.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/hbopop.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: HBO Signature
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
 
-fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/72134.m3u8
+fonte: https://dadinhodetapioca.fun/play/hbosignature.html
 qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: HBO Xtreme
 categoria: Filmes e Séries
 logo: https://www.vertvcable.com/wp-content/uploads/2022/02/hboextreme.jpg
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hboxtreme/hboxtreme.m3u8
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/hboxtreme.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Record
 categoria: TV Aberta
@@ -563,22 +589,25 @@ canal: Space
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/space.png
 
-fonte: http://45.162.64.114/SPACE/index.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/space.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: TNT
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tnt.png
 
-fonte: http://45.162.64.114/TNT/index.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/tnt.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: TNT Séries
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntseries.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntseries.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/tntseries.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Universal TV
 categoria: Filmes e Séries
@@ -616,15 +645,17 @@ canal: Telecine Cult
 categoria: Filmes e Séries
 logo: https://i.imgur.com/6GuHXnr.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/telecinecult.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Telecine Touch
 categoria: Filmes e Séries
 logo: https://i.imgur.com/Nky0hRo.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/telecinetouch.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: SONY Movies
 categoria: Filmes e Séries
@@ -648,8 +679,9 @@ canal: Tooncast
 categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
 
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/125444.m3u8
-qualidade: FHD · 1920x1080
+fonte: https://dadinhodetapioca.fun/play/tooncast.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: TLC
 categoria: Variedades
@@ -671,16 +703,18 @@ canal: TNT Novelas
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntnovelas.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntnovelas.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/tntnovelas.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Discovery Science
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryscience.png
 qualidade: HD · 1280x720
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryscience/discoveryscience.m3u8
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/discoveryscience.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: AXN
 categoria: Filmes e Séries
@@ -806,8 +840,9 @@ canal: Discovery ID
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
-fonte: http://45.162.64.114/DISCOVERY_ID/index.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/discoveryid.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Fish TV
 categoria: Esportes
@@ -829,8 +864,9 @@ canal: X Sports
 categoria: Esportes
 logo: https://img.faz-o-eli.online/xsports.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/xsports.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: N SPORTS
 categoria: Esportes
@@ -1018,8 +1054,9 @@ canal: Discovery Home & Health
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryhh.png
 
-fonte: http://45.162.64.114/DISCOVERY_H_H/index.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/discoveryhh.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Canal Agro
 categoria: Variedades
@@ -1653,8 +1690,9 @@ canal: Food Network
 categoria: Variedades
 logo: https://img.faz-o-eli.online/foodnetwork.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/foodnetwork.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/foodnetwork.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Modo Viagem
 categoria: Variedades
@@ -1717,8 +1755,9 @@ categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
 qualidade: SD · 768x432
 
-fonte: http://45.162.64.114/DISCOVERY_WORLD/index.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/discoveryworld.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: CazeTV 1
 categoria: Esportes
@@ -1927,8 +1966,9 @@ canal: HGTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/hgtv.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hgtv.txt
-qualidade: Qualidade não informada
+fonte: https://dadinhodetapioca.fun/play/hgtv.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: MTV
 categoria: Variedades
@@ -2104,8 +2144,9 @@ qualidade: FHD
 canal: SportyNet
 categoria: Esportes
 
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1165167.m3u8
-qualidade: HD · 1280x720
+fonte: https://dadinhodetapioca.fun/play/sportynet.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Paramount + 4
 categoria: Variedades
@@ -2455,15 +2496,15 @@ canal: Paramount Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/paramountplus/paramountplus.m3u8
-qualidade: Qualidade não informada
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTkwLm0zdTg.m3u8
+qualidade: HD
 
 canal: Paramount Plus 2
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/paramountplus2/paramountplus2.m3u8
-qualidade: Qualidade não informada
+fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTkxLm0zdTg.m3u8
+qualidade: HD
 
 canal: Prime Video 3
 categoria: Filmes e Séries

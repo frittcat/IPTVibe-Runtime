@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-16T09:50:10.136602+00:00",
-  "catalogCommit": "5675bf74084587f368e5296f8f220907a7959e9e",
+  "checkedAt": "2026-10-16T14:51:56.818872+00:00",
+  "catalogCommit": "0387aa2ab7e9a18c8236a75bf6635dae4326026a",
   "application": {
-    "latestRelease": "v2.2.4",
-    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.4",
-    "androidCommit": "400d1b7e3aa6161f6f5b01ba079532f71a901f52",
+    "latestRelease": "v2.2.5",
+    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.5",
+    "androidCommit": "21df8b035eed0291d851bfa277b5fd76f057a2db",
     "reviewedCommit": "2aaafe3",
     "reviewRequired": true,
     "changedFiles": [
@@ -31,6 +31,7 @@
       "app/src/main/java/br/com/saimo/tv/EventosActivity.kt",
       "app/src/main/java/br/com/saimo/tv/Generos.kt",
       "app/src/main/java/br/com/saimo/tv/GradeActivity.kt",
+      "app/src/main/java/br/com/saimo/tv/GuiaDeTv.kt",
       "app/src/main/java/br/com/saimo/tv/GuideActivity.kt",
       "app/src/main/java/br/com/saimo/tv/Inicio.kt",
       "app/src/main/java/br/com/saimo/tv/Legendas.kt",
@@ -38,6 +39,7 @@
       "app/src/main/java/br/com/saimo/tv/MainActivity.kt",
       "app/src/main/java/br/com/saimo/tv/Memoria.kt",
       "app/src/main/java/br/com/saimo/tv/MenuGlobal.kt",
+      "app/src/main/java/br/com/saimo/tv/MeuGuia.kt",
       "app/src/main/java/br/com/saimo/tv/MultiTela.kt",
       "app/src/main/java/br/com/saimo/tv/OfertaDeAtualizacao.kt",
       "app/src/main/java/br/com/saimo/tv/OnDemandActivity.kt",
