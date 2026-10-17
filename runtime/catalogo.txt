@@ -72,9 +72,10 @@ canal: Adult Swim
 categoria: Variedades
 logo: https://img.faz-o-eli.online/adultswim.png
 
-fonte: https://dadinhodetapioca.fun/play/adultswim.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/1167fe66d918c2b48a68300d5dd8d4ca/adultswim.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/adultswim
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: AMC
 categoria: Filmes e Séries
@@ -88,38 +89,41 @@ canal: Animal Planet
 categoria: Documentários
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png
 
-fonte: https://dadinhodetapioca.fun/play/animalplanet.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/b334d79db281e34cdadd49b0feff5c9d/animalplanet.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/animal-planet
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Band
 categoria: TV Aberta
 logo: https://i.imgur.com/1r5T6Pw.png
 
-fonte: https://dadinhodetapioca.fun/play/band.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/730ac1333b65dfb93db561cc2a4f2a53/bandsp.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/band
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Cartoon Network
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonnetwork.png
 
-fonte: https://dadinhodetapioca.fun/play/cartoonnetwork.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/f20eee8ca370156a3e6ee41459384861/cartoonnetwork.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/cartoon-network
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: CNN Brasil
 categoria: Notícias
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png
-agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
-fonte: http://45.162.64.114/CNN_BRASIL/index.m3u8
+fonte: https://aws.s13-s1001604.lat/stream/4b31648104a3eabb9f1982ff6513147d/cnnbrasil.m3u8
 qualidade: HD · 1280x720
+referer: https://meufut.top/cnn-brasil
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: CNN Brasil Money
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png
-agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 fonte: https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
 qualidade: Qualidade não informada
@@ -127,9 +131,6 @@ qualidade: Qualidade não informada
 canal: E!
 categoria: Variedades
 logo: https://commons.wikimedia.org/wiki/Special:FilePath/E%21_Logo_Flat_2012.svg?width=300
-referer: https://painel.play.uol.com.br/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: d021c9ff8ab94c1a583a0f5f2cc82725:7de3fcc29e3194b9c65282a42cb7bec6
 
 fonte: https://video49.mais.uol.com.br/live/4503.mpd
 qualidade: Qualidade não informada
@@ -137,7 +138,6 @@ qualidade: Qualidade não informada
 canal: GE TV
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/ge-tv.png
-agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 qualidade: FHD · 1920x1080
@@ -147,9 +147,6 @@ qualidade: FHD · 1920x1080
 canal: GloboNews
 categoria: Notícias
 logo: https://i.imgur.com/3yZyaCm.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
 
 fonte: http://79.127.238.228:14093
 qualidade: HD · 1280x720
@@ -157,9 +154,6 @@ qualidade: HD · 1280x720
 canal: Globoplay Novelas
 categoria: Filmes e Séries
 logo: https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
 
 fonte: http://79.127.238.228:14455
 qualidade: HD · 1280x720
@@ -167,9 +161,6 @@ qualidade: HD · 1280x720
 canal: GNT
 categoria: Variedades
 logo: https://i.imgur.com/XymcvMy.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61
 
 fonte: http://79.127.238.228:14402
 qualidade: HD · 1280x720
@@ -194,7 +185,6 @@ referer: https://dadinhodetapioca.fun/
 canal: Jovem Pan News
 categoria: Notícias
 logo: https://www.tvlogo.org/brazil/jovem-pan-news-br.png
-agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 fonte: http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 qualidade: FHD · 1920x1080
@@ -204,29 +194,24 @@ qualidade: FHD · 1920x1080
 canal: Megapix
 categoria: Filmes e Séries
 logo: https://i.imgur.com/qTYv5jt.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/4449454c379f5034e01629ff759af317/megapix.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/megapix
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Multishow
 categoria: Variedades
 logo: https://i.imgur.com/bqVg8nT.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 5a93ff790eca6f86ad6adb53929fe1c4:6664fa23d82cbfeaf5cdb2d662bec3b3
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/20aa200451a750a1367af30f8268595a/multishow.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/multishow
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Premiere 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.txt
 qualidade: Qualidade não informada
@@ -234,9 +219,6 @@ qualidade: Qualidade não informada
 canal: Premiere 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.txt
 qualidade: Qualidade não informada
@@ -244,9 +226,6 @@ qualidade: Qualidade não informada
 canal: Premiere 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.txt
 qualidade: Qualidade não informada
@@ -254,9 +233,6 @@ qualidade: Qualidade não informada
 canal: Premiere 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 
 fonte: https://dadinhodetapioca.fun/play/premiere5.html
 qualidade: FHD
@@ -265,9 +241,6 @@ referer: https://dadinhodetapioca.fun/
 canal: Premiere 6
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 8bf16a4ba05bcc97e6259297e50be63d:8dd97d486cbdd15cc47ea8c41b264ebb
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103478.m3u8
 qualidade: 4K
@@ -275,9 +248,6 @@ qualidade: 4K
 canal: Premiere 7
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 238f5cf32228c1877f8b939f5f9d7bd8:47571c93e4335b3d1590a5ae3f5c48ef
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.txt
 qualidade: Qualidade não informada
@@ -285,9 +255,6 @@ qualidade: Qualidade não informada
 canal: Premiere 8
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 19aec31e45751958c1d963435d725f33:fb24357e80520fd600dd43c1d8ce8a7a
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/180162.m3u8
 qualidade: 4K
@@ -295,13 +262,11 @@ qualidade: 4K
 canal: Premiere Clubes
 categoria: Esportes
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 
-fonte: https://dadinhodetapioca.fun/play/premiereclubes.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/20963c6e5d27cc11975d36a05dcb1484/premiere.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/premiere
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: SBT
 categoria: TV Aberta
@@ -313,8 +278,6 @@ qualidade: FHD · 1920x1080
 canal: SBT News
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/sbt-news.png
-referer: https://mais.sbt.com.br/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 
 fonte: https://sbtnews.maissbt.com/index.m3u8
 qualidade: HD · 1280x720
@@ -330,16 +293,14 @@ canal: SporTV
 categoria: Esportes
 logo: https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png
 
-fonte: https://dadinhodetapioca.fun/play/sportv.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/f809a47c8a40c3642b96a3df2c2e563c/sportv.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/sportv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: SporTV 2
 categoria: Esportes
 logo: https://i.imgur.com/pBiUnb2.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 
 fonte: https://dadinhodetapioca.fun/play/sportv2.html
 qualidade: FHD
@@ -348,9 +309,6 @@ referer: https://dadinhodetapioca.fun/
 canal: SporTV 3
 categoria: Esportes
 logo: https://i.imgur.com/mWOR8pi.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 
 fonte: https://dadinhodetapioca.fun/play/sportv3.html
 qualidade: FHD
@@ -399,9 +357,6 @@ qualidade: FHD · 1920x1080
 canal: Universal Premiere
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/universal-premiere.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 3531c1c49b8e63c0b94a8061154e0c58:90e91e6549d2061b793177c70d35e177
 
 fonte: http://45.185.11.126:8000/play/a08m/index.m3u8
 qualidade: FHD · 1920x1080
@@ -409,9 +364,6 @@ qualidade: FHD · 1920x1080
 canal: Universal Reality
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/universal-reality.png
-referer: https://www.primevideo.com/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 4b62d6103d99d62f8daca463d1c15430:2fd0079af0bf85289859fff7b8a4e30f
 
 fonte: http://45.185.11.126:8000/play/a08c/index.m3u8
 qualidade: FHD · 1920x1080
@@ -437,15 +389,19 @@ canal: Globo SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/25c389d4965f4166247f2280886f5cba/globosp.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/globo
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Cartoonito
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonito.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/06fb008bc2fe2c3944c72e0c3ca551d4/cartoonito.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/cartoonito
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Cinemax
 categoria: Filmes e Séries
@@ -458,23 +414,23 @@ canal: Discovery Channel
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
-fonte: https://dadinhodetapioca.fun/play/discoverychannel.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/abda9d242318532ccceeb60faa73e3cf/discoverychannel.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/discovery-channel
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Discovery Kids
 categoria: Infantil
 logo: https://img.faz-o-eli.online/discoverykids.png
-qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/discoverykids.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/86c15a533bf883acfde634c9b2077da0/discoverykids.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/discovery-kids
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Discovery Theater
 categoria: Documentários
 logo: https://i.imgur.com/T07gvEb.png
-qualidade: HD · 1280x720
 
 fonte: https://dadinhodetapioca.fun/play/discoverytheater.html
 qualidade: FHD
@@ -589,9 +545,10 @@ canal: Space
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/space.png
 
-fonte: https://dadinhodetapioca.fun/play/space.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/167cfc64b5af287be1f19fb996d5c7ac/space.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/space
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: TNT
 categoria: Filmes e Séries
@@ -605,27 +562,28 @@ canal: TNT Séries
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntseries.png
 
-fonte: https://dadinhodetapioca.fun/play/tntseries.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/53cae8d46c86aceec5a3928339017e1b/tntseries.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/tnt-series
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Universal TV
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/universaltv.png
-referer: https://www.clarotvmais.com.br/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: 0110de67e8a43229a9afee5fbb1bf34c:14d17ea503859feb50f395a19491a2ea
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/ed870f00aff7cf8192af3737e301669f/universaltv.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/universal-tv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Discovery Turbo
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryturbo.png
-qualidade: HD · 1280x720
 
-fonte: http://45.162.64.114/DISCOVERY_TURBO/index.m3u8
+fonte: https://aws.s13-s1001604.lat/stream/2e2f7fcdd9620e2618134f77cfb70e16/discoveryturbo.m3u8
 qualidade: HD · 1280x720
+referer: https://meufut.top/discovery-turbo
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: USA Network
 categoria: Filmes e Séries
@@ -710,7 +668,6 @@ referer: https://dadinhodetapioca.fun/
 canal: Discovery Science
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryscience.png
-qualidade: HD · 1280x720
 
 fonte: https://dadinhodetapioca.fun/play/discoveryscience.html
 qualidade: FHD
@@ -864,9 +821,10 @@ canal: X Sports
 categoria: Esportes
 logo: https://img.faz-o-eli.online/xsports.png
 
-fonte: https://dadinhodetapioca.fun/play/xsports.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/ab55903cd13c40853a7fead247e75e80/xsports.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/xsports
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: N SPORTS
 categoria: Esportes
@@ -945,10 +903,12 @@ canal: TV Pai Eterno
 categoria: Variedades
 logo: https://i.imgur.com/iuoXchN.png
 
-fonte: http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
-qualidade: HD · 1280x720
 fonte: https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 qualidade: FHD · 1920x1080
+referer: https://meufut.top/tv-pai-eterno
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+qualidade: HD · 1280x720
 fonte: http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 qualidade: HD · 1280x720
 
@@ -1086,6 +1046,8 @@ logo: https://i.imgur.com/GrjGwKM.png
 
 fonte: https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 qualidade: FHD · 1920x1080
+referer: https://meufut.top/com-brasil
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 qualidade: FHD · 1920x1080
 
@@ -1364,8 +1326,10 @@ canal: Combate
 categoria: Esportes
 logo: https://i.imgur.com/ZPYK5jr.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/7d57bfa6e9334f879ac96923e91f97f4/combate.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/combate
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: DAZN (Jogo 1)
 categoria: Esportes
@@ -1690,9 +1654,10 @@ canal: Food Network
 categoria: Variedades
 logo: https://img.faz-o-eli.online/foodnetwork.png
 
-fonte: https://dadinhodetapioca.fun/play/foodnetwork.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/1cabec2a5257e1af7f711a4c7fd32a1e/foodnetwork.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/foodnetwork
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Modo Viagem
 categoria: Variedades
@@ -1712,8 +1677,10 @@ canal: 24H Dragon Ball Z
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_dragonball.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/52e5b4e936ba314127ebe4742e6ae12f/24h_dragonball.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/dragon-ball-z
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: 24H Naruto Clássico
 categoria: 24 Horas
@@ -1726,8 +1693,10 @@ canal: 24H Os Simpsons
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/135601.m3u8
+fonte: https://aws.s13-s1001604.lat/stream/2efddc40d3e9b9d781d88441ec82e8ce/24h_simpsons.m3u8
 qualidade: HD · 1280x720
+referer: https://meufut.top/os-simpsons
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: 24H Pica Pau
 categoria: 24 Horas
@@ -1740,8 +1709,10 @@ canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/135469.m3u8
+fonte: https://aws.s13-s1001604.lat/stream/02bde299980d2c1a30e472930d0a76d8/24h_odeiachris.m3u8
 qualidade: HD · 1280x720
+referer: https://meufut.top/todo-mundo-odeia-o-cris
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: 24H Friends
 categoria: 24 Horas
@@ -1753,7 +1724,6 @@ qualidade: HD · 1280x720
 canal: Discovery World
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
-qualidade: SD · 768x432
 
 fonte: https://dadinhodetapioca.fun/play/discoveryworld.html
 qualidade: FHD
@@ -1966,9 +1936,10 @@ canal: HGTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/hgtv.png
 
-fonte: https://dadinhodetapioca.fun/play/hgtv.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/83388f6af00a1e30e6a19d56af52fd76/hgtv.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/hgtv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: MTV
 categoria: Variedades
@@ -1981,8 +1952,10 @@ canal: A Fazenda 18 1
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda.txt
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/820fef4ff510e9724f894c3b408b9a93/afazenda.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/a-fazenda-18
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: A Fazenda 18 2
 categoria: PPV
@@ -2178,8 +2151,10 @@ qualidade: FHD
 canal: UFC Fight Pass
 categoria: PPV
 
-fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/184046.m3u8
-qualidade: FHD
+fonte: https://aws.s13-s1001604.lat/stream/08a88b58b4cce722ea16074fd446a37c/ufcfightpass.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/ufc-fight-pass
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Zoomoo
 categoria: Infantil
@@ -2475,8 +2450,10 @@ canal: Disney Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/disneyplus.png
 
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus1/disneyplus1.m3u8
-qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/2eecadabcdddd90849d70c752a70c0e0/disneyplus1.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/disney-plus
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Disney Plus 2
 categoria: Filmes e Séries
@@ -2511,6 +2488,7 @@ qualidade: HD
 canal: Prime Video 3
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/amazonprimevideo.png
+
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo3/primevideo3.m3u8
 qualidade: Qualidade não informada
 
@@ -2519,6 +2497,8 @@ categoria: Infantil
 
 fonte: https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 qualidade: SD · 640x360
+referer: https://meufut.top/anime-tv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Otaku Sign TV
 categoria: Infantil
@@ -2582,6 +2562,31 @@ categoria: TV Aberta
 fonte: https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 qualidade: HD · 1280x720
 referer: https://meufut.top/tv-a-critica
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: FIFA+ Português
+categoria: Esportes
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png
+
+fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+qualidade: SD
+
+canal: Viva
+categoria: Variedades
+logo: https://img.faz-o-eli.online/viva.png
+
+fonte: https://aws.s13-s1001604.lat/stream/5c26746b95e7ead7d92ec9b47d7f940f/viva.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/viva
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Comedy Central
+categoria: Variedades
+logo: https://img.faz-o-eli.online/comedycentral.png
+
+fonte: https://aws.s13-s1001604.lat/stream/9be6499402ccfdef84b540cb6d808fb7/comedycentral.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/comedy-central
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: A Caçadora de Relíquias
