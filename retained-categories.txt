@@ -1292,6 +1292,10 @@ canal: 24H Dragon Ball Z
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: https://aws.s13-s1001604.lat/stream/52e5b4e936ba314127ebe4742e6ae12f/24h_dragonball.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/dragon-ball-z
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_dragonball.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_dragonball/24h_dragonball.m3u8
@@ -1314,6 +1318,10 @@ canal: 24H Os Simpsons
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: https://aws.s13-s1001604.lat/stream/2efddc40d3e9b9d781d88441ec82e8ce/24h_simpsons.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/os-simpsons
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/135601.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169244.ts
@@ -1536,6 +1544,10 @@ canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
+fonte: https://aws.s13-s1001604.lat/stream/02bde299980d2c1a30e472930d0a76d8/24h_odeiachris.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/todo-mundo-odeia-o-cris
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/135469.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169249.ts

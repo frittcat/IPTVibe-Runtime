@@ -61,6 +61,7 @@
 #
 # referer, agente e chave pertencem à fonte imediatamente acima delas.
 # Linhas em branco e linhas começadas por # são ignoradas.
+
 canal: A&E
 categoria: Documentários
 logo: https://img.faz-o-eli.online/ae.png
@@ -81,9 +82,10 @@ canal: AMC
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/amc.png
 
-fonte: https://dadinhodetapioca.fun/play/amc.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/fbdd28d168262afd95a3e674aa6700e1/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Animal Planet
 categoria: Documentários
@@ -178,9 +180,10 @@ canal: History 2
 categoria: Documentários
 logo: https://img.faz-o-eli.online/history2.png
 
-fonte: https://dadinhodetapioca.fun/play/history2.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/e8896a70e4ebf34a094717dd81017502/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Jovem Pan News
 categoria: Notícias
@@ -204,9 +207,9 @@ canal: Multishow
 categoria: Variedades
 logo: https://i.imgur.com/bqVg8nT.png
 
-fonte: https://aws.s13-s1001604.lat/stream/20aa200451a750a1367af30f8268595a/multishow.m3u8
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/ca2e3cb72df24612d562f7a4d54176f0/error.txt
 qualidade: HD · 1280x720
-referer: https://meufut.top/multishow
+referer: https://w7.embedtv.cc/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Premiere 2
@@ -234,9 +237,10 @@ canal: Premiere 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
 
-fonte: https://dadinhodetapioca.fun/play/premiere5.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/d35136cc3ccb4d78f167178a28499fb5/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Premiere 6
 categoria: Esportes
@@ -302,17 +306,19 @@ canal: SporTV 2
 categoria: Esportes
 logo: https://i.imgur.com/pBiUnb2.png
 
-fonte: https://dadinhodetapioca.fun/play/sportv2.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/207a5a39bc92262c878f00c9544e28bb/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: SporTV 3
 categoria: Esportes
 logo: https://i.imgur.com/mWOR8pi.png
 
-fonte: https://dadinhodetapioca.fun/play/sportv3.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/9dd6d458d61b692b36cdf6a11e8bd1b1/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Canal OFF
 categoria: Esportes
@@ -325,25 +331,28 @@ canal: Telecine Action
 categoria: Filmes e Séries
 logo: https://i.imgur.com/BHYWG0h.png
 
-fonte: https://dadinhodetapioca.fun/play/telecineaction.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/843a09c4e54c060aa61cb944a3b25879/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Telecine Pipoca
 categoria: Filmes e Séries
 logo: https://i.imgur.com/hW9JYXr.png
 
-fonte: https://dadinhodetapioca.fun/play/telecinepipoca.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/3e88ab38091a82cbb68ac44e5f84e1b7/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Telecine Premium
 categoria: Filmes e Séries
 logo: https://i.imgur.com/uVFgIr8.png
 
-fonte: https://dadinhodetapioca.fun/play/telecinepremium.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/d15913708cbb1a1b4c793fdae700e207/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: TV Brasil
 categoria: TV Aberta
@@ -372,9 +381,10 @@ canal: Warner
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/warnerchannel.png
 
-fonte: https://dadinhodetapioca.fun/play/warnertv.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/c165fa7422aea312451ef202eabfc277/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: IMPD
 categoria: Variedades
@@ -407,8 +417,10 @@ canal: Cinemax
 categoria: Filmes e Séries
 logo: https://i.imgur.com/cZWoJWD.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.txt
-qualidade: Qualidade não informada
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/f707521cd7789b18fa9e79677d8e5644/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Discovery Channel
 categoria: Documentários
@@ -447,8 +459,10 @@ canal: ESPN 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn2.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn2.txt
-qualidade: Qualidade não informada
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/71add1104818cc89831db7dfee78b77e/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: ESPN 4
 categoria: Esportes
@@ -468,55 +482,64 @@ canal: ESPN 6
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn6.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn6.txt
-qualidade: Qualidade não informada
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/ac334a60225752fe9eb3c354aeb3cbe5/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo.png
 
-fonte: https://dadinhodetapioca.fun/play/hbo.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/b745e794fb790ffb524d36d324af64d9/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO2
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo2.png
 
-fonte: https://dadinhodetapioca.fun/play/hbo2.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/97fb2d060dd972f81241b86b2e60cc94/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO Family
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbofamily.png
 
-fonte: https://dadinhodetapioca.fun/play/hbofamily.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/f0682431a0bbc39f83ecabc69ec55cb4/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO Mundi
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbomundi.png
 
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomundi.txt
-qualidade: Qualidade não informada
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/ee1ce9bdb36688f00f0d1efa116ca81e/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO Plus
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hboplus.png
 
-fonte: https://dadinhodetapioca.fun/play/hboplus.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/67a04a692491d658166c746b3a91d147/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO Pop
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbopop.png
 
-fonte: https://dadinhodetapioca.fun/play/hbopop.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/2c8e3870d708ccea73d100c302d03b30/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: HBO Signature
 categoria: Filmes e Séries
@@ -554,9 +577,10 @@ canal: TNT
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tnt.png
 
-fonte: https://dadinhodetapioca.fun/play/tnt.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/20851ea4a2c137b11559f8bf05922558/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: TNT Séries
 categoria: Filmes e Séries
@@ -571,9 +595,9 @@ canal: Universal TV
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/universaltv.png
 
-fonte: https://aws.s13-s1001604.lat/stream/ed870f00aff7cf8192af3737e301669f/universaltv.m3u8
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/fae476dac633db9f5e93b2da127a04a8/error.txt
 qualidade: HD · 1280x720
-referer: https://meufut.top/universal-tv
+referer: https://w7.embedtv.cc/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Discovery Turbo
@@ -603,17 +627,19 @@ canal: Telecine Cult
 categoria: Filmes e Séries
 logo: https://i.imgur.com/6GuHXnr.png
 
-fonte: https://dadinhodetapioca.fun/play/telecinecult.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/09257fb4bf50ae2c2309abbb8ab3784a/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Telecine Touch
 categoria: Filmes e Séries
 logo: https://i.imgur.com/Nky0hRo.png
 
-fonte: https://dadinhodetapioca.fun/play/telecinetouch.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/698572cdd1d2d86ef342754c4b0563a9/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: SONY Movies
 categoria: Filmes e Séries
@@ -637,9 +663,8 @@ canal: Tooncast
 categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
 
-fonte: https://dadinhodetapioca.fun/play/tooncast.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: http://170.83.16.50:80/TOONCAST/index.m3u8
+qualidade: HD · 1280x720
 
 canal: TLC
 categoria: Variedades
@@ -797,9 +822,10 @@ canal: Discovery ID
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
-fonte: https://dadinhodetapioca.fun/play/discoveryid.html
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
+fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/d3ab4fe684be2ba18a8680ade6b4b25c/error.txt
+qualidade: HD · 1280x720
+referer: https://w7.embedtv.cc/
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Fish TV
 categoria: Esportes
@@ -1020,6 +1046,7 @@ referer: https://dadinhodetapioca.fun/
 
 canal: Canal Agro
 categoria: Variedades
+logo: https://img.faz-o-eli.online/canalrural.png
 
 fonte: http://45.162.64.114/AGRO_CANAL/index.m3u8
 qualidade: HD · 1280x720
@@ -1080,7 +1107,7 @@ canal: Bob Esponja Calça Quadrada
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/138065.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138065.m3u8
 qualidade: HD · 1280x962
 
 canal: Boruto: Naruto Next Generations
@@ -1146,6 +1173,7 @@ qualidade: FHD · 1920x1080
 
 canal: Cultura Fast
 categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/tv-cultura.png
 
 fonte: https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 qualidade: HD · 1280x720
@@ -1218,6 +1246,7 @@ qualidade: SD · 854x480
 
 canal: Nickelodeon
 categoria: Infantil
+logo: https://img.faz-o-eli.online/nickelodeon.png
 
 fonte: https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 qualidade: SD · 854x480
@@ -1268,14 +1297,14 @@ qualidade: HD · 1280x720
 
 canal: AEROPORTO AREA RESTRITA
 categoria: 24 Horas
-logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
+logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/150488.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/150488.m3u8
 qualidade: HD · 1280x720
 
 canal: FILHINHO DA MAMAE
 categoria: 24 Horas
-logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
+logo: https://img.faz-o-eli.online/24h.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/2945301.m3u8
 qualidade: HD · 1280x720
@@ -1368,6 +1397,7 @@ qualidade: FHD · 1920x1080
 
 canal: N Sports (Jogo 1)
 categoria: Esportes
+logo: https://img.faz-o-eli.online/nsports.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460254.m3u8
 qualidade: FHD · 1920x1080
@@ -1670,8 +1700,8 @@ canal: 24H Chaves
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/137139.m3u8
-qualidade: SD · 640x480
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_chaves.txt
+qualidade: Qualidade não informada
 
 canal: 24H Dragon Ball Z
 categoria: 24 Horas
@@ -1702,8 +1732,8 @@ canal: 24H Pica Pau
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/136821.m3u8
-qualidade: SD · 640x480
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_picapau.txt
+qualidade: Qualidade não informada
 
 canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
@@ -1718,8 +1748,8 @@ canal: 24H Friends
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/138814.m3u8
-qualidade: HD · 1280x720
+fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_friends.txt
+qualidade: Qualidade não informada
 
 canal: Discovery World
 categoria: Documentários
@@ -2043,14 +2073,14 @@ qualidade: FHD
 
 canal: DOG TV
 categoria: Variedades
-logo: http://tvonhdbr.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg
+logo: https://mondrian.claro.com.br/channels/inverse/dog-tv.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/178517.m3u8
 qualidade: 4K
 
 canal: Eurochannel
 categoria: Notícias
-logo: http://tvonhdbr.com/images/e319732e23a51cafb209d07c7a26c615.jpg
+logo: https://mondrian.claro.com.br/channels/inverse/eurochannel.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/104910.m3u8
 qualidade: FHD
@@ -2064,6 +2094,7 @@ qualidade: 4K
 
 canal: Film&Arts
 categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/filmarts.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/104914.m3u8
 qualidade: FHD
@@ -2077,12 +2108,14 @@ qualidade: HD
 
 canal: France 24
 categoria: Notícias
+logo: https://mondrian.claro.com.br/channels/inverse/france-24.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103500.m3u8
 qualidade: 4K
 
 canal: Markket
 categoria: Variedades
+logo: https://mondrian.claro.com.br/channels/inverse/markket.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/164026.m3u8
 qualidade: 4K
@@ -2110,12 +2143,14 @@ qualidade: FHD
 
 canal: SportyNet 4
 categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/184584.m3u8
 qualidade: FHD
 
 canal: SportyNet
 categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
 
 fonte: https://dadinhodetapioca.fun/play/sportynet.html
 qualidade: FHD
@@ -2123,14 +2158,14 @@ referer: https://dadinhodetapioca.fun/
 
 canal: Paramount + 4
 categoria: Variedades
-logo: http://tvonhdbr.com/images/a2297e25c35601bed705a676d70e41df.png
+logo: https://mondrian.claro.com.br/channels/inverse/paramount-network.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103521.m3u8
 qualidade: 4K
 
 canal: Paramount Channel
 categoria: Filmes e Séries
-logo: http://tvonhdbr.com/static/logos/canais/paramount.png
+logo: https://mondrian.claro.com.br/channels/inverse/paramount-network.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/72217.m3u8
 qualidade: FHD
@@ -2144,12 +2179,14 @@ qualidade: 4K
 
 canal: Sabor & Arte
 categoria: Variedades
+logo: https://mondrian.claro.com.br/channels/inverse/sabor-e-arte.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/112017.m3u8
 qualidade: FHD
 
 canal: UFC Fight Pass
 categoria: PPV
+logo: https://img.faz-o-eli.online/ufcfightpass.png
 
 fonte: https://aws.s13-s1001604.lat/stream/08a88b58b4cce722ea16074fd446a37c/ufcfightpass.m3u8
 qualidade: HD · 1280x720
@@ -2158,6 +2195,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: Zoomoo
 categoria: Infantil
+logo: https://img.faz-o-eli.online/zoomoo.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/178533.m3u8
 qualidade: 4K
@@ -2166,240 +2204,250 @@ canal: 101 Dalmatas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/137614.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137614.m3u8
 qualidade: HD · 1280x960
 
 canal: A Beleza Secreta dos Animais
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/138011.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138011.m3u8
 qualidade: HD · 1280x720
 
 canal: Aladdin
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/138730.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138730.m3u8
 qualidade: SD · 630x480
 
 canal: As Aventuras do Gato de Botas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/10eb05c9613316dfb3cb1a39efdf13e0.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/140528.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140528.m3u8
 qualidade: HD · 1280x720
 
 canal: Cameras Escondidas Silvio Santos
 categoria: 24 Horas
-logo: http://tvonhdbr.com/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg
+logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/152014.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/152014.m3u8
 qualidade: HD · 1280x720
 
 canal: Caverna do Dragao
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/135454.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135454.m3u8
 qualidade: HD · 1280x962
 
 canal: Chapolin Colorado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/138000.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138000.m3u8
 qualidade: HD · 960x720
 
 canal: Dois Homens e Meio
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/137623.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137623.m3u8
 qualidade: HD · 1280x720
 
 canal: Dora Aventureira
 categoria: 24 Horas
 logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j30WV7vDXXorlbdKEHgl74stDml.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/151949.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/151949.m3u8
 qualidade: HD · 1280x720
 
 canal: Dragon Ball Super - Saga Deus da Destruicao Bills
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/135484.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135484.m3u8
 qualidade: HD · 1280x720
 
 canal: Dragon Ball Super - Trunks do Futuro
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/135487.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135487.m3u8
 qualidade: HD · 1280x720
 
 canal: Escolinha do Professor Raimundo
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/151df67d8d15f1c0c39c7779f27935b6.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/137611.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137611.m3u8
 qualidade: SD · 594x456
 
 canal: Eu a Patroa e as Criancas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/138020.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138020.m3u8
 qualidade: HD · 1280x720
 
 canal: Game Shakers
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/138007.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138007.m3u8
 qualidade: HD · 1280x720
 
 canal: He Man e Os Defensores do Universo
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/135514.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135514.m3u8
 qualidade: SD · 704x574
 
 canal: Largados e Pelados
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/145928.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145928.m3u8
 qualidade: HD · 1280x720
 
 canal: Mestres da Sobrevivencia
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/401f441af8a5f5b0211c085d1d755d95.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/137129.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137129.m3u8
 qualidade: HD · 1280x720
 
 canal: Nicky Ricky Dicky e Dawn
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/145939.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145939.m3u8
 qualidade: HD · 1280x720
 
 canal: Um Maluco no Pedaco
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/135445.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135445.m3u8
 qualidade: HD · 1280x960
 
 canal: FCF TV 1
 categoria: PPV
+logo: https://mondrian.claro.com.br/channels/inverse/fcf-tv.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/247976.m3u8
-qualidade: FHD
+fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/247976.m3u8
+qualidade: FHD · 1920x1080
 
 canal: Carros Irado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2dd914ca34a6a1ad2bdbb727f3e51140.jpg
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/255224.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/255224.m3u8
 qualidade: HD · 1280x720
 
 canal: CNBC Brasil
 categoria: Notícias
+logo: https://mondrian.claro.com.br/channels/inverse/cnbc-brasil.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/295477.m3u8
 qualidade: FHD
 
 canal: Brasileirao Serie A
 categoria: Variedades
+logo: https://mondrian.claro.com.br/channels/inverse/brasileirao.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317063.m3u8
 qualidade: FHD
 
 canal: Andorra x Malta
 categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317686.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Portugal x País de Gales
 categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317690.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Áustria x Israel
 categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317691.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Kosovo x Irlanda
 categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317692.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Liechtenstein x Lituânia
 categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317693.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Informações em Breve
 categoria: Esportes
-logo: http://tvonhdbr.com/static/logos/canais/jogos.png
+logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317694.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Gladiadores da Natureza
 categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
 
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/371456.m3u8
+fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/371456.m3u8
 qualidade: FHD · 1920x1080
 
 canal: A Fazenda Cam 1
 categoria: Variedades
+logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397317.m3u8
 qualidade: FHD
 
 canal: A Fazenda Cam 2
 categoria: Variedades
+logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397320.m3u8
 qualidade: FHD
 
 canal: A Fazenda Cam 3
 categoria: Variedades
+logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397321.m3u8
 qualidade: FHD
 
 canal: A Fazenda Cam 4
 categoria: Variedades
+logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397322.m3u8
 qualidade: FHD
 
 canal: A Fazenda Cam 5
 categoria: Variedades
+logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397323.m3u8
 qualidade: FHD
 
 canal: A Fazenda Cam 6
 categoria: Variedades
+logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397324.m3u8
 qualidade: FHD
@@ -2434,14 +2482,14 @@ qualidade: HD · 1280x720
 
 canal: A FAZENDA 18 MOSAICO
 categoria: Variedades
-logo: https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png
+logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470067.m3u8
 qualidade: HD · 1280x720
 
 canal: CHAPOLIN
 categoria: 24 Horas
-logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
+logo: https://img.faz-o-eli.online/24h.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169216.m3u8
 qualidade: HD · 1280x720
@@ -2494,6 +2542,7 @@ qualidade: Qualidade não informada
 
 canal: Anime Channel TV
 categoria: Infantil
+logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
 
 fonte: https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 qualidade: SD · 640x360
@@ -2502,54 +2551,63 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: Otaku Sign TV
 categoria: Infantil
+logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
 
 fonte: https://stmv1.srvif.com/anime/anime/playlist.m3u8
 qualidade: SD · 1024x576
 
 canal: Geekdot
 categoria: Infantil
+logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
 
 fonte: https://stream.ichibansys.com:3764/hybrid/play.m3u8
 qualidade: HD · 1280x720
 
 canal: NBX TV Kids
 categoria: Infantil
+logo: https://img.faz-o-eli.online/gloobinho.png
 
 fonte: https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
 qualidade: FHD · 1920x1080
 
 canal: SBC Kids
 categoria: Infantil
+logo: https://www.tvlogo.org/brazil/box-kids-tv-br.png
 
 fonte: https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Rede Crianças
 categoria: Infantil
+logo: https://img.faz-o-eli.online/cartoonito.png
 
 fonte: https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Kuriakos Kids
 categoria: Infantil
+logo: https://img.faz-o-eli.online/discoverykids.png
 
 fonte: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Gospel Cartoon
 categoria: Infantil
+logo: https://www.tvlogo.org/brazil/box-kids-tv-br.png
 
 fonte: https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 qualidade: SD · 640x360
 
 canal: Jetsons TV
 categoria: Infantil
+logo: https://img.faz-o-eli.online/24h.png
 
 fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 qualidade: SD · 640x480
 
 canal: 24H Os Smurfs
 categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
 
 fonte: https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
 qualidade: HD · 1280x720
@@ -2558,6 +2616,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: TV A Crítica
 categoria: TV Aberta
+logo: https://mondrian.claro.com.br/channels/inverse/tv-a-critica.png
 
 fonte: https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 qualidade: HD · 1280x720
@@ -2566,7 +2625,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: FIFA+ Português
 categoria: Esportes
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png
+logo: https://mondrian.claro.com.br/channels/inverse/fifa.png
 
 fonte: https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 qualidade: SD
@@ -2588,6 +2647,97 @@ fonte: https://aws.s13-s1001604.lat/stream/9be6499402ccfdef84b540cb6d808fb7/come
 qualidade: HD · 1280x720
 referer: https://meufut.top/comedy-central
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: Globo Bahia
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globo.png
+
+fonte: http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Runtime Ação
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecineaction.png
+
+fonte: https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+qualidade: HD · 1280x720
+
+canal: DreamWorks
+categoria: Infantil
+logo: https://img.faz-o-eli.online/dreamworks.png
+
+fonte: https://origin-07.nxplay.com.br/DREAMWORKS/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Top TV
+categoria: Músicas
+logo: https://img.faz-o-eli.online/bis.png
+
+fonte: https://isaocorp.cloudecast.com/toptv/index.m3u8
+qualidade: FHD · 1920x1080
+
+canal: MovieSphere Brazil
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinefun.png
+
+fonte: https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Trace Urban
+categoria: Músicas
+logo: https://mondrian.claro.com.br/channels/inverse/trace-urban.png
+
+fonte: https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Sony One Classics
+categoria: Filmes e Séries
+logo: https://mondrian.claro.com.br/channels/inverse/sony-channel.png
+
+fonte: https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Classique Faroeste
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinecult.png
+
+fonte: https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Loading TV
+categoria: Infantil
+logo: https://mondrian.claro.com.br/channels/inverse/loading.png
+
+fonte: https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Retrô Cartoon
+categoria: Infantil
+logo: https://img.faz-o-eli.online/cartoonnetwork.png
+
+fonte: https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Retro Music
+categoria: Músicas
+logo: https://img.faz-o-eli.online/musicboxbrazil.png
+
+fonte: https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Now Rock
+categoria: Músicas
+logo: https://img.faz-o-eli.online/bis.png
+
+fonte: https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: TV Clássicos
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/telecinecult.png
+
+fonte: https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+qualidade: HD · 1280x720
 
 canal: A Caçadora de Relíquias
 categoria: 24 Horas

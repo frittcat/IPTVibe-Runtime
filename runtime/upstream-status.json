@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-17T18:50:56.960626+00:00",
-  "catalogCommit": "3853efa6de04031839776d79607d1fa15a34c099",
+  "checkedAt": "2026-10-17T21:28:40.317807+00:00",
+  "catalogCommit": "63d4345410cfbd90999e31bb9ffd0bdbb1d76ed4",
   "application": {
     "latestRelease": "v2.2.9",
     "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.9",
-    "androidCommit": "6f110156d6af7dd878f25858c9811e51665eff04",
+    "androidCommit": "70850ea5bcc62db6d5ffbd993b85fdd1be56f0dd",
     "reviewedCommit": "2aaafe3",
     "reviewRequired": true,
     "changedFiles": [
