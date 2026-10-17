@@ -2496,8 +2496,10 @@ canal: Paramount Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
 
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTkwLm0zdTg.m3u8
-qualidade: HD
+fonte: https://aws.s13-s1001604.lat/stream/a3039490692b08e47bbd910816bcd954/paramountplus.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/paramount-plus-1789450199
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: Paramount Plus 2
 categoria: Filmes e Séries
@@ -2565,6 +2567,22 @@ categoria: Infantil
 
 fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 qualidade: SD · 640x480
+
+canal: 24H Os Smurfs
+categoria: 24 Horas
+
+fonte: https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/the-smurfs-tv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TV A Crítica
+categoria: TV Aberta
+
+fonte: https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/tv-a-critica
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 
 canal: A Caçadora de Relíquias
 categoria: 24 Horas

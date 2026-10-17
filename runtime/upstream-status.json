@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-17T00:29:45.510079+00:00",
-  "catalogCommit": "906bf24eed89547e48288b86a83dcd74bc8a03aa",
+  "checkedAt": "2026-10-17T05:01:00.289214+00:00",
+  "catalogCommit": "5e2763d47205a0d5139ad15c9c2923b1a724c10d",
   "application": {
-    "latestRelease": "v2.2.5",
-    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.5",
-    "androidCommit": "21df8b035eed0291d851bfa277b5fd76f057a2db",
+    "latestRelease": "v2.2.8",
+    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.8",
+    "androidCommit": "d60de875b152f290f94d4b36c211414c773a6b76",
     "reviewedCommit": "2aaafe3",
     "reviewRequired": true,
     "changedFiles": [
@@ -49,6 +49,7 @@
       "app/src/main/java/br/com/saimo/tv/PainelRadio.kt",
       "app/src/main/java/br/com/saimo/tv/Playback.kt",
       "app/src/main/java/br/com/saimo/tv/PlayerActivity.kt",
+      "app/src/main/java/br/com/saimo/tv/Preferencias.kt",
       "app/src/main/java/br/com/saimo/tv/Progresso.kt",
       "app/src/main/java/br/com/saimo/tv/Pulos.kt",
       "app/src/main/java/br/com/saimo/tv/Radios.kt",
@@ -57,6 +58,7 @@
       "app/src/main/java/br/com/saimo/tv/SaimoApp.kt",
       "app/src/main/java/br/com/saimo/tv/Titulos.kt",
       "app/src/main/java/br/com/saimo/tv/TrackMenu.kt",
+      "app/src/main/java/br/com/saimo/tv/Upscaling.kt",
       "app/src/main/java/br/com/saimo/tv/Vod.kt",
       "app/src/main/java/br/com/saimo/tv/Vr.kt",
       "app/src/main/res/drawable-xhdpi/banner.png",
