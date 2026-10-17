@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-17T05:01:00.289214+00:00",
-  "catalogCommit": "5e2763d47205a0d5139ad15c9c2923b1a724c10d",
+  "checkedAt": "2026-10-17T09:22:15.708677+00:00",
+  "catalogCommit": "5328160095d29ce98a90f353d1caffdd2a5ac4db",
   "application": {
     "latestRelease": "v2.2.8",
     "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.2.8",

@@ -11232,3 +11232,11 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169255.ts
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169255.ts
 qualidade: Qualidade não informada
+
+canal: 24H Os Smurfs
+categoria: 24 Horas
+
+fonte: https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/the-smurfs-tv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
