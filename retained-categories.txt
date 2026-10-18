@@ -11131,7 +11131,7 @@ qualidade: Qualidade não informada
 
 canal: CHAPOLIN
 categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
+logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169216.m3u8
 qualidade: HD · 1280x720

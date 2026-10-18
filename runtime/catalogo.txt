@@ -340,10 +340,9 @@ canal: Telecine Pipoca
 categoria: Filmes e Séries
 logo: https://i.imgur.com/hW9JYXr.png
 
-fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/3e88ab38091a82cbb68ac44e5f84e1b7/error.txt
-qualidade: HD · 1280x720
-referer: https://w7.embedtv.cc/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+fonte: https://dadinhodetapioca.fun/play/telecinepipoca.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 
 canal: Telecine Premium
 categoria: Filmes e Séries
