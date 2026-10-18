@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-18T14:51:56.611408+00:00",
-  "catalogCommit": "f7cbd7793a8050bfe65632890163752d3ebb1fe1",
+  "checkedAt": "2026-10-18T18:06:16.763091+00:00",
+  "catalogCommit": "b4129eca8c791c1fadc133311696126479091e50",
   "application": {
-    "latestRelease": "v2.3.1",
-    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.3.1",
-    "androidCommit": "3cd76fa9537452596766740b8de1c5a2aebf0b0f",
+    "latestRelease": "v2.3.2",
+    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.3.2",
+    "androidCommit": "086830f9f5a0cf2ca725b203977ce0c0cd15bc94",
     "reviewedCommit": "2aaafe3",
     "reviewRequired": true,
     "changedFiles": [
@@ -31,6 +31,7 @@
       "app/src/main/java/br/com/saimo/tv/Epg.kt",
       "app/src/main/java/br/com/saimo/tv/EscolhaActivity.kt",
       "app/src/main/java/br/com/saimo/tv/EventosActivity.kt",
+      "app/src/main/java/br/com/saimo/tv/FontesDesativadas.kt",
       "app/src/main/java/br/com/saimo/tv/Generos.kt",
       "app/src/main/java/br/com/saimo/tv/GradeActivity.kt",
       "app/src/main/java/br/com/saimo/tv/GuiaDeTv.kt",
@@ -142,6 +143,7 @@
       "app/src/main/res/values/themes.xml",
       "app/src/main/resources/reserva/catalogo.txt",
       "app/src/main/resources/reserva/restritos.txt",
+      "app/src/test/java/br/com/saimo/tv/AmostraTest.kt",
       "app/src/test/java/br/com/saimo/tv/EpgDataTest.kt",
       "app/src/test/java/br/com/saimo/tv/FonteHerdadaTest.kt",
       "app/src/test/java/br/com/saimo/tv/PlutoGuiaTest.kt",
