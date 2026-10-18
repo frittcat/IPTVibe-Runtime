@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-18T06:37:11.125963+00:00",
-  "catalogCommit": "8d427742499b750136284d4cf05972177a823401",
+  "checkedAt": "2026-10-18T11:44:27.362189+00:00",
+  "catalogCommit": "5b7ce61013517accfae4da4ad30099598c2c6069",
   "application": {
-    "latestRelease": "v2.3.0",
-    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.3.0",
-    "androidCommit": "dd15594e9aa4a11e153feba098adcdbb4da6dbfe",
+    "latestRelease": "v2.3.1",
+    "releaseUrl": "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.3.1",
+    "androidCommit": "3cd76fa9537452596766740b8de1c5a2aebf0b0f",
     "reviewedCommit": "2aaafe3",
     "reviewRequired": true,
     "changedFiles": [
@@ -35,6 +35,7 @@
       "app/src/main/java/br/com/saimo/tv/GradeActivity.kt",
       "app/src/main/java/br/com/saimo/tv/GuiaDeTv.kt",
       "app/src/main/java/br/com/saimo/tv/GuideActivity.kt",
+      "app/src/main/java/br/com/saimo/tv/Historico.kt",
       "app/src/main/java/br/com/saimo/tv/Inicio.kt",
       "app/src/main/java/br/com/saimo/tv/Legendas.kt",
       "app/src/main/java/br/com/saimo/tv/ListaSemFuga.kt",
